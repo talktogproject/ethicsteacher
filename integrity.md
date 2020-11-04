@@ -8,7 +8,7 @@ It is about conducting research that is scientifically rigorous and trustworthy,
 
 > The scientific enterprise is built on a foundation of trust. Society trusts that scientific research results are an honest and accurate reflection of a researcher’s work. Researchers equally trust that their colleagues have gathered data carefully, have used appropriate analytic and statistical techniques, have reported their results accurately, and have treated the work of other researchers with respect.
 
-*On Being a Scientist: A Guide to Responsible Conduct in Research (2009), Committee on Science, Engineering, and Public Policy*
+Source: *On Being a Scientist: A Guide to Responsible Conduct in Research (2009), Committee on Science, Engineering, and Public Policy*
 
 Researchers should then:
 
@@ -17,7 +17,7 @@ Researchers should then:
 * take initiative in asking questions or raising concerns when issues arise
 * be transparent and accountable to their peers and their organization
 
-*adapted from the [University of Oxford Research Integrity Leaflet](https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/research_integrityv6_web.pdf)*
+Source: *Adapted from the [University of Oxford Research Integrity Leaflet](https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/research_integrityv6_web.pdf)*
 
 The responsibility to uphold research integrity rests not only on the individual researcher, but also on their colleagues, collaborators, universities and organizations, funding agencies, and the wider scientific community.
 
