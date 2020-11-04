@@ -14,11 +14,13 @@
 
 ### Course Structure
 
-1.	Asynchronous readings/presentations [2-3 hours]
-o	Readings and/or narrated presentations (saved as ppt or unlisted video on YouTube)
-o	Quiz(zes) via Qualtrics
-o	Case vignettes for self-study & preparation for discussion session
+1.	Asynchronous readings/presentations
 
-2.	Synchronous discussion [1-1.5 hours]
-o	Q&A: for clarifications & follow-up on asynchronous materials
-o	Case discussions 
+- Readings and/or narrated presentations
+- Quiz(zes) via Qualtrics
+- Case vignettes for self-study & preparation for discussion session
+
+2.	Synchronous discussion
+
+- Q&A: for clarifications & follow-up on asynchronous materials
+- Case discussions 
