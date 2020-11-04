@@ -20,10 +20,10 @@ This training is delivered with asynchronous (online course) and synchronous (li
 
 1. Online course *(1-2 hrs)*
 - Readings
-- Self-check quizzes
+- Self-reflection and quizzes
 - Case vignettes for self-study & preparation for discussion session
 2. Live discussion and Q&A *(1-1.5 hrs)*
 - Question & Answer: for clarifications & follow-up on asynchronous materials
 - Discussion of 3-4 case vignettes
 
-### [Click to begin](intro.md)
+### [Click to begin the online course](intro.md)
