@@ -42,5 +42,11 @@ Examples of research misconduct
 * Poor collaboration (e.g. authorship disputes)
 * Undisclosed conflicts of interest
 
+(according to...)
+
+Research misconduct is not only the product of malicious and devious actors. Mistakes and lapses happen in research projects.
+
+### When research goes global
+
 For collaborations between researchers in the Global North and Global South, it’s especially important to ensure that research is done equitably between partners
 - Ethics dumping 
