@@ -21,5 +21,5 @@ For example, here are ways that research integrity is upheld in the TalkTogether
 * We engage and will continue to engage with academic peers and practitioners through conferences, working groups, roundtable discussions, and peer reviewed publications.
 * We invite external academics, practitioners, and stakeholders to review our protocols and outputs.
 
-### NEXT: [Why the fuss? What can go wrong?](integrity-misconduct.md)
+### NEXT: [Why the fuss? What can go wrong? On research misconduct](integrity-misconduct.md)
 ### [Click to see the Course Navigation page](toc.md)
