@@ -1,3 +1,5 @@
+<img src="/img/TT-UP-TPF.png" style="display: block; margin: auto;">
+
 ## Welcome to the course
 
 There are many research ethics courses available. You may have received ethics training in previous courses or research projects. Our goal for this course is to train social science researchers who will collect data related to child development in low- to middle-income countries. In this area of research, you could be working directly with children, parents, teachers, school administrators, and members of local communities. You could be working in homes, schools, communities, or collecting data online. Whatever the case may be, it is important to conduct research in an ethical and responsible way.
