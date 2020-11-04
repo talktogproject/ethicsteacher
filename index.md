@@ -11,17 +11,17 @@
 
 ### Who is the course for?
 
--	Short-term: Research staff involved in the TalkTogether project (India & the Philippines)
+-	Short-term: TalkTogether research staff (IN & PH)
 -	Long-term: Any researcher conducting child research in low- to middle-income countries
 
 ### Course Structure
 
-1. Asynchronous readings/presentations
+1. Online course
 - Readings and/or narrated presentations
-- Quiz(zes) via Qualtrics
+- Self-check quizzes
 - Case vignettes for self-study & preparation for discussion session
-2. Synchronous discussion
-- Q&A: for clarifications & follow-up on asynchronous materials
-- Case discussions 
+2. Live discussion and Q&A
+- Question & Answer: for clarifications & follow-up on asynchronous materials
+- Discussion of 3-4 case vignettes
 
 ### [Click to begin](intro.md)
