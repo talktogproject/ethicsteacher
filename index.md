@@ -24,3 +24,5 @@
 
 - Q&A: for clarifications & follow-up on asynchronous materials
 - Case discussions 
+
+### <a href="http://talktogether.github.io/intro/">Click to begin</a>
