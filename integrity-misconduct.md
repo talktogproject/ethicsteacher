@@ -16,7 +16,7 @@ Examples of research misconduct are:
 
 * **Undisclosed conflicts of interest**
 
-> Here is [an example of a conflict of interest](https://researchsupport.admin.ox.ac.uk/governance/integrity/conflict/examples#collapse405516) from the Research Support office at The University of Oxford:<br/><br />"A researcher holds a position (for example as a director) in an enterprise that may wish to restrict or otherwise manage adverse research findings for commercial reasons"<br /><br />A researcher should aim to declare, manage, and/or avoid a potential or perceived conflict of interest.
+> Here is [an example of a conflict of interest](https://researchsupport.admin.ox.ac.uk/governance/integrity/conflict/examples#collapse405516) from the Research Support office at The University of Oxford:<br/><br />"A researcher holds a position (for example as a director) in an enterprise that may wish to restrict or otherwise manage adverse research findings for commercial reasons."<br /><br />A study from a researcher with a potential or perceived conflict of interest may be perceived as less trustworthy due to their financial or non-financial involvement in other commitments, especially when the conflict of interest is not declared, managed, or avoided by the researcher.
 
 * **'Gift' or 'ghost' authorships**
 
