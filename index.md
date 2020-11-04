@@ -3,6 +3,8 @@
 # RESEARCH INTEGRITY & ETHICS IN CHILD RESEARCH IN LOW- TO MIDDLE-INCOME COUNTRIES
 ## A TalkTogether training course
 
+### <p style="color:red">DISCLAIMER: Work in progress</p>
+
 ### Course objectives
 
 -	Develop essential knowledge of research integrity and ethics in studies involving young children in low- to middle-income countries
