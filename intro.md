@@ -9,6 +9,6 @@ TalkTogether is a UKRI-GCRF funded project from 2020-2022. It is an internationa
 - Data protection laws: [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
 - Guidelines for conducting international collaborations ethically: [Global Code of Conduct](https://www.globalcodeofconduct.org/)
 
-We think that the frameworks, guidelines, and laws above are useful for many places around the world. As you go through the course, it is useful to think about existing ethical guidelines and requirements in your local organization or legal system. In some places, there may even be few or no ethics frameworks in place. Nevertheless, it is our responsibility as researchers to conduct our work in an ethical and responsible way. 
+We think that the frameworks, guidelines, and laws above are useful for many places around the world. As you go through the course, it is useful to think about existing ethical guidelines and requirements in your local organization or legal system. In some places, there may even be few or no ethics frameworks in place. Nevertheless, it is our responsibility as researchers to conduct our work at the highest standard.
 
 ### [Click to go to Section 1: Research Integrity](integrity.md)
