@@ -30,7 +30,11 @@ Does your team, organization, academic field, and/or funder have clear policies 
 * Reporting research misconduct
 * Monitoring and evaluating progress in your research project
 
-### What can go wrong?
+Did you say 'yes' to all of the above? Do you know who is responsible for each of the points above? If not, then it is good to look for more information within your team, organization, or research field.
+
+For example, in the TalkTogether project, we obtain ethics clearance from each of the institutions involved. Currently, they are The Promise Foundation's ethics committee, and an ad-hoc ethics committee for the University of the Philippines - Diliman, and the [University of Oxford's CUREC](https://researchsupport.admin.ox.ac.uk/governance/ethics). Changes in the research protocol, if any, should be raised with the same ethics committees. Training for ethics and study protocols are conducted within the TalkTogether team, and [The University of Oxford provides guidance on how to report research misconduct through multiple channels](https://researchsupport.admin.ox.ac.uk/governance/integrity/misconduct#collapse390836). We have regular meetings and milestones meetings within the research team and with our research funder for monitoring and evaluation. Additionally, we invite external academics, practitioners, and stakeholders to review our protocols and outputs.
+
+### Why the fuss? What can go wrong?
 
 Examples of research misconduct
 * Data fabrication/falsification/misrepresentation
