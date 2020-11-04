@@ -14,13 +14,13 @@
 
 ### Course Structure
 
-1.	Asynchronous readings/presentations
+1. Asynchronous readings/presentations
 
 - Readings and/or narrated presentations
 - Quiz(zes) via Qualtrics
 - Case vignettes for self-study & preparation for discussion session
 
-2.	Synchronous discussion
+2. Synchronous discussion
 
 - Q&A: for clarifications & follow-up on asynchronous materials
 - Case discussions 
