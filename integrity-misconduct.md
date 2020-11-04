@@ -38,6 +38,6 @@ However, researchers are [more likely to admit that they or their colleagues hav
 
 ## NOTE: Quiz will be about this. Also considering a section about Questionable Research Practices ##
 
-### NEXT: [When research goes global: On ethics dumping](intergrity-global.md)
+### NEXT: [When research goes global: On ethics dumping](integrity-global.md)
 
 ### [Click to see the Course Navigation page](toc.md)
