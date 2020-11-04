@@ -22,4 +22,4 @@
 - Q&A: for clarifications & follow-up on asynchronous materials
 - Case discussions 
 
-### [Click to begin](https://talktogproject.github.io/ethics/intro)</a>
+### [Click to begin](intro.md)
