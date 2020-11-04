@@ -20,7 +20,7 @@ Here is an example of a conflict of interest from the [Research Support office a
 
 > A researcher holds a position (for example as a director) in an enterprise that may wish to restrict or otherwise manage adverse research findings for commercial reasons."
 
-A study from a researcher with a potential or perceived conflict of interest may be perceived as less trustworthy due to their financial or non-financial involvement in other commitments, especially when the conflict of interest is not declared, managed, or avoided by the researcher.
+A study by a researcher with a potential or perceived conflict of interest may be perceived as less trustworthy due to their financial or non-financial involvement in other commitments, especially when the conflict of interest is not declared, managed, or avoided by the researcher.
 
 * **'Gift' or 'ghost' authorships**
 
