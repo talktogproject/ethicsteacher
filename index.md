@@ -3,7 +3,7 @@
 # RESEARCH INTEGRITY & ETHICS IN CHILD RESEARCH IN LOW- TO MIDDLE-INCOME COUNTRIES
 ## A TalkTogether training course
 
-### <p style="color:#FF0000">DISCLAIMER: Work in progress</p>
+## THIS IS A WORK IN PROGRESS!!!!!
 
 ### Course objectives
 
