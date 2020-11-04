@@ -13,7 +13,7 @@ It is about conducting research that is scientifically rigorous and trustworthy,
 Researchers should then:
 
 [x] be aware of existing laws, codes of practice, policies, and publication rules in their field
-[x] acquire the necessary skills and training (including ethics training) that is applicable to their field
+[x] acquire the necessary skills and training (including ethics training) applicable to their field
 [x] take initiative in asking questions or raising concerns when issues arise
 [x] be transparent and accountable to their peers and their organization
 
