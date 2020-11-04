@@ -21,7 +21,6 @@
 This training is delivered with asynchronous (online course) and synchronous (live discussion and Q&A) elements.
 
 1. Online course *(2-3 hrs)*
-
 - Section I: Research Integrity
 - Section II: Research Ethics
 - Section III: Ethics from End to End
