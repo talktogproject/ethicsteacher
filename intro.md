@@ -1,3 +1,7 @@
+layout: page
+title: "Introduction"
+permalink: /intro
+
 There are many research ethics courses available, and you have likely received training in conducting ethical research in previous courses or research experiences. 
 Our goal for this course is to train social science researchers who will conduct fieldwork with children in low- to middle-income countries.
 
