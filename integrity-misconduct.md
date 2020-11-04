@@ -30,7 +30,7 @@ This article from [Nature Index](https://www.natureindex.com/news-blog/gift-ghos
 
 [insert description here]. We will return to these in Section 2.
 
-* **Improper dealing of misconduct allegations**
+* **Improper dealing with misconduct allegations**
 
 These involve attempts by individuals or institutions to cover-up research misconduct or silence whistleblowers. Knowing the true extent of research misconduct in research is difficult. Naturally, very few researchers [admit to committing research misconduct themselves](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738) and [complete and transparent reporting of misconduct investigations remains elusive, at least in the UK](https://www.nature.com/articles/d41586-018-05697-7).
 
