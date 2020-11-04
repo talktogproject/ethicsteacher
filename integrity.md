@@ -44,7 +44,9 @@ Examples of research misconduct
 
 (according to...)
 
-Research misconduct is not only the product of malicious and devious actors. Mistakes and lapses happen in research projects.
+Research misconduct does not only occur because of malicious and devious intent.
+
+Mistakes and lapses happen in research projects. What matters is how you respond when they occur. It is always best to be honest, transparent, and accountable.
 
 ### When research goes global
 
