@@ -8,7 +8,7 @@ TalkTogether is a UKRI-GCRF funded project from 2020-2022. It is an internationa
 
 Examples of 
 
-- Pledge for research integrity: [(Concordat for Research Integrity (Universities UK)](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Pages/the-concordat-for-research-integrity.aspx)
-- Ethics guidelines from professional societies: British Psychological Society; British Educational Research Association
-- Data protection laws: Guide to the General Data Protection Regulation (GDPR)
-- Guidelines for conducting international collaborations ethically: Global Code of Conduct
+- Pledge for research integrity: [Concordat for Research Integrity (Universities UK)](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Pages/the-concordat-for-research-integrity.aspx)
+- Ethics guidelines from professional societies: [British Psychological Society](https://www.bps.org.uk/sites/www.bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Ethics%20and%20Conduct%20%28Updated%20July%202018%29.pdf); [British Educational Research Association](https://www.bera.ac.uk/resources/all-publications/resources-for-researchers)
+- Data protection laws: [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
+- Guidelines for conducting international collaborations ethically: [Global Code of Conduct](https://www.globalcodeofconduct.org/)
