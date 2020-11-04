@@ -36,7 +36,7 @@ A study from a researcher with a potential or perceived conflict of interest may
 
 However, researchers are [more likely to admit that they or their colleagues have engaged in questionable research practices](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738).
 
-[consider section on QRPs]
+[consider section on QRPs, quiz can be not misconduct vs. QRP vs. clear misconduct?]
 
 ### NEXT: [When research goes global: On ethics dumping](intergrity-global.md)
 
