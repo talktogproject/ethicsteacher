@@ -12,9 +12,10 @@ For example, here are ways that research integrity is upheld in the TalkTogether
 * Changes in the research protocol, if any, should be raised with the same ethics committees listed above.
 * The University of Oxford provides [guidance on how to report research misconduct through multiple channels](https://researchsupport.admin.ox.ac.uk/governance/integrity/misconduct#collapse390836).
 
-**With funding agencies**
+**With funding and governing agencies**
 * We submit regular reports to our research funder UKRI for monitoring and evaluation. We have reported changes to the research programme as a result of the COVID-19 pandemic.
 * Our funders ESRC & UKRI publish their own frameworks for [research integrity](https://www.ukri.org/our-work/supporting-healthy-research-and-innovation-culture/research-integrity/) and [research ethics](https://esrc.ukri.org/funding/guidance-for-applicants/research-ethics/).
+* The UK Research Integrity Office published a [step-by-step manual for investigating allegations of research misconduct](http://ukrio.org/publications/misconduct-investigation-procedure/)
 
 **With the wider academic community**
 * We engage and will continue to engage with academic peers and practitioners through conferences, working groups, roundtable discussions, and peer reviewed publications.
