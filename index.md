@@ -18,7 +18,7 @@
 
 This training is delivered with asynchronous (online course) and synchronous (live discussion and Q&A) elements.
 
-1. Online course *(1-2 hrs)*
+1. Online course *(2-3 hrs)*
 - Readings
 - Self-reflection and quizzes
 - Case vignettes for self-study & preparation for discussion session
