@@ -1,5 +1,7 @@
 ## TalkTogether Course Navigation
 
+**[About the Course](index.md)**
+
 **[Introduction](intro.md)**
 
 **Section I: Research Integrity**
