@@ -4,7 +4,7 @@ According to the [Concordat for Research Integrity](https://www.universitiesuk.a
 
 > "characterised as behaviour or actions that fall short of the standards of ethics, research and scholarship required to ensure that the integrity of research is upheld."
 
-Examples of research misconduct are:
+Examples of research misconduct include:
 
 * **Data fabrication, falsification, or misrepresentation**
 
