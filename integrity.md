@@ -21,11 +21,12 @@ Researchers should then:
 
 The responsibility to uphold research integrity rests not only on the individual researcher, but also on their colleagues, collaborators, universities and organizations, funding agencies, and the wider scientific community.
 
-### Commitment to high standards of research integrity
-
-* Honesty, rigour, transparency, accountability, e.g. reporting research misconduct
-* Having clear policies & systems for ethics training & evaluating research, e.g. funders, institutions, professional organizations, research teams, and individual researchers are all responsible
-Following appropriate ethical, legal and professional frameworks, obligations, and standards, e.g. following relevant data protection laws (e.g. GDPR)
+### Think about this: Does your team, organization, academic field, and/or funder have clear policies and systems for:
+* Obtaining ethics clearance
+* Training researchers in ethics and study protocols
+* Reporting changes in research protocol
+* Reporting research misconduct
+* Monitoring and evaluating progress in your research project
 
 ### What can go wrong? Examples of research misconduct
 * Data fabrication/falsification/misrepresentation
