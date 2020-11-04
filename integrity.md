@@ -1,8 +1,8 @@
 ## Research Integrity
 
 Being an ethical researcher is not only about:
-[x] Submitting an ethics form
-[x] Making participants sign a consent form
+* Submitting an ethics form
+* Making participants sign a consent form
 
 It is about conducting research that is scientifically rigorous and trustworthy, as captured by the quote below:
 
@@ -12,10 +12,10 @@ It is about conducting research that is scientifically rigorous and trustworthy,
 
 Researchers should then:
 
-[x] be aware of existing laws, codes of practice, policies, and publication rules in their field
-[x] acquire the necessary skills and training (including ethics training) applicable to their field
-[x] take initiative in asking questions or raising concerns when issues arise
-[x] be transparent and accountable to their peers and their organization
+* be aware of existing laws, codes of practice, policies, and publication rules in their field
+* acquire the necessary skills and training (including ethics training) applicable to their field
+* take initiative in asking questions or raising concerns when issues arise
+* be transparent and accountable to their peers and their organization
 
 *adapted from the [University of Oxford Research Integrity Leaflet](https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/research_integrityv6_web.pdf)*
 
