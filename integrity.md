@@ -21,18 +21,22 @@ Researchers should then:
 
 The responsibility to uphold research integrity rests not only on the individual researcher, but also on their colleagues, collaborators, universities and organizations, funding agencies, and the wider scientific community.
 
-### Think about this: Does your team, organization, academic field, and/or funder have clear policies and systems for:
+### Something to think about:
+
+Does your team, organization, academic field, and/or funder have clear policies and systems for:
 * Obtaining ethics clearance
 * Training researchers in ethics and study protocols
 * Reporting changes in research protocol
 * Reporting research misconduct
 * Monitoring and evaluating progress in your research project
 
-### What can go wrong? Examples of research misconduct
+### What can go wrong?
+
+Examples of research misconduct
 * Data fabrication/falsification/misrepresentation
 * Intellectual property violations (e.g. plagiarism)
 * Poor collaboration (e.g. authorship disputes)
 * Undisclosed conflicts of interest
 
-3. For collaborations between researchers in the Global North and Global South, it’s especially important to ensure that research is done equitably between partners
+For collaborations between researchers in the Global North and Global South, it’s especially important to ensure that research is done equitably between partners
 - Ethics dumping 
