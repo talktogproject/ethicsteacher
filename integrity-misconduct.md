@@ -15,3 +15,5 @@ Mistakes and lapses happen in research projects. What matters is how you respond
 
 For collaborations between researchers in the Global North and Global South, it’s especially important to ensure that research is done equitably between partners
 - Ethics dumping 
+
+### [Click to see the Course Navigation page](toc.md)
