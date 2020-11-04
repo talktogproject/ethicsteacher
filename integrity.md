@@ -32,5 +32,5 @@ Does your team, organization, academic field, and/or funder have clear policies 
 
 Did you say 'yes' to all of the above? Do you know who is responsible for each of the points above? If not, then it is good to look for more information within your team, organization, or research field.
 
-### NEXT: [Example: How TalkTogether upholds research integrity](integrity-tt.md)
+### NEXT: [Example - How TalkTogether upholds research integrity](integrity-tt.md)
 ### [Click to see the Course Navigation page](toc.md)
