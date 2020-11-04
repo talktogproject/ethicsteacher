@@ -16,7 +16,7 @@ In an infamous case of scientific fraud, a social psychologist published papers 
 
 * **Undisclosed conflicts of interest**
 
-Here is [an example of a conflict of interest](https://researchsupport.admin.ox.ac.uk/governance/integrity/conflict/examples#collapse405516) from the Research Support office at The University of Oxford:
+Here is an example of a conflict of interest from the [Research Support office at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/integrity/conflict/examples):
 
 > A researcher holds a position (for example as a director) in an enterprise that may wish to restrict or otherwise manage adverse research findings for commercial reasons."
 
