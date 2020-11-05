@@ -12,4 +12,4 @@ TalkTogether is a UKRI-GCRF funded project from 2020-2022. It is an internationa
 We think that the frameworks, guidelines, and laws above are useful for many places around the world. They are generally congruent with local policies in our research sites. As you go through the course, it is useful to think about existing ethical guidelines and requirements in your local organization or legal system. In some places, there may even be few or no ethics frameworks in place. Nevertheless, it is our responsibility as researchers to conduct our work at the highest standard.
 
 ### NEXT: [Section 1 - Research Integrity](integrity.md)
-### [Click to see the Course Navigation page](toc.md)
+### [Click to view the Course Navigation page](toc.md)
