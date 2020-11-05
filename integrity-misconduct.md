@@ -6,7 +6,7 @@ According to the [Concordat for Research Integrity](https://www.universitiesuk.a
 
 Examples of research misconduct include:
 
-* **Data fabrication, falsification, or misrepresentation**
+* **Data fabrication or falsification**
 
 In an infamous case of scientific fraud, a social psychologist published papers using [data that he claimed he collected, but were suspected to be made up or modified to conform to his hypotheses](https://www.apa.org/science/about/psa/2011/12/diederik-stapel). Many papers had been retracted, and a report stated that the misconduct had negatively affected the careers of colleagues and graduate students who published with him.
 
@@ -34,5 +34,11 @@ Research studies involving human participants follow protocols to ensure that pa
 
 These involve attempts by individuals or institutions to cover-up research misconduct or silence whistleblowers. Knowing the true extent of research misconduct in research is difficult. Naturally, very few researchers [admit to committing research misconduct themselves](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738) and [complete and transparent reporting of misconduct investigations remains elusive, at least in the UK](https://www.nature.com/articles/d41586-018-05697-7).
 
-### NEXT: [It is not always clear-cut: Questionable Research Practices](integrity-qrp.md)
+### Questionable Research Practices
+
+Serious research misconduct, such as data fabrication, may be clear-cut. However, many unacceptable research practices often fall into the grey area of questionable research practices (QRPs). Whereas a meta-analysis found that an estimated 2% of researchers admitted to engaging in serious research misconduct, [more than 30% have reported engaging in questionable research practices](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738). The numbers are greater when reporting on colleagues' misconduct (14%) or QRPs (over 70%). 
+
+
+
+### NEXT: [When research goes global: On ethics dumping](integrity-global.md)
 ### [Click to view the Course Navigation page](toc.md)
