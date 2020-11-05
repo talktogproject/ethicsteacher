@@ -22,4 +22,4 @@ For example, here are ways that research integrity is upheld in the TalkTogether
 * We invite external academics, practitioners, and stakeholders to review our protocols and outputs.
 
 ### NEXT: [Why the fuss? What can go wrong? On research misconduct](integrity-misconduct.md)
-### [Click to see the Course Navigation page](toc.md)
+### [Click to view the Course Navigation page](toc.md)
