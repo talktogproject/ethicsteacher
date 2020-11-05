@@ -28,7 +28,7 @@ This article from [Nature Index](https://www.natureindex.com/news-blog/gift-ghos
 
 * **Confidentiality breaches, lack of consent, and personal data misuse**
 
-Research studies involving human participants follow protocols to ensure that participants know that they are joining a study, what the study is about, and what will happen to the information that they will provide. Lapses in protocol may result in research misconduct; for example, if a researcher shares the names and contact details of research participants to a third party (e.g., a government organization, a researcher from another research group/organization), or if participants are recruited without going through the appropriate consent procedures (e.g., a child in a community is tested on the spot without written or oral consent from a parent or caregiver). We will go into more detail in Sections 2 and 3.  
+Research studies involving human participants follow protocols to ensure that participants know that they are joining a study, what the study is about, and what will happen to the information that they will provide. Disregard for protocol may result in research misconduct; for example, if a researcher shares the names and contact details of research participants to a third party (e.g., a government organization, a researcher from another research group/organization), or if participants are recruited without going through the appropriate consent procedures (e.g., a child in a community is tested on the spot without written or oral consent from a parent or caregiver). We will go into more detail in Sections 2 and 3.  
 
 * **Improper dealing with misconduct allegations**
 
