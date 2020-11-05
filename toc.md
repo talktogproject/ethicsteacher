@@ -8,8 +8,9 @@
 1. [What is Research Integrity?](integrity.md)
 2. [Example: The TalkTogether Approach](integrity-tt.md)
 3. [Research Misconduct](integrity-misconduct.md)
-4. [International Collaborations and Ethics Dumping](integrity-global.md)
-5. Section I Quiz
+4. [Questionable Research Practices](integrity-qrp.md)
+5. [International Collaborations and Ethics Dumping](integrity-global.md)
+6. Section I Quiz
 
 **Section II: Research Ethics**
 1. Core Principles
