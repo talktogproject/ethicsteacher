@@ -28,16 +28,12 @@ This article from [Nature Index](https://www.natureindex.com/news-blog/gift-ghos
 
 * **Confidentiality breaches, lack of consent, and personal data misuse**
 
-We will go into more detail in Section 2.
+Research studies involving human participants follow protocols to ensure that participants know that they are joining a study, what the study is about, and what will happen to the information that they will provide. Lapses in protocol may result in research misconduct; for example, if a researcher shares the names and contact details of research participants to a third party (e.g., a government organization, a researcher from another research group/organization), or if participants are recruited without going through the appropriate consent procedures (e.g., a child in a community is tested on the spot without written or oral consent from a parent or caregiver). We will go into more detail in Sections 2 and 3.  
 
 * **Improper dealing with misconduct allegations**
 
 These involve attempts by individuals or institutions to cover-up research misconduct or silence whistleblowers. Knowing the true extent of research misconduct in research is difficult. Naturally, very few researchers [admit to committing research misconduct themselves](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738) and [complete and transparent reporting of misconduct investigations remains elusive, at least in the UK](https://www.nature.com/articles/d41586-018-05697-7).
 
-However, researchers are [more likely to admit that they or their colleagues have engaged in questionable research practices](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738). [further elaboration here]
-
-## NOTE: Quiz will be about this. Also considering a section about Questionable Research Practices ##
-
-### NEXT: [When research goes global: On ethics dumping](integrity-global.md)
+### NEXT: [It is not always clear-cut: Questionable Research Practices](integrity-qrp.md)
 
 ### [Click to see the Course Navigation page](toc.md)
