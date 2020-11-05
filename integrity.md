@@ -8,7 +8,7 @@ It is about conducting research that is scientifically rigorous and trustworthy,
 
 > The scientific enterprise is built on a foundation of trust. Society trusts that scientific research results are an honest and accurate reflection of a researcher’s work. Researchers equally trust that their colleagues have gathered data carefully, have used appropriate analytic and statistical techniques, have reported their results accurately, and have treated the work of other researchers with respect.
 
-Source: *On Being a Scientist: A Guide to Responsible Conduct in Research (2009), Committee on Science, Engineering, and Public Policy*
+Source: *[On Being a Scientist: A Guide to Responsible Conduct in Research (2009)](https://pubmed.ncbi.nlm.nih.gov/25009901/)*
 
 Researchers should then:
 
