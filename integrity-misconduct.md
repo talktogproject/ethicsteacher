@@ -8,11 +8,11 @@ Examples of research misconduct include:
 
 * **Data fabrication, falsification, or misrepresentation**
 
-In an infamous case of scientific fraud, a social psychologist published papers using [data that he claimed he collected, but were suspected to be entirely made up or modified (e.g., by changing participants' ratings) to conform to his hypotheses](https://web.archive.org/web/20160627142859/https://www.tilburguniversity.edu/upload/547aa461-6cd1-48cd-801b-61c434a73f79_interim-report.pdf). Many papers had been retracted, and a report stated that the misconduct had negatively affected the careers of colleagues and PhD students who published with him.
+In an infamous case of scientific fraud, a social psychologist published papers using [data that he claimed he collected, but were suspected to be made up or modified to conform to his hypotheses](https://www.apa.org/science/about/psa/2011/12/diederik-stapel). Many papers had been retracted, and a report stated that the misconduct had negatively affected the careers of colleagues and graduate students who published with him.
 
 * **Plagiarism**
 
-[According to the APA](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism), plagiarism "is the act of presenting the words, ideas, or images of another as your own; it denies authors or creators of content the credit they are due". An example is failing to cite the original article where a quote, idea, or image was first published. This also incldues self-plagiarism; for example, if an author publishes the same study in two different journals. There may be gray areas, such as minor citation errors, and students who publish peer-reviewed articles based on their thesis work. [Go to the APA Style website for more information](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism).
+[According to the APA](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism), plagiarism "is the act of presenting the words, ideas, or images of another as your own; it denies authors or creators of content the credit they are due". An example is failing to cite the original article where a quote, idea, or image was first published. This also incldues self-plagiarism; for example, if an author publishes the same study in two different journals. There may be grey areas and acceptable uses of previous work, such as minor citation errors, and students who publish peer-reviewed articles based on their thesis work. [Go to the APA Style website for more information](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism).
 
 * **Undisclosed conflicts of interest**
 
@@ -20,7 +20,7 @@ Here is an example of a conflict of interest from the [Research Support office a
 
 > A researcher holds a position (for example as a director) in an enterprise that may wish to restrict or otherwise manage adverse research findings for commercial reasons."
 
-A study by a researcher with a potential or perceived conflict of interest may be perceived as less trustworthy due to their financial or non-financial involvement in other commitments, especially when the conflict of interest is not declared, managed, or avoided by the researcher.
+Let's say that a researcher co-owns a company that sells educational products designed to improve children's learning outcomes. The researcher then publishes a study wherein she evaluated the effectiveness of using these products. This study may be perceived as less objective or trustworthy because the researcher has a financial incentive for showing that the product works. In this case, the conflict of interest should be [declared, managed, or avoided by the researcher](https://www.hra.nhs.uk/media/documents/nreap04-guidance-national-research-ethics-advisors-panel-13-february-2012.pdf).
 
 * **'Gift' or 'ghost' authorships**
 
@@ -28,7 +28,7 @@ This article from [Nature Index](https://www.natureindex.com/news-blog/gift-ghos
 
 * **Confidentiality breaches, lack of consent, and personal data misuse**
 
-[insert description here]. We will return to these in Section 2.
+We will go into more detail in Section 2.
 
 * **Improper dealing with misconduct allegations**
 
