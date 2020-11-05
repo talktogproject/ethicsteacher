@@ -1,6 +1,6 @@
-## International Collaboration and Ethics Dumping
+## International Collaborations and Ethics Dumping
 
-International research collaborations, on the other hand, can lead to a meaningful exchange of knowledge and skills between partners. On the other hand, partnerships between institutions in the so-called Global North and the Global South can also be inequitable, or worse, exploitative.
+International research collaborations, on the one hand, can lead to a meaningful exchange of knowledge and skills between partners. On the other hand, partnerships between institutions in the so-called Global North and the Global South can also be inequitable, or worse, exploitative.
 
 There is a risk of 'ethics dumping'--exporting unethical ethics practices to low- to middle-income countries--as described below:
 
