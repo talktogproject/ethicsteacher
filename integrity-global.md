@@ -1,3 +1,11 @@
+# SECTION I: Research Integrity
+
+1. [What is Research Integrity?](integrity.md)
+2. [Example: The TalkTogether Approach](integrity-tt.md)
+3. [Research Misconduct](integrity-misconduct.md)
+4. **International Collaborations and Ethics Dumping**
+5. [Section I Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_8wFuwjJJSM46aIl) * password required
+
 ## International Collaborations and Ethics Dumping
 
 International research collaborations, on the one hand, can lead to a meaningful exchange of knowledge and skills between partners. On the other hand, partnerships between institutions in the so-called Global North and the Global South can also be inequitable, or worse, exploitative.
