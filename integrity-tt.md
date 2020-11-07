@@ -1,3 +1,11 @@
+# SECTION I: Research Integrity
+
+1. [What is Research Integrity?](integrity.md)
+2. **Example: The TalkTogether Approach**
+3. [Research Misconduct](integrity-misconduct.md)
+4. [International Collaborations and Ethics Dumping](integrity-global.md)
+5. [Section I Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_8wFuwjJJSM46aIl) * password required
+
 ### Example: The TalkTogether approach
 
 For example, here are ways that research integrity is upheld in the TalkTogether team at different levels:
