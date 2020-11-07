@@ -29,4 +29,4 @@ This training is delivered with asynchronous (online course) and synchronous (li
 - Question & answer
 - Discussion of 3-4 case vignettes
 
-### [Click to begin the online course](intro.md)
+## [Click to begin the online course](intro.md)
