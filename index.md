@@ -29,5 +29,5 @@ This training is delivered with asynchronous (online course) and synchronous (li
 - Question & answer
 - Discussion of 3-4 case vignettes
 
-## LET'S GO: [Click to begin the online course](intro.md)
+## LET'S GO! [Click to begin the online course](intro.md)
 ### [Click to view the Course Navigation page](toc.md)
