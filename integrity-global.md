@@ -25,7 +25,9 @@ The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was establish
 
 * Honesty
 
-[Read the full code of conduct through this link](https://www.globalcodeofconduct.org/wp-content/uploads/2018/05/Global-Code-of-Conduct-Brochure.pdf)
+[Read the full code of conduct through this link](https://www.globalcodeofconduct.org/wp-content/uploads/2018/05/Global-Code-of-Conduct-Brochure.pdf).
+
+As you can see, the research community has taken great care to establish frameworks and guidance to 
 
 ### [Take the Section I Quiz](quiz1.md)
 ### [Click to view the Course Navigation page](toc.md)
