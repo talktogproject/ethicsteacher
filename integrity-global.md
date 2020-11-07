@@ -48,5 +48,5 @@ As you can see, the research community has done a great deal to establish what w
 
 Before we proceed, let's check what you've learned so far with a quiz:
 
-## NEXT: [Take the Section I Quiz on Qualtrics](quiz1.md)
+## NEXT: [Take the Section I Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_8wFuwjJJSM46aIl)
 ### [Click to view the Course Navigation page](toc.md)
