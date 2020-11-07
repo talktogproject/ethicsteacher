@@ -1,6 +1,6 @@
 # SECTION I: Research Integrity
 
-1. What is Research Integrity?
+1. **What is Research Integrity?**
 2. [Example: The TalkTogether Approach](integrity-tt.md)
 3. [Research Misconduct](integrity-misconduct.md)
 4. [International Collaborations and Ethics Dumping](integrity-global.md)
