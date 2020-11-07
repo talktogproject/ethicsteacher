@@ -16,6 +16,6 @@
 2. Before Data Collection
 3. During Data Collection
 4. After Data Collection
-5. Section III Quiz
+5. Section II Quiz (on Qualtrics)
 
 **Section III: Case Vignettes**
