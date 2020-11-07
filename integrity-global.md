@@ -27,7 +27,9 @@ The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was establish
 
 [Read the full code of conduct through this link](https://www.globalcodeofconduct.org/wp-content/uploads/2018/05/Global-Code-of-Conduct-Brochure.pdf).
 
-As you can see, the research community has taken great care to establish frameworks and guidance to 
+As you can see, the research community has done a great deal to establish what we must expect from each other as researchers, wherever we are in the world. In the next section, we will take a closer look at how ethics is applied to every stage of the research process.
+
+Before we proceed, let's check what you've learned so far with a quiz:
 
 ### [Take the Section I Quiz](quiz1.md)
 ### [Click to view the Course Navigation page](toc.md)
