@@ -12,7 +12,7 @@
 5. Section I Quiz
 
 **Section II: Ethics from End to End**
-1. Core Principles
+1. [Core Principles](endto.md)
 2. Before Data Collection
 3. During Data Collection
 4. After Data Collection
