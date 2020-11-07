@@ -1,3 +1,11 @@
+# SECTION I: Research Integrity
+
+1. [What is Research Integrity?](integrity.md)
+2. [Example: The TalkTogether Approach](integrity-tt.md)
+3. **Research Misconduct**
+4. [International Collaborations and Ethics Dumping](integrity-global.md)
+5. [Section I Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_8wFuwjJJSM46aIl) * password required
+
 ## Research misconduct
 
 According to the [Concordat for Research Integrity](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2012/the-concordat-to-support-research-integrity-2012.pdf), research misconduct is:
