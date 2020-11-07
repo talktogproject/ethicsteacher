@@ -1,3 +1,4 @@
+# SECTION I: Research Integrity
 ## What is Research Integrity?
 
 Being an ethical researcher is not only about:
