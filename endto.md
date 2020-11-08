@@ -50,9 +50,9 @@ Researchers are responsible for:
 - Ensuring that participants are not put at greater risk than they normally experience in daily life.
 - Minimizing the power difference between the researcher and the participant.
 
-These principles are essential to any research involving humans, especially those who are especially vulnerable, such as children. Knowing these principles is one thing, but incorporating them into the research process is another.
+These principles are essential to any research involving humans, especially those who are especially vulnerable, such as children. Knowing these principles is one thing but putting them into practice is another. 
 
-In the next sections, we'll walk you through different stages of research before, during, after data collection so you can visualise the practical application of these principles in any study, especially with children.
+In the following sections, we'll walk you through different stages of research before, during, after data collection. This will serve as a practical guide that you can following for any study involving humans, especially with children.
 
 ## NEXT: [Good planning is key: Ethics before data collection](endto-before.md)
 ### [Click to view the Course Navigation page](toc.md)
