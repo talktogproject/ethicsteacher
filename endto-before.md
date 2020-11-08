@@ -8,5 +8,5 @@
 
 ## Core Principles
 
-## NEXT: [On the field: Ethics during data collection](endto-during.md)
+## NEXT: [In the field: Ethics during data collection](endto-during.md)
 ### [Click to view the Course Navigation page](toc.md)
