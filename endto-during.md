@@ -12,5 +12,7 @@ If you [planned your study well](endto-before.md), then the procedures to recrui
 
 Unfortunately, it is possible that things might not go as planned. 
 
+## After Data Collection
+
 ## NEXT: [Research data management: Ethics after data collection](endto-after.md)
 ### [Click to view the Course Navigation page](toc.md)
