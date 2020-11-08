@@ -54,5 +54,7 @@ Behaviours that have been classified by some authors [[1](https://link.springer.
 
 Research misconduct and questionable research practices [lead to a number of consequences](https://link.springer.com/article/10.1007%252FPL00022268); such as wasting research funding, decreasing the trustworthiness of research and researchers, and in the case of child research, perhaps misdirecting policy decisions and future public funding.
 
+Currently, there are great initiatives to improve transparency and accuracy in research, such as [pre-registration](https://www.cos.io/initiatives/prereg), [registered reports](https://www.cos.io/initiatives/registered-reports), and [the open sharing of data sets and research materials](https://www.cos.io/initiatives/badges). These open science practices are increasingly being adopted with the aim to make research more rigorous and trustworthy.  
+
 ## NEXT: [When research goes global: On ethics dumping](integrity-global.md)
 ### [Click to view the Course Navigation page](toc.md)
