@@ -12,6 +12,10 @@ If you [planned your study well](endto-before.md), then the procedures to recrui
 
 Unfortunately, it is possible that things might not go as planned. 
 
+### Ongoing consent and renewal of consent
+
+Some research designs require...
+
 ## After Data Collection
 
 ## NEXT: [Research data management: Ethics after data collection](endto-after.md)
