@@ -28,7 +28,7 @@ Poor planning can result in a breach of ethics. It is important to remember that
 
 * * *
 #### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
-Securing ethics approval is a way to show that your study had been evaluated by independent reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- to middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
+Securing ethics approval is a way to show that your study had been evaluated by impartial reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- to middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
 * * *
 
 2. **Prepare your ethics application**
