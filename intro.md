@@ -5,7 +5,7 @@ There are many research ethics courses available online and offline. You may hav
 TalkTogether is a UKRI-GCRF funded project from 2020-2022. It is an international collaboration among several institutions including the University of Oxford, The Promise Foundation Bangalore, and the University of the Philippines - Diliman. In this project, we are adopting a number of frameworks, guidelines, and laws originally formulated in the UK and Europe, as listed below: 
 
 - Pledge for research integrity: [Concordat for Research Integrity (Universities UK)](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Pages/the-concordat-for-research-integrity.aspx)
-- Ethics guidelines from professional societies: [British Psychological Society](https://www.bps.org.uk/sites/www.bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Ethics%20and%20Conduct%20%28Updated%20July%202018%29.pdf); [British Educational Research Association](https://www.bera.ac.uk/resources/all-publications/resources-for-researchers)
+- Ethics guidelines from professional societies: [British Psychological Society](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf); [British Educational Research Association](https://www.bera.ac.uk/resources/all-publications/resources-for-researchers)
 - Data protection laws: [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
 - Guidelines for conducting international collaborations ethically: [Global Code of Conduct](https://www.globalcodeofconduct.org/)
 
