@@ -10,14 +10,14 @@
 
 ### **Planning your research study**
 
-1. 
+1. **xx**
 
 * * * 
 #### How this supports the BPS ethics principle of _scientific integrity_
 A carefully-designed study based on a good understanding of theory and method.
 * * *
 
-2. Having a research data management plan
+2. **Having a research data management plan**
 
 * * *
 #### How this supports the BPS ethics principle of _respect_
