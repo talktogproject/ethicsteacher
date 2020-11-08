@@ -8,5 +8,5 @@
 
 ## Core Principles
 
-## NEXT: [Good planning is key: Ethics before data collection](endto-during.md)
+## NEXT: [On the field: Ethics during data collection](endto-during.md)
 ### [Click to view the Course Navigation page](toc.md)
