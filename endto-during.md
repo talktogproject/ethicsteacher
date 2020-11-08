@@ -14,9 +14,19 @@ If you [planned your study well](endto-before.md), then the procedures to recrui
 
 Unfortunately, it is possible that things might not go as planned. 
 
+* * *
+#### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
+xxx
+* * *
+
 ### Ongoing consent and renewal of consent
 
 Some research designs require...
+
+* * *
+#### How this supports the BPS ethics principle of _respect_
+xxx
+* * *
 
 ## NEXT: [Research data management: Ethics after data collection](endto-after.md)
 ### [Click to view the Course Navigation page](toc.md)
