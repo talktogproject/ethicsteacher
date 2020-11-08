@@ -34,7 +34,7 @@ Let's say that a researcher co-owns a company that sells educational products de
 
 This article from [Nature Index](https://www.natureindex.com/news-blog/gift-ghost-authorship-what-researchers-need-to-know) described instances when a co-author is added to the publication list even when they had little to no contribution to the work, e.g., due to the co-author's senior position in an institution or as a way to boost a researcher's CV. On the other hand, ghost authors are those who substantially contributed to the work but were excluded from gaining credit. [Journal publishers](https://www.nature.com/nature-research/editorial-policies/authorship) and [universities](https://researchsupport.admin.ox.ac.uk/governance/integrity/publication#collapse1310156) publish guidelines to clarify what counts as authorship in research work.
 
-* **Confidentiality breaches, lack of consent, and personal data misuse**
+* **Lapses from accepted research practices or protocols**
 
 Research studies involving human participants follow protocols to ensure that participants know that they are joining a study, what the study is about, and what will happen to the information that they will provide. Disregard for protocol may result in research misconduct; for example, if a researcher shares sensitive information about research participants (e.g., identifying information, health conditions) to a third party (e.g., a government organization, a researcher from another research group/organization), or if participants are recruited without going through the appropriate consent procedures (e.g., a child in a community is tested on the spot without written or oral consent from a parent or caregiver). We will go into more detail in Sections 2 and 3.  
 
