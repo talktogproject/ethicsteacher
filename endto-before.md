@@ -11,7 +11,8 @@
 **Planning your research study**
 
 * * * 
-How this supports the ethics principle of scientific integrity: A carefully-designed study based on a good understanding of theory and method.
+### How this supports the BPS ethics principle of _scientific integrity_
+A carefully-designed study based on a good understanding of theory and method.
 * * *
 
 **Securing ethics clearance**
@@ -26,7 +27,8 @@ Poor planning can result in a breach of ethics. It is important to remember that
 - *Be early.* Be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees could meet every month, every few months, or when necessary or needed (as in the case of ad hoc committees). The situation varies in every institution and there can be periods in time when committees receive a higher number of submissions than usual.
 
 * * *
-How this supports the BPS ethics principle of scientific integrity and social responsibility: Securing ethics approval is a way to show that your study had been evaluated by independent reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- to middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
+### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
+Securing ethics approval is a way to show that your study had been evaluated by independent reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- to middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
 * * *
 
 2. **Prepare your ethics application**
@@ -38,13 +40,13 @@ Different ethics committees have different requirements. Typically, ethics commi
 - *Data protection.*
 
 * * *
-How this supports the BPS ethics principle of respect:
+### How this supports the BPS ethics principle of _respect_
 * * *
 
 - *Risk assessment and management.*
 
 * * *
-How this supports the BPS ethics principle of maximising benefit and minimising harm:
+### How this supports the BPS ethics principle of _maximising benefit and minimising harm_
 * * *
 
 ## NEXT: [In the field: Ethics during data collection](endto-during.md)
