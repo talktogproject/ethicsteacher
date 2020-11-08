@@ -28,5 +28,14 @@ Some research designs require...
 xxx
 * * *
 
+### Good study documentation and data management 
+
+Some research designs require...
+
+* * *
+#### How this supports the BPS ethics principle of _scientific integrity_ and _respect_
+xxx
+* * *
+
 ## NEXT: [Research data management: Ethics after data collection](endto-after.md)
 ### [Click to view the Course Navigation page](toc.md)
