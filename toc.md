@@ -19,4 +19,4 @@
 5. [Section II Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH) *password required*
 
 **Section III: Live discussion and Q&A**
-- [Instructions for Live Discussion and Q&A](discussion.md)
+1. [Instructions for Live Discussion and Q&A](discussion.md)
