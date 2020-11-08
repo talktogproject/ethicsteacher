@@ -14,7 +14,7 @@ As stated in the [British Psychological Association (BPS) Code of Human Research
 
 Because child research almost always involves research with human participants, we adopt four principles outlined by BPS; namely:
 
-**Respect for the autonomy, privacy and dignity of individuals and communities**
+### **Respect for the autonomy, privacy and dignity of individuals and communities**
 
 > Researchers "have a responsibility to develop and follow procedures for valid consent, confidentiality, anonymity, fair treatment and due process that are consistent with those rights." (p. 8)
 
@@ -23,7 +23,7 @@ These can be achieved by:
 - Ensuring that research participation is voluntary before, during, and even after data is collected.
 - Ensuring that participants' personal identity is kept private and that datasets are anonymised.
 
-**Scientific integrity**
+### **Scientific integrity**
 
 > "Research should be designed, reviewed and conducted in a way that ensures its quality, integrity and contribution to the development of knowledge and understanding." (p. 9)
 
@@ -32,7 +32,7 @@ Researchers should then ensure that:
 - The aims of the research are transparent.
 - Potential risks of harm and protocols to reduce or avoid harm are carefully considered. 
 
-**Social responsibility**
+### **Social responsibility**
 
 > "a shared collective duty for the welfare of human and non-human beings, both within the societies in which psychology researchers live and work, and beyond them, must be acknowledged by those conducting the research" (p. 10)
 
@@ -41,7 +41,7 @@ Researchers must:
 - Collaborate with colleagues, participants, and others.
 - Be aware of their own professional and personal limitations.
 
-**Maximising benefit and minimising harm**
+### **Maximising benefit and minimising harm**
 
 > psychologists should consider all research from the standpoint of the research participants, and anyother persons, groups or communities who may be potentially affected by the research, with the aim of avoiding potential risks topsychological well-being, mental health, personal values, the invasion of privacy or dignity. (p. 11)
 
