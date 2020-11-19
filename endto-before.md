@@ -63,6 +63,8 @@ However, some ethics committees or local authorities might be strict with their 
 
 - *Right to withdraw*
 
+Researchers must make it clear to participants that they have the right to withdraw themselves, their children, or their data from the study.
+
 - *Maintaining confidentiality & data privacy*
 
 * * *
