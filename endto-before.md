@@ -42,7 +42,7 @@ Here are some steps that a responsible researcher would normally take to get eth
 - *Know what kind of ethics application should be made.* Many institutions differentiate between ethics applications that qualify for a quicker application process if the research qualifies as 'minimal risk'. For research with children, institutions normally require a 'full review' as they are considered a 'vulnerable group'.
 
 * * *
-#### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
+#### How this supports the BPS ethics principles of _scientific integrity_ and _social responsibility_
 Securing ethics approval is a way to show that your study had been evaluated by objective reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- to middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
 * * *
 
@@ -93,19 +93,19 @@ Many universities have templates for participant information sheets and consent 
 Check if your research group, organization, or ethics committee have required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
 
 * * *
-#### How this supports the BPS ethics principle of _respect_ and _maximising benefit and minimising harm_
+#### How this supports the BPS ethics principles of _respect_ and _maximising benefit and minimising harm_
 Although a lot of information needs to be given to participants, this ensures that participants know exactly what they are participating in and they can make an informed decision to participate in the study or not. Making sure that complete information is given to adults in low literacy or disadvantaged communities in language that is understandable and non-patronizing, and that children have the opportunity to give assent, ensures that every individual is treated with respect regardless of who they are. Following these procedures minimize harm by reducing the chance of exploitation or deceiving people into participating in research with incomplete or inaccurate information about the study and their rights as participants.
 * * *
 
 #### 3. **Submitting your ethics application**
 
-It is important to remember that (1) data collection should not begin before ethics approval is received and (2) ethics approval should not be sought retroactively or after a study has been completed. To avoid any issues, be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees could meet every month, every few months, or when necessary or needed (as in the case of ad hoc committees). The situation varies in every institution and there can be periods in time when committees receive a higher number of submissions than usual.
+It is important to remember that (1) data collection should not begin before ethics approval is received and (2) ethics approval should not be sought retroactively or after a study has been completed. To avoid such problems, be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees could meet every month, every few months, or when necessary or needed (as in the case of ad hoc committees). The situation varies in every institution and there can be periods in time when committees receive a higher number of submissions than usual.
 
-In the best case scenario, the ethics committee will approve your study and you may begin collecting data. In some cases, the ethics committee might send feedback or request revisions before they give formal approval. In the worst case scenario, the ethics application is rejected and the researcher needs to start all over again. It is really important to plan your research extensively and prepare a well-written and well-justified ethics application. 
+In the best case scenario, the ethics committee will approve your study and you may begin collecting data. In some cases, the ethics committee might send feedback or request revisions before they give formal approval. In the worst case scenario, the ethics application is rejected and the researcher needs to start all over again. Therefore, it is really important to plan your research extensively and prepare a well-written and well-justified ethics application. 
 
 ##### Changes in research protocol
 
-Sometimes, you realize that some things in your plan are not working or need to be changed. Sometimes the changes are major, such as. Sometimes they are minor, such as. It is good practice to 
+Sometimes, you realize that some things in your plan are not working or need to be changed. Sometimes the changes are significant, such as changing the method of investigating the research question or completely changing the type of participants to be recruited. Often the changes are minor, such as minor corrections in the consent documents. When large changes are made, it is good to contact your ethics committee about the changes to know if these are acceptable or if these require a new ethics application. When you are unsure if a change is significant enough, the safe thing to do is to contact the ethics committee for their advice.
 
 * * *
 #### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
