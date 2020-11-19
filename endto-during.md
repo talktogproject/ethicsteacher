@@ -10,15 +10,6 @@
 
 If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow. Research staff or students doing data collection are adequately trained to carry out the study, and protocols are in place to make sure that study implementation proceeds smoothly.
 
-### Changes in research protocol
-
-Unfortunately, it is possible that things might not go as planned. 
-
-* * *
-#### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
-xxx
-* * *
-
 ### Ongoing consent and renewal of consent
 
 Some research designs require...
