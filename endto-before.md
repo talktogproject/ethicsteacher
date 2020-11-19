@@ -8,10 +8,6 @@
 
 ## Planning Your Study
 
-### **Is it research?**
-
-Research... requires an ethics review.
-
 ### **Writing a research plan**
 
 The best way to ensure that a study is carried out with the highest standards of research integrity and ethics is to have a clear research plan. A clear research plan is informed by a review of the literature, identifies specific research questions, and lays out a plan for answering these questions. Researchers have many opportunities to write down their research plan. It can be part of a grant application, a thesis proposal (for students), a preregistration or registered report, a research ethics application, or even two or more of the aforementioned documents.
