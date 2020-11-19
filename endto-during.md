@@ -12,11 +12,11 @@ If you [planned your study well](endto-before.md), then the procedures to recrui
 
 ### **Training your research staff & students**
 
-All researchers involved in a research project should be adequately trained in research ethics and why certain protocols are being implemented. Taking research ethics and/or data privacy courses offered by your organization or referring them to this ethics course are good places to start. Also think about soft skills expected from a researcher, such as how to communicate with participants professionally and what to do when something unexpected happens.
+All researchers involved in a research project should be trained well in research ethics and why certain protocols are being implemented. Taking research ethics and/or data privacy courses offered by your organization or referring them to this ethics course are good places to start. Researchers should also be briefed about the specific study protocols and materials to be used. Also think about soft skills expected from a researcher, such as how to communicate with participants professionally and what to do when something unexpected happens. Having well-informed and confident researchers doing data collection is important to the success of any research project.
 
 ### Ongoing consent and renewal of consent
 
-Some research designs require...
+Some research designs require multiple sessions. 
 
 * * *
 #### How this supports the BPS ethics principle of _respect_
