@@ -3,7 +3,7 @@
 1. [Core Principles](endto.md)
 2. [Planning Your Study](endto-before.md)
 3. **Implementing Your Study**
-4. [Storing, Analyzing, and Archiving Your Data](endto-after.md)
+4. [Storing, Analysing, and Archiving Your Data](endto-after.md)
 5. [Section II Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH) *password required*
 
 ## Implementing Your Study
@@ -47,5 +47,5 @@ x
 xxx
 * * *
 
-## NEXT: [Research data management: Ethics after data collection](endto-after.md)
+## NEXT: [Research data management: Storing, analysing, and archiving your data](endto-after.md)
 ### [Click to view the Course Navigation page](toc.md)
