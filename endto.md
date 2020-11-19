@@ -48,7 +48,7 @@ Researchers must:
 Researchers are responsible for:
 - Creating and implementing risk management protocols to avoid or reduce harm resulting from research participation, if any.
 - Ensuring that participants are not put at greater risk than they normally experience in daily life.
-- Ensuring that vulnerable communities (e.g., in developing countries) are not exploited for research that mainly benefits a different group (e.g., in high-income countries)
+- Ensuring that vulnerable communities or individuals (e.g., children; participants in developing countries) are not coerced or exploited for research, especially research that mainly benefits a different group (e.g., in high-income countries)
 
 These principles are essential to any research involving humans, especially those who are especially vulnerable, such as children. Knowing these principles is one thing but putting them into practice is another. 
 
