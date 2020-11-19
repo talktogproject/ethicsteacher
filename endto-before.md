@@ -84,7 +84,7 @@ Because the goal is for participants to understand what they are being asked to 
 
 B. **Informed consent and/or assent**
 
-Children (under age 16 or 18, depending on where you are) are considered vulnerable and require consent from an adult, normally a parent or the primary caregiver.
+Children (under age 16 or 18, depending on where you are) are considered vulnerable and require consent from an adult, normally a parent or the primary caregiver. The standard procedure is for two copies of a consent form to be signed, one for the research team and one for the participant to keep.
 
 In certain cases, consent might be taken orally with an audio recorder or with a researcher record of oral consent. However, some ethics committees or local authorities might be very strict with their requirements. For example, some might only accept written consent forms, require additional signatures from witnesses, or require both parents to sign the consent form for a child. Make sure that you know what local regulations require and plan your research accordingly.
 
@@ -101,9 +101,9 @@ It is important to remember that (1) data collection should not begin before eth
 
 In the best case scenario, the ethics committee will approve your study and you may begin collecting data. In some cases, the ethics committee might send feedback or request revisions before they give formal approval. In the worst case scenario, the ethics application is rejected and the researcher needs to start all over again. It is really important to plan your research extensively and prepare a well-written and well-justified ethics application. 
 
-### Changes in research protocol
+##### Changes in research protocol
 
-Unfortunately, it is possible that things might not go as planned. 
+Sometimes, you realize that some things in your plan are not working or need to be changed. Sometimes the changes are major, such as. Sometimes they are minor, such as. It is good practice to 
 
 * * *
 #### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
