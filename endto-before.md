@@ -78,6 +78,8 @@ Many universities have templates for participant information sheets and consent 
 
 It is important to remember that (1) data collection should not begin before ethics approval is received and (2) ethics approval should not be sought retroactively or after a study has been completed. To avoid any issues, be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees could meet every month, every few months, or when necessary or needed (as in the case of ad hoc committees). The situation varies in every institution and there can be periods in time when committees receive a higher number of submissions than usual.
 
+In the best case scenario, the ethics committee will approve your study and you may begin collecting data. In some cases, the ethics committee might send feedback or request revisions before they give formal approval. In the worst case scenario, the ethics application is rejected and the researcher needs to start all over again. It is really important to plan your research extensively and prepare a well-written and well-justified ethics application. 
+
 ### Changes in research protocol
 
 Unfortunately, it is possible that things might not go as planned. 
