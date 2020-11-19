@@ -8,7 +8,7 @@
 
 ## During Data Collection
 
-If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow.
+If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow. Any research staff or students doing data collection would have been adequately trained and briefed about the implementation of the study.
 
 ### Changes in research protocol
 
