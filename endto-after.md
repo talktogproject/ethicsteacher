@@ -6,7 +6,7 @@
 4. **Storing, Analyzing, and Archiving Your Data**
 5. [Section II Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH) *password required*
 
-## Core Principles
+## Storing, Analyzing, and Archiving Your Data
 
 ## NEXT: [Take the Section I Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH)
 ### [Click to view the Course Navigation page](toc.md)
