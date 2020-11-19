@@ -14,6 +14,14 @@ Some grant and ethics applications require a research data management plan, or a
 
 ### Data storage
 
+Storing consent forms and participant lists
+
+Anonymising datasets
+
+### Audio and video data
+
+This is trickier in the case of audio and video data, where a participants' voice or face can provide a lot of information about the participants' identity.
+
 ### Data privacy
 
 The GDPR laws applicable in the UK and Europe are specific about
@@ -23,6 +31,7 @@ The GDPR laws applicable in the UK and Europe are specific about
 - Personal and sensitive information
 
 ### Data breaches
+
 
 
 
