@@ -50,7 +50,7 @@ Securing ethics approval is a way to show that your study had been evaluated by 
 
 Different ethics committees have different requirements. Typically, ethics committees may ask researchers to fill up an application form containing details of who is in the research team, the research aims and objectives, who will be recruited (and how), the study protocol, and samples of the materials to be used. Some important documents that may be included are:
 
-- *Participant information sheet*
+**Participant information sheet**
 
 The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. Some essential informationa include:
 
@@ -72,7 +72,7 @@ The ultimate goal is for participants to _understand_ what the study is about, w
 ##### How to contact the research team
 * Names and details of the principal investigator and/or a contact person for questions or complaints
 
-- *Informed consent and/or assent*
+**Informed consent and/or assent**
 
 Consent forms are usually written documents that adult participants sign for themselves or on their children's behalf. 
 **Consent is gained from adults. Assent**
