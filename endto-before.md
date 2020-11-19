@@ -88,7 +88,9 @@ Children (under age 16 or 18, depending on where you are) are considered vulnera
 
 In certain cases, consent might be taken orally with an audio recorder or with a researcher record of oral consent. However, some ethics committees or local authorities might be very strict with their requirements. For example, some might only accept written consent forms, require additional signatures from witnesses, or require both parents to sign the consent form for a child. Make sure that you know what local regulations require and plan your research accordingly.
 
-Many universities have templates for participant information sheets and consent forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101). Check if your research group, organization, or ethics committee have required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
+Many universities have templates for participant information sheets and consent forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101).
+
+Check if your research group, organization, or ethics committee have required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
 
 * * *
 #### How this supports the BPS ethics principle of _respect_ and _maximising benefit and minimising harm_
