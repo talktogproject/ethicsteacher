@@ -33,23 +33,20 @@ A good research plan demonstrates that the study is well-planned, well-designed,
 
 ### **Securing ethics clearance**
 
-Even researchers with great ideas and good intentions might not realize that they forgot something or have something wrong with their plan. Therefore it is important that an independent committee reviews what a researcher is planning to do. 
+Even researchers with great ideas and good intentions might not realize that they forgot something or have something wrong with their plan. Therefore it is important that an independent committee reviews what a researcher is planning to do. Here are some steps that a responsible researcher would normally take to get ethics approval:
 
-It is important to remember that (1) data collection should not begin before ethics approval is received and (2) ethics approval should not be sought retroactively or after a study has been completed. Therefore, a responsible researcher should go through the following steps before collecting any data for their study:
-
-1. **Know the ethics requirements in their organization(s) or research site(s)**
+1. **Knowing the ethics requirements in their organization(s) or research site(s)**
 
 - *Know which ethics committees are involved.* Members of the ethics committee should be independent of the researcher or research team and should be individuals with the appropriate knowledge of how research is conducted. In some cases, local requirements might require that a researcher should secure university ethics clearance first, then also secure ethics clearance with a government or state-level agency. This means that the entire ethics application process can take months to complete. 
 - *Ethics across international partners.* In international collaborations, the best practice is to secure ethics clearance with all partners conducting the research. To avoid [ethics dumping](integrity-global.md), it is important to secure ethics clearance from local research committees. This is not always possible; for example, in the case of student research projects or when there are no local ethics committees available in the research area. The best practice is to coordinate with local communities or experts to vouch for the soundness and cultural appropriateness of the research protocols.  
 - *Know what kind of ethics application should be made.* Many institutions differentiate between ethics applications that qualify for a quicker application process if the research qualifies as 'minimal risk'. For research with children, institutions normally require a 'full review' as they are considered a 'vulnerable group'.
-- *Be early.* Be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees could meet every month, every few months, or when necessary or needed (as in the case of ad hoc committees). The situation varies in every institution and there can be periods in time when committees receive a higher number of submissions than usual.
 
 * * *
 #### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
 Securing ethics approval is a way to show that your study had been evaluated by objective reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- to middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
 * * *
 
-2. **Prepare your ethics application**
+2. **Preparing your ethics application**
 
 Different ethics committees have different requirements. Typically, ethics committees may ask researchers to fill up an application form containing details of who is in the research team, the research aims and objectives, the study protocol, and samples of the recruitment materials and measures to be used. For research involving children and adults, these are some key documents that might accompany an ethics application:
 
@@ -61,6 +58,8 @@ The ultimate goal is for participants to _understand_ what the study is about, w
 
 - Right to withdraw
 - Data privacy
+- Risks and benefits
+- Risk assessment and management
 
 - *Informed consent*
 
@@ -72,13 +71,14 @@ However, some ethics committees or local authorities might be strict with their 
 #### How this supports the BPS ethics principle of _respect_
 * * *
 
-- *Informing participants of risks and benefits of participation*
-
-- *Risk assessment and management*
 
 * * *
 #### How this supports the BPS ethics principle of _maximising benefit and minimising harm_
 * * *
+
+3. **Submitting your ethics application**
+
+It is important to remember that (1) data collection should not begin before ethics approval is received and (2) ethics approval should not be sought retroactively or after a study has been completed. To avoid any issues, be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees could meet every month, every few months, or when necessary or needed (as in the case of ad hoc committees). The situation varies in every institution and there can be periods in time when committees receive a higher number of submissions than usual.
 
 ## NEXT: [In the field: Ethics during data collection](endto-during.md)
 ### [Click to view the Course Navigation page](toc.md)
