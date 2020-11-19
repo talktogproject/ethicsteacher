@@ -84,7 +84,7 @@ Because the goal is for participants to understand what they are being asked to 
 
 **B. Informed consent and/or assent**
 
-Children (under age 16 or 18, depending on where you are) are considered vulnerable and require consent from an adult, normally a parent or the primary caregiver. The standard procedure is for two copies of a consent form to be signed, one for the research team and one for the participant to keep.
+Children (under age 16 or 18, depending on where you are) are considered vulnerable and require consent from an adult, normally a parent or the primary caregiver. The standard procedure is for two copies of a written consent form to be signed, one for the research team and one for the participant to keep.
 
 In certain cases, consent might be taken orally with an audio recorder or with a researcher record of oral consent. However, some ethics committees or local authorities might be very strict with their requirements. For example, some might only accept written consent forms, require additional signatures from witnesses, or require both parents to sign the consent form for a child. Make sure that you know what local regulations require and plan your research accordingly.
 
