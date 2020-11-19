@@ -22,7 +22,7 @@ A good research plan is nothing if the implementation is very poor. Researchers 
 
 ### Ongoing consent and renewal of consent
 
-Some research designs require multiple sessions or working with participants for an extended period of time (e.g., weeks, months, or years). In this case, it is essential that participants have the opportunity to express continued consent to participate in the study, that they are reminded of their rights as participants, and that they know who to contact if there are any issues that cannot be resolved by the research team. 
+Some research designs require multiple sessions or working with participants for an extended period of time (e.g., weeks, months, or years). In this case, it is essential that participants have the opportunity to express continued consent to participate in the study, that they are reminded of their rights as participants, and that they know who to contact if there are any issues that cannot be resolved by the research team. For research involving children, researchers should monitor for signs of assent throughout the data collection process.
 
 * * *
 #### How this supports the BPS ethics principle of _respect_
