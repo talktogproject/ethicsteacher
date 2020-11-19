@@ -51,21 +51,22 @@ Securing ethics approval is a way to show that your study had been evaluated by 
 
 2. **Prepare your ethics application**
 
-Different ethics committees have different requirements. Typically, ethics committees may ask researchers to fill up an application form containing details of who is in the research team, the research aims and objectives, the study protocol, and samples of the recruitment materials and measures to be used. For research involving children and adults, these are some key elements to consider in an ethics application:
+Different ethics committees have different requirements. Typically, ethics committees may ask researchers to fill up an application form containing details of who is in the research team, the research aims and objectives, the study protocol, and samples of the recruitment materials and measures to be used. For research involving children and adults, these are some key documents that might accompany an ethics application:
 
-- *Informed consent*
+- *Recruitment materials*
+
+- *Participant information*
 
 The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. Written participant recruitment and information materials should be written in plain language and in a language understood by the participant. When research is conducted among communities with low literacy or where paper records are viewed with suspicion or even as a safety threat, researchers can explain the study orally.
+
+- Right to withdraw
+- Data privacy
+
+- *Informed consent*
 
 As with the recruitment and participant information materials, consent is normally obtained in written form. However, in certain cases, consent might be taken orally with an audio recorder or with a researcher record of oral consent. Whatever the case may be, it is important to have a document to show that a participant has agreed to join the study.
 
 However, some ethics committees or local authorities might be strict with their requirements. For example, some might only accept written consent forms or require additional signatures in them. Make sure that you know what they require and plan your research accordingly.
-
-- *Right to withdraw*
-
-Researchers must make it clear to participants that they have the right to withdraw themselves, their children, or their data from the study.
-
-- *Maintaining confidentiality & data privacy*
 
 * * *
 #### How this supports the BPS ethics principle of _respect_
