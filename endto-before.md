@@ -1,9 +1,9 @@
 ## Section II: Ethics from End to End
 
 1. [Core Principles](endto.md)
-2. **Before Data Collection**
-3. [During Data Collection](endto-during.md)
-4. [After Data Collection](endto-after.md)
+2. **Planning Your Study**
+3. [Implementing Your Study](endto-during.md)
+4. [Storing, Analyzing, and Archiving Your Data](endto-after.md)
 5. [Section II Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH) *password required*
 
 ## Before Data Collection
@@ -80,10 +80,6 @@ Many universities have templates for participant information sheets and consent 
 
 It is important to remember that (1) data collection should not begin before ethics approval is received and (2) ethics approval should not be sought retroactively or after a study has been completed. To avoid any issues, be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees could meet every month, every few months, or when necessary or needed (as in the case of ad hoc committees). The situation varies in every institution and there can be periods in time when committees receive a higher number of submissions than usual.
 
-### **Training your research staff & students**
-
-It is important that all staff involved in the project are aware of the above procedures and why they are being done. Taking research ethics and/or data privacy courses offered by your organization or referring them to this ethics course are good places to start.
-
 ### Changes in research protocol
 
 Unfortunately, it is possible that things might not go as planned. 
@@ -93,5 +89,5 @@ Unfortunately, it is possible that things might not go as planned.
 xxx
 * * *
 
-## NEXT: [In the field: Ethics during data collection](endto-during.md)
+## NEXT: [Implementing your study](endto-during.md)
 ### [Click to view the Course Navigation page](toc.md)
