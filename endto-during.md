@@ -22,11 +22,11 @@ A good research plan is nothing if the implementation is very poor. Researchers 
 
 ### Ongoing consent and renewal of consent
 
-Some research designs require multiple sessions. 
+Some research designs require multiple sessions or working with participants for an extended period of time (e.g., weeks, months, or years). In this case, it is essential that participants have the opportunity to express continued consent to participate in the study, that they are reminded of their rights as participants, and that they know who to contact if there are any issues that cannot be resolved by the research team. 
 
 * * *
 #### How this supports the BPS ethics principle of _respect_
-xxx
+Consent is an ongoing process. Even if a participant agreed to participate in the study at first, they are free to change their minds at any time. They may realize that the research study requires a certain amount of time or effort that they could not or do not want to give anymore. They do not have to feel obligated to keep participating in the study. They are also not required to explain why they want to withdraw from a study. A responsible researcher respects this right and acknowledges that all research participation is voluntary.
 * * *
 
 ### Maintaining participant and researcher safety
