@@ -52,23 +52,29 @@ Different ethics committees have different requirements. Typically, ethics commi
 
 **Participant information sheet**
 
-The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. Some essential informationa include:
+The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. Information to be shared include:
 
 ##### What the study is about
 * The aim(s) of the study
-* The data to be collected
-* How it will be collected
-* How much time it will take to participate in the study
+* What data will be collected (e.g., demographic information, opinions or attitudes about something, scores on a task)
+* How it will be collected (e.g., through a pen and paper task, through an online questionnaire)
+* How much time it will take to participate in the study (e.g., number and length of sessions)
+
 ##### Participants' rights
 * The right to refuse to provide any particular information requested
 * The right to withdraw at any time with no negative consequences
 * The right to have any data destroyed upon request (until a certain date)
-* Assurance that any information shared will be kept confidential
+
 ##### What will be done with the data gathered
-* How data will be used and planned outcomes
+* Assurance that any information shared will be kept confidential (e.g., by giving access only to members of the research team, by anonymising the dataset)
+* How data will be stored and kept confidential (e.g., by using password protected devices)
+* How data will be used and the planned outcomes (e.g., mean scores computed and reported, results to be published in scientific articles or reports)
+
 ##### Risks and benefits of participating in the research
-* Any reimbursement or compensation to be given to participants
-* Potential benefits of the research
+* Any risks (e.g., including minor risks like getting tired of answering a long survey) and how they will be managed (e.g., being able to take breaks when needed)
+* Any reimbursement or compensation to be given to participants; if none, then this should also be stated
+* Potential benefits of the research (e.g., help design an assessment or intervention, contribute to knowledge about a certain topic)
+
 ##### How to contact the research team
 * Names and details of the principal investigator and/or a contact person for questions or complaints
 
