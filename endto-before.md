@@ -10,6 +10,8 @@
 
 ### **Planning your research study**
 
+1. **Writing a research plan**
+
 The best way to ensure that a study is carried out with the highest standards of research integrity and ethics is to have a clear research plan. A clear research plan is informed by a review of the literature, identifies specific research questions, and lays out a plan for answering these questions. Researchers have many opportunities to write down their research plan. It can be part of a grant application, a thesis proposal (for students), a preregistration or registered report, a research ethics application, or even two or more of the aforementioned documents.
 
 Some things that researchers should think about during their planning are:
@@ -18,19 +20,15 @@ Some things that researchers should think about during their planning are:
 - Justification for doing the research
 - Research questions, hypotheses, and expected outcomes 
 - Methods that will be used
+- How research data will be stored and managed
 - Timelines and milestones
 - Budgets, resources, and manpower needed
 - Approvals needed before conducting the research
+- Alternative plans in case things do not go as planned
 
 * * * 
 #### How this supports the BPS ethics principle of _scientific integrity_
-A carefully-designed study based on a good understanding of theory and method.
-* * *
-
-2. **Having a research data management plan**
-
-* * *
-#### How this supports the BPS ethics principle of _respect_
+A good research plan demonstrates that the study has clear intentions and is well-planned, well-designed, and achievable.
 * * *
 
 ### **Securing ethics clearance**
