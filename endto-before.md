@@ -50,25 +50,34 @@ Securing ethics approval is a way to show that your study had been evaluated by 
 
 Different ethics committees have different requirements. Typically, ethics committees may ask researchers to fill up an application form containing details of who is in the research team, the research aims and objectives, who will be recruited (and how), the study protocol, and samples of the materials to be used. Some important documents that may be included are:
 
-- *Participant information sheet or script*
+- *Participant information sheet*
 
-The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. Written participant recruitment and information materials should be written in plain language and in a language understood by the participant. 
+The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. Some essential informationa include:
 
-1. Right to withdraw
-2. Data privacy
-3. Risks and benefits
-4. Risk assessment and management
-
-When research is conducted among communities with low literacy or where paper records are viewed with suspicion or even as a safety threat, researchers should consider alternative ways of providing information, such as sharing the information orally. 
+A. What the study is about
+* The aim(s) of the study
+* The data to be collected
+* How it will be collected
+* How much time it will take to participate in the study
+B. Participants' rights
+* The right to refuse to provide any particular information requested
+* The right to withdraw at any time with no negative consequences
+* The right to have any data destroyed upon request (until a certain date)
+* Assurance that any information shared will be kept confidential
+C. What will be done with the data gathered
+* How data will be used and planned outcomes
+D. Risks and benefits of participating in the research
+* Any reimbursement or compensation to be given to participants
+* Potential benefits of the research
+E. How to contact the research team
+* Names and details of the principal investigator and/or a contact person for questions or complaints
 
 - *Informed consent and/or assent*
 
-Consent forms are usually written documents that adult participants sign for themselves or on their children's behalf. However, in certain cases, consent might be taken orally with an audio recorder or with a researcher record of oral consent. Whatever the case may be, it is important to have a document to show that a participant has agreed to join the study.
-
-However, some ethics committees or local authorities might be very strict with their requirements. For example, some might only accept written consent forms or require additional signatures in them. Make sure that you know what they require and plan your research accordingly.
-
+Consent forms are usually written documents that adult participants sign for themselves or on their children's behalf. 
 **Consent is gained from adults. Assent**
 
+These documents should be written in simple language and in a language understood by the participant. When research is conducted among communities with low literacy or where paper records are viewed with suspicion or even as a safety threat, researchers should consider alternative ways of providing information, such as sharing the information orally. However, in certain cases, consent might be taken orally with an audio recorder or with a researcher record of oral consent. However, some ethics committees or local authorities might be very strict with their requirements. For example, some might only accept written consent forms or require additional signatures in them. Make sure that you know what they require and plan your research accordingly.
 
 Many universities have templates for participant information sheets and consent forms that you could freely download; for example, here is a website where you can find English language templates used at [The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101). Check if your research group, organization, or ethics committee have required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
 
