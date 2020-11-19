@@ -72,7 +72,7 @@ The ultimate goal is for participants to _understand_ what the study is about, w
 
 ##### Risks and benefits of participating in the research
 * Any risks (e.g., including minor risks like getting tired of answering a long survey) and how they will be managed (e.g., being able to take breaks when needed)
-* Any reimbursement or compensation to be given to participants; if none, then this should also be stated. (note: it is important that participants are not coerced to participate either by offering disproportionate rewards for participating or punishments for not participating)
+* Any reimbursement or compensation to be given to participants; if none, then this should also be stated. It is important that participants are not coerced to participate either by offering disproportionate rewards for participating or punishments for not participating.
 * Potential benefits of the research (e.g., help design an assessment or intervention, contribute to knowledge about a certain topic)
 
 ##### How to contact the research team
