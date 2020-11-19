@@ -32,7 +32,9 @@ The GDPR laws applicable in the UK and Europe are specific about
 
 ### Data breaches
 
+### Data analysis and reporting
 
+### Data archiving
 
 
 ## NEXT: [Take the Section II Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH)
