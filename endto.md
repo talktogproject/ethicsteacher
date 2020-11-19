@@ -20,7 +20,7 @@ Because child research almost always involves research with human participants, 
 
 These can be achieved by:
 - Respecting people regardless of age, race, religious beliefs, sexual orientation, health status, socioeconomic status, and other personal characteristics.
-- Ensuring that research participation is voluntary before, during, and even after data is collected.
+- Ensuring that participants have enough information about the study, that they participating voluntarily, and that they know they have the option to withdraw.
 - Ensuring that participants' personal identity is kept private and that datasets are anonymised.
 
 ### **Scientific integrity**
@@ -29,15 +29,15 @@ These can be achieved by:
 
 Researchers should then ensure that:
 - The research study is well-designed and conducted.
-- The aims of the research are transparent.
-- Potential risks of harm and protocols to reduce or avoid harm are carefully considered. 
+- The aims of the research are easily understood.
+- They carefully consider the risks involved and make clear plans to reduce or avoid harm to participants. 
 
 ### **Social responsibility**
 
 > "a shared collective duty for the welfare of human and non-human beings, both within the societies in which psychology researchers live and work, and beyond them, must be acknowledged by those conducting the research" (p. 10)
 
 Researchers must:
-- Ensure the benefits of an intervention to an individual or a group outweigh the disruptions caused.
+- Ensure that benefits of the research outweigh the disruptions caused to individuals or groups.
 - Collaborate with colleagues, participants, and others.
 - Be aware of their own professional and personal limitations.
 
@@ -48,7 +48,7 @@ Researchers must:
 Researchers are responsible for:
 - Creating and implementing risk management protocols to avoid or reduce harm resulting from research participation, if any.
 - Ensuring that participants are not put at greater risk than they normally experience in daily life.
-- Minimizing the power difference between the researcher and the participant.
+- Ensuring that vulnerable communities (e.g. in developing countries) are not exploited for research that mainly benefits a different group (e.g. in high-income countries)
 
 These principles are essential to any research involving humans, especially those who are especially vulnerable, such as children. Knowing these principles is one thing but putting them into practice is another. 
 
