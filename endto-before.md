@@ -66,7 +66,7 @@ The ultimate goal is for participants to _understand_ what the study is about, w
 * The right to have any data destroyed upon request (until a certain date)
 
 ##### What will be done with the data gathered
-* Assurance that any information shared will be kept confidential (e.g., by giving access only to members of the research team, by anonymising the dataset)
+* Assurance that any information shared will be kept confidential (e.g., by giving access only to members of the research team, by anonymising datasets)
 * How data will be stored and kept confidential (e.g., by using password protected devices)
 * How data will be used and the planned outcomes (e.g., mean scores computed and reported, results to be published in scientific articles or reports)
 
