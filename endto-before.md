@@ -54,22 +54,22 @@ Different ethics committees have different requirements. Typically, ethics commi
 
 The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. Some essential informationa include:
 
-A. What the study is about
+##### What the study is about
 * The aim(s) of the study
 * The data to be collected
 * How it will be collected
 * How much time it will take to participate in the study
-B. Participants' rights
+##### Participants' rights
 * The right to refuse to provide any particular information requested
 * The right to withdraw at any time with no negative consequences
 * The right to have any data destroyed upon request (until a certain date)
 * Assurance that any information shared will be kept confidential
-C. What will be done with the data gathered
+##### What will be done with the data gathered
 * How data will be used and planned outcomes
-D. Risks and benefits of participating in the research
+##### Risks and benefits of participating in the research
 * Any reimbursement or compensation to be given to participants
 * Potential benefits of the research
-E. How to contact the research team
+##### How to contact the research team
 * Names and details of the principal investigator and/or a contact person for questions or complaints
 
 - *Informed consent and/or assent*
