@@ -63,13 +63,13 @@ When research is conducted among communities with low literacy or where paper re
 
 - *Informed consent*
 
-Consent forms are usually written documents that participants sign on for themselves or on their children's behalf. However, in certain cases, consent might be taken orally with an audio recorder or with a researcher record of oral consent. Whatever the case may be, it is important to have a document to show that a participant has agreed to join the study.
+Consent forms are usually written documents that participants sign for themselves or on their children's behalf. However, in certain cases, consent might be taken orally with an audio recorder or with a researcher record of oral consent. Whatever the case may be, it is important to have a document to show that a participant has agreed to join the study.
 
-However, some ethics committees or local authorities might be strict with their requirements. For example, some might only accept written consent forms or require additional signatures in them. Make sure that you know what they require and plan your research accordingly.
+However, some ethics committees or local authorities might be very strict with their requirements. For example, some might only accept written consent forms or require additional signatures in them. Make sure that you know what they require and plan your research accordingly.
 
-- *Research with children: Assent*
+- *Research with children: assent*
 
-
+Many universities have templates for participant information sheets and consent forms that you could freely download; for example, here is a website where you can find English language templates used at [The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101). Check if your research group, organization, or ethics committee have required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
 
 * * *
 #### How this supports the BPS ethics principle of _respect_ and _maximising benefit and minimising harm_
