@@ -84,5 +84,14 @@ It is important to remember that (1) data collection should not begin before eth
 
 It is important that all staff involved in the project are aware of the above procedures and why they are being done. Taking research ethics and/or data privacy courses offered by your organization or referring them to this ethics course are good places to start.
 
+### Changes in research protocol
+
+Unfortunately, it is possible that things might not go as planned. 
+
+* * *
+#### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
+xxx
+* * *
+
 ## NEXT: [In the field: Ethics during data collection](endto-during.md)
 ### [Click to view the Course Navigation page](toc.md)
