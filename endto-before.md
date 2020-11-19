@@ -31,7 +31,7 @@ A good research plan demonstrates that the study is well-planned, well-designed,
 
 ### **Securing ethics clearance**
 
-Even researchers with great ideas and good intentions might not realize that they forgot something or have something wrong with their plan. Therefore it is important that an independent committee reviews what a researcher is planning to do. Any research that involves recruiting human participants to answer questions, perform tasks
+Even researchers with great ideas and good intentions might not realize that they forgot something or have something wrong with their plan. Therefore it is important that an independent committee reviews what a researcher is planning to do. Any research that involves recruiting human participants to answer questions, perform tasks, or be observed (including recording on audio or video) require ethics approval.
 
 Here are some steps that a responsible researcher would normally take to get ethics approval:
 
