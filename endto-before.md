@@ -68,12 +68,7 @@ As with the recruitment and participant information materials, consent is normal
 However, some ethics committees or local authorities might be strict with their requirements. For example, some might only accept written consent forms or require additional signatures in them. Make sure that you know what they require and plan your research accordingly.
 
 * * *
-#### How this supports the BPS ethics principle of _respect_
-* * *
-
-
-* * *
-#### How this supports the BPS ethics principle of _maximising benefit and minimising harm_
+#### How this supports the BPS ethics principle of _respect_ and _maximising benefit and minimising harm_
 * * *
 
 3. **Submitting your ethics application**
