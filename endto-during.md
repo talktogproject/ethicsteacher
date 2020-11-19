@@ -16,7 +16,7 @@ All researchers involved in a research project should be trained well in researc
 
 * * *
 #### How this supports the BPS ethics principles of _scientific integrity_ and _social responsibility_
-A good research plan is nothing if the implementation is very poor. Researchers must possess the necessary skills so that they can carry out the research according to what was intended. At the very least, researchers must be aware when a situation calls for decision-making that is beyond their capability or level of authority so that they can seek help from their peers, seniors, or from members of their organization.
+A good research plan is nothing if the implementation is very poor. Researchers must possess the necessary skills so that they can carry out the research according to what was intended and what was approved by the ethics committee(s). Furthermore, researchers must be aware when a situation calls for decision-making that is beyond their capability or level of authority so that they can seek help from their peers, seniors, or from members of their organization.
 
 * * *
 
@@ -31,7 +31,17 @@ Consent is an ongoing process. Even if a participant agreed to participate in th
 
 ### Maintaining participant and researcher safety
 
-x
+Participants must be reminded of possible risks of participating in the research. They should also be made aware that appropriate help can be given if they experience any discomfort or distress as a result of their research participation. For example,
+
+Researchers' own safety and privacy must also be taken seriously as they conduct research. Here are some practical tips for keeping safe, adapted from [guidance provided by The University of Oxford](https://researchsupport.admin.ox.ac.uk/files/bpg01researchersafetypdf):
+
+- Conduct a risk assessment with your research team or your organization and arrange for any relevant safety or insurance measures that are available to you.
+- Communicate with participants or local contacts only with work-specific e-mails and contact numbers and not sharing personal information such as their home telephone and home addresses.
+- Consider any security risks when collecting data in a certain area and/or at a certain time of day. For example, some communities may be unsafe for outsiders at night; in which case, additional measures should be considered.
+- Inform your supervisor or a contact person of scheduled visits to participants' homes or non-public places and keep them informed about your arrival and departure from the location. If a contact person does not hear from you after a scheduled visit, they should call you.
+- If you have any concerns about the situation, then you should leave immediately.
+
+In the case of international collaborations, safety standards should apply equally to members of the international team and the in-country research teams.
 
 * * *
 #### How this supports the BPS ethics principle of _scientific integrity_ and _respect_
@@ -44,6 +54,15 @@ x
 
 * * *
 #### How this supports the BPS ethics principle of _scientific integrity_ and _respect_
+xxx
+* * *
+
+### Keeping a research record
+
+x
+
+* * *
+#### How this supports the BPS ethics principle of _scientific integrity_
 xxx
 * * *
 
