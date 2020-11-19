@@ -90,7 +90,7 @@ In certain cases, consent might be taken orally with an audio recorder or with a
 
 Although many research committees consider parental or caregiver consent to be enough for child participants, it is also ideal to gain assent from the children participating in the study. Assent from a child is an active agreement to participate in the research study. Ways of gaining assent will differ depending on the age of the child; for example, a teenager may be able to read and sign an assent form. For a younger child, the researcher might need to explain what is happening orally and/or with the aid of pictures.
 
-Many universities have templates for participant information sheets and consent (and assent) forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101).
+Many universities have templates for participant information sheets and consent (and assent) forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101). The website also contains advice specifically for [collecting data online](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse394966), wherein researchers may not have any direct contact with participants.
 
 Check if your research group, organization, or ethics committee have required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
 
