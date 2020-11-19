@@ -84,11 +84,13 @@ Because the goal is for participants to understand what they are being asked to 
 
 **B. Informed consent and/or assent**
 
-Children (under age 16 or 18, depending on where you are) are considered vulnerable and require consent from an adult, normally a parent or the primary caregiver. The standard procedure is for two copies of a written consent form to be signed, one for the research team and one for the participant to keep.
+Getting informed consent is a confirmation that a participant understood what a study is about and that they are voluntarily participating in it. Consent should be gained before collecting research data from that individual. Children (under age 16 or 18, depending on where you are) are considered vulnerable. Their participation in research requires consent from an adult, normally a parent or the primary caregiver. The standard procedure is for two copies of a written consent form to be signed, one for the research team and one for the participant (or participant's parent) to keep.
 
 In certain cases, consent might be taken orally with an audio recorder or with a researcher record of oral consent. However, some ethics committees or local authorities might be very strict with their requirements. For example, some might only accept written consent forms, require additional signatures from witnesses, or require both parents to sign the consent form for a child. Make sure that you know what local regulations require and plan your research accordingly.
 
-Many universities have templates for participant information sheets and consent forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101).
+Although many research committees consider parental or caregiver consent to be enough for child participants, it is also ideal to gain assent from the children participating in the study. Assent from a child is an active agreement to participate in the research study. Ways of gaining assent will differ depending on the age of the child; for example, a teenager may be able to read and sign an assent form. For a younger child, the researcher might need to explain what is happening orally and/or with the aid of pictures.
+
+Many universities have templates for participant information sheets and consent (and assent) forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101).
 
 Check if your research group, organization, or ethics committee have required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
 
