@@ -56,10 +56,10 @@ Different ethics committees have different requirements. Typically, ethics commi
 
 The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. Written participant recruitment and information materials should be written in plain language and in a language understood by the participant. When research is conducted among communities with low literacy or where paper records are viewed with suspicion or even as a safety threat, researchers can explain the study orally.
 
-- Right to withdraw
-- Data privacy
-- Risks and benefits
-- Risk assessment and management
+1. Right to withdraw
+2. Data privacy
+3. Risks and benefits
+4. Risk assessment and management
 
 - *Informed consent*
 
