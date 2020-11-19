@@ -50,7 +50,7 @@ Securing ethics approval is a way to show that your study had been evaluated by 
 
 Different ethics committees have different requirements. Typically, ethics committees may ask researchers to fill up an application form containing details of who is in the research team, the research aims and objectives, who will be recruited (and how), the study protocol, and samples of the materials to be used. Some important documents that may be included are:
 
-A. **Participant information sheet**
+**A. Participant information sheet**
 
 The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. The [BPS recommends sharing information such as](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf):
 
@@ -82,7 +82,7 @@ As you can see, this is a lot of information to share! Make sure to give enough 
 
 Because the goal is for participants to understand what they are being asked to do, this information sheet needs to be written in simple language and in a language understood by the participant. When research is conducted among communities with low literacy or where paper records are viewed with suspicion or even as a safety threat, researchers should consider alternative ways of providing information, such as sharing the information orally. 
 
-B. **Informed consent and/or assent**
+**B. Informed consent and/or assent**
 
 Children (under age 16 or 18, depending on where you are) are considered vulnerable and require consent from an adult, normally a parent or the primary caregiver. The standard procedure is for two copies of a consent form to be signed, one for the research team and one for the participant to keep.
 
