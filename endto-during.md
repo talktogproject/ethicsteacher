@@ -6,9 +6,13 @@
 4. [After Data Collection](endto-after.md)
 5. [Section II Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH) *password required*
 
-## During Data Collection
+## Implementing Your Study
 
-If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow. Research staff or students doing data collection are adequately trained to carry out the study, and protocols are in place to make sure that study implementation proceeds smoothly.
+If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow.
+
+### **Training your research staff & students**
+
+It is important that all staff involved in the project are aware of the above procedures and why they are being done. Taking research ethics and/or data privacy courses offered by your organization or referring them to this ethics course are good places to start.
 
 ### Ongoing consent and renewal of consent
 
