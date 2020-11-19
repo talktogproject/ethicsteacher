@@ -23,9 +23,9 @@ Some research designs require...
 xxx
 * * *
 
-### Good study documentation and data management 
+### Maintaining participant and researcher safety
 
-Some research designs require...
+x
 
 * * *
 #### How this supports the BPS ethics principle of _scientific integrity_ and _respect_
