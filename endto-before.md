@@ -92,6 +92,7 @@ Many universities have templates for participant information sheets and consent 
 
 * * *
 #### How this supports the BPS ethics principle of _respect_ and _maximising benefit and minimising harm_
+Although a lot of information needs to be given to participants, this ensures that participants know exactly what they are participating in and they can make an informed decision to participate in the study or not. Making sure that complete information is given to adults in low literacy or disadvantaged communities in language that is understandable and non-patronizing, and that children have the opportunity to give assent, ensures that every individual is treated with respect regardless of who they are. Following these procedures minimize harm by reducing the chance of exploitation or deceiving people into participating in research with incomplete or inaccurate information about the study and their rights as participants.
 * * *
 
 #### 3. **Submitting your ethics application**
@@ -106,7 +107,7 @@ Unfortunately, it is possible that things might not go as planned.
 
 * * *
 #### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
-xxx
+Submitting an ethics application for review and keeping your ethics committee informed about changes to your research protocol is a way to ensure honesty and transparency in your research. It is important to submit an application that describes your research accurately and in the way you really intend to do it. When you submit your application for review, you are being a good citizen of the scientific community by acknowledging the importance of outside opinion, and acknowledging your own limitations of a researcher, who may not see all the ethical implications of what you plan to do in your study. After all, it is better to identify potential problems early than to discover them halfway into your data collection!
 * * *
 
 ## NEXT: [Implementing your study](endto-during.md)
