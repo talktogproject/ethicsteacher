@@ -34,7 +34,7 @@ Researchers should then ensure that:
 
 ### **Social responsibility**
 
-> "a shared collective duty for the welfare of human and non-human beings, both within the societies in which psychology researchers live and work, and beyond them, must be acknowledged by those conducting the research" (p. 10)
+> "...a shared collective duty for the welfare of human and non-human beings, both within the societies in which psychology researchers live and work, and beyond them, must be acknowledged by those conducting the research" (p. 10)
 
 Researchers must:
 - Ensure that benefits of the research outweigh the disruptions caused to individuals or groups.
@@ -43,7 +43,7 @@ Researchers must:
 
 ### **Maximising benefit and minimising harm**
 
-> psychologists should consider all research from the standpoint of the research participants, and anyother persons, groups or communities who may be potentially affected by the research, with the aim of avoiding potential risks topsychological well-being, mental health, personal values, the invasion of privacy or dignity. (p. 11)
+> "...psychologists should consider all research from the standpoint of the research participants, and anyother persons, groups or communities who may be potentially affected by the research, with the aim of avoiding potential risks topsychological well-being, mental health, personal values, the invasion of privacy or dignity." (p. 11)
 
 Researchers are responsible for:
 - Creating and implementing risk management protocols to avoid or reduce harm resulting from research participation, if any.
