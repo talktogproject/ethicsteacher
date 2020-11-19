@@ -35,7 +35,7 @@ Even researchers with great ideas and good intentions might not realize that the
 
 Here are some steps that a responsible researcher would normally take to get ethics approval:
 
-1. **Knowing the ethics requirements in their organization(s) or research site(s)**
+#### 1. **Knowing the ethics requirements in their organization(s) or research site(s)**
 
 - *Know which ethics committees are involved.* Members of the ethics committee should be independent of the researcher or research team and should be individuals with the appropriate knowledge of how research is conducted. In some cases, local requirements might require that a researcher should secure university ethics clearance first, then also secure ethics clearance with a government or state-level agency. This means that the entire ethics application process can take months to complete. 
 - *Ethics across international partners.* In international collaborations, the best practice is to secure ethics clearance with all partners conducting the research. To avoid [ethics dumping](integrity-global.md), it is important to secure ethics clearance from local research committees. This is not always possible; for example, in the case of student research projects or when there are no local ethics committees available in the research area. The best practice is to coordinate with local communities or experts to vouch for the soundness and cultural appropriateness of the research protocols.  
@@ -46,7 +46,7 @@ Here are some steps that a responsible researcher would normally take to get eth
 Securing ethics approval is a way to show that your study had been evaluated by objective reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- to middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
 * * *
 
-2. **Preparing your ethics application**
+#### 2. **Preparing your ethics application**
 
 Different ethics committees have different requirements. Typically, ethics committees may ask researchers to fill up an application form containing details of who is in the research team, the research aims and objectives, who will be recruited (and how), the study protocol, and samples of the materials to be used. Some important documents that may be included are:
 
@@ -85,7 +85,7 @@ Many universities have templates for participant information sheets and consent 
 #### How this supports the BPS ethics principle of _respect_ and _maximising benefit and minimising harm_
 * * *
 
-3. **Submitting your ethics application**
+#### 3. **Submitting your ethics application**
 
 It is important to remember that (1) data collection should not begin before ethics approval is received and (2) ethics approval should not be sought retroactively or after a study has been completed. To avoid any issues, be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees could meet every month, every few months, or when necessary or needed (as in the case of ad hoc committees). The situation varies in every institution and there can be periods in time when committees receive a higher number of submissions than usual.
 
