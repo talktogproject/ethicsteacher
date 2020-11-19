@@ -32,7 +32,7 @@ The GDPR laws applicable in the UK and Europe are specific about
 
 ### Data breaches
 
-### Data analysis and reporting
+### Data analysis and publishing
 
 ### Data archiving
 
