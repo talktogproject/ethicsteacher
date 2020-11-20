@@ -8,7 +8,7 @@
 
 ## Planning Your Study
 
-### **Writing a research plan**
+### **I. Writing a research plan**
 
 The best way to ensure that a study is carried out with the highest standards of research integrity and ethics is to have a clear research plan. A clear research plan is informed by a review of the literature, identifies specific research questions, and lays out a plan for answering these questions. Researchers have many opportunities to write down their research plan. It can be part of a grant application, a thesis proposal (for students), a preregistration or registered report, a research ethics application, or even two or more of the aforementioned documents.
 
@@ -29,7 +29,7 @@ Some things that researchers should think about during their planning are:
 A good research plan demonstrates that the study is well-planned, well-designed, and achievable. It shows that the researcher is knowledgeable about the topic and has the skills and resources needed to carry out the study responsibly and successfully.
 * * *
 
-### **Securing ethics clearance**
+### **II. Securing ethics clearance**
 
 Even researchers with great ideas and good intentions might not realize that they forgot something or have something wrong with their plan. Therefore it is important that an independent committee reviews what a researcher is planning to do. Any research that involves recruiting human participants to answer questions, perform tasks, or be observed (including recording on audio or video) require ethics approval.
 
