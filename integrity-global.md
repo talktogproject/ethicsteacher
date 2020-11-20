@@ -21,7 +21,7 @@ Source: *[Schroeder et al. (2018): Ethics dumping: Introduction](https://link.sp
 * Avoiding local ethics approval
 * Lack of awareness about the community, e.g., not contacting community leaders prior to a study
 * Insensitive behaviour, e.g., entering indigenous people's homes and taking pictures without consent
-* 'Extractive' research, e.g. not sharing benefits of the study or knowledge gained with the community being studied
+* 'Extractive' research, e.g., not sharing benefits of the study or knowledge gained with the community being studied
 
 The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was established to counter ethics dumping and to promote highly equitable partnerships between high-income and low- to middle-income countries around the world. The code of conduct has 4 main principles; namely:
 
