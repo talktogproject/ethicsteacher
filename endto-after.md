@@ -61,16 +61,23 @@ When processing personal data, it is important to adhere to the following data p
 
 For collaborations that involve the sharing and transfer of data between different organizations, it is good practice to draw up a written agreement (called a 'data sharing agreement') to specify the roles and responsbilities of each organization in relation to data processing.
 
-### Having a research data management plan
+### Writing a research data management plan
 
-Some grant and ethics applications require a research data management plan, or a xxxx. Even if your institution, funding agency, or ethics committee do not require one, it is a good starting point for thinking about the type of data you're collecting, how they are organised, stored, archived, and shared, and what ethical and legal issues need to be considered. The Digital Curation Centre provides a [checklist for creating a data management plan for your project](https://www.dcc.ac.uk/sites/default/files/documents/resource/DMP/DMP_Checklist_2013.pdf).  
+Some grant applications require a research data management plan. Even if your institution, funding agency, or ethics committee do not require one, writing a data management plan is a good way to think about the type of data you're collecting, how they are organised, stored, archived, and shared, and what ethical and legal issues need to be considered. The Digital Curation Centre provides a [checklist for creating a data management plan for your project](https://www.dcc.ac.uk/sites/default/files/documents/resource/DMP/DMP_Checklist_2013.pdf).
+
+### Some tips and tricks
+
+- While planning the research, think carefully about the personal data you will collect and why it is essential to your research question. Otherwise, maybe you do not need to collect that piece of information at all.
+- Working in teams: Consider the technical resources available across the collaborating organizations. Do partners have access to secure storage? Do partners have the software needed to open the data files that will be created? Will partners get support to procure and use the resources or software that will be used in the project?
+- Make sure that your data is stored securely, whether physically (e.g., in locked cabinets) or digitally (e.g., in folders that can only be accessed by authorised people).
+- Make sure that your devices and accounts are secure by installing the latest security updates, using password protection (including two-factor authentication), and being alert to hacking and phishing scams. It goes without saying that you should try not to physically misplace or lose your devices as well! 
+- Be organized with your files. Have clear methods of naming data files and folders and identifying different versions of the same file. It should be easy for somebody else to use and access.
+- Think about how you will store data in the short-term and long-term. It is a good idea to have multiple copies of data in secure and robust storage systems. Relying only on laptops, computer hard drives, and external hard drives can be risky. For long-term storage, look into different repositories available and any costs associated with archiving data there. Examples are the [UK Data Service](https://ukdataservice.ac.uk/) and [Figshare](https://figshare.com/).
+- Working in teams: Identify members of the team who will be responsible for overseeing data management or specific data management duties in every organization involved (if working collaboratively).
 
 ### Data breaches
 
 ### Data analysis and publishing
-
-### Data archiving
-
 
 ## NEXT: [Take the Section II Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH)
 ### [Click to view the Course Navigation page](toc.md)
