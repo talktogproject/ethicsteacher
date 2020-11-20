@@ -94,5 +94,7 @@ Under the GDPR, there is a [requirement to report personal data breaches within 
 
 As you can see, research integrity and ethics covers every stage of the research process. It requires good working knowledge of the latest professional and ethical standards in research, including the use of technologies to process data securely. It also requires the extensive planning and documentation of procedures and protocols that work for all individuals and organisations involved in the research project, whether it's a student project or a multi-year international collaboration like TalkTogether.
 
+There may be a lot of information to digest now but applying these research integrity and ethics principles can make your research more intentional, reliable, and trustworthy overall. 
+
 ## NEXT: [Take the Section II Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH)
 ### [Click to view the Course Navigation page](toc.md)
