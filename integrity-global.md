@@ -38,18 +38,19 @@ The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was establish
 ### **3. Care**
   - Procedures for getting consent and raising questions and complaints must be accessible, easy to understand, and agreed upon with the local communities
   - No double standard: if research would be restricted or prohibited in a high-income country, then this should not be carried out in a low- and middle-income country either
-  - Potential risks to the participants (e.g., discrimination due to sensitive information shared) and researchers (e.g., security), or potential burdens on local resources (e.g., time of local staff) should be discussed with local partners
+  - Potential risks to the participants (e.g., discrimination due to sensitive information shared) and researchers (e.g., security), or potential burdens on local resources (e.g., time of local staff), should be discussed with local partners
   
 ### **4. Honesty**
-  - Defining clear roles, responsibilities, and conduct across all parties involved in the research; capacity-building for local researchers must be discussed
-  - Researchers must be clear and transparent in their communication, using plain, non-patronizing language, and without withholding any information
+  - Clear roles, responsibilities, and expectations for conduct must be discussed across all parties involved in the research
+  - Capacity-building for local researchers should be part of the project plan
+  - Researchers must be clear and transparent in their communication: using plain, non-patronizing language, and without withholding any information
   - Researchers must not accept or support any form of corruption or bribery
-  - Maintain high standards of data privacy even when local standards or procedures may be lower
+  - Researchers must maintain high standards of data privacy even when local standards are more lax
 
 
-As you can see, the research community has done a great deal to establish what we must expect from each other as researchers, wherever we are in the world. In the next section, we will take a closer look at how ethics is applied to different stages of the research process.
+As you can see, the research community has done a lot to establish what we must expect from each other as researchers, wherever we are in the world. In the next section, we will take a closer look at how ethics is applied to different stages of the research process.
 
-Before we proceed, let's check what you've learned so far with a quiz:
+But before we proceed, let's check what you've learned so far with a quiz:
 
 ## NEXT: [Take the Section I Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_8wFuwjJJSM46aIl)
 ### [Click to view the Course Navigation page](toc.md)
