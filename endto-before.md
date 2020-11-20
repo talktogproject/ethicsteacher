@@ -64,7 +64,7 @@ The ultimate goal is for participants to _understand_ what the study is about, w
 | **Participants' rights** |
 | The right to withdraw participation | Your child is free to withdraw from the study at any time without giving any reason and with no negative consequences |
 | The right to withdraw data | You may request for your child's data to be destroyed (until a certain date) |
-| **What will be done with the data gathered** |
+| **How data gathered will be treated** |
 | Confidentiality | Your child's data can only be accessed by members of the research team |
 | Anonymity | Your child's answers will be anonymised and we will not use their name or your name in any publications from this project |
 | Planned data use and outcomes | We will compute the average scores across participants and report these in scientific articles/reports |
