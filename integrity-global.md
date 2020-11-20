@@ -16,14 +16,14 @@ _Ethics dumping_ refers to the exporting of unethical ethics practices to low- a
 
 Source: *[Schroeder et al. (2018): Ethics dumping: Introduction](https://link.springer.com/book/10.1007%2F978-3-319-64731-9)*
 
-[Many famous examples come from health and biological research](https://theconversation.com/ethics-dumping-the-dark-side-of-international-research-88675); however, The Guardian provides [some examples that are also relevant to education and social sciences research](https://www.theguardian.com/higher-education-network/2018/aug/31/ethics-dumping-the-exploitative-side-of-academic-research):
+[Many famous examples come from health and biological research](https://theconversation.com/ethics-dumping-the-dark-side-of-international-research-88675); however, The Guardian provides [some examples that are also relevant to education and social sciences research](https://www.theguardian.com/higher-education-network/2018/aug/31/ethics-dumping-the-exploitative-side-of-academic-research), such as:
 
 * Avoiding local ethics approval
 * Lack of awareness about the community, e.g., not contacting community leaders prior to a study
 * Insensitive behaviour, e.g., entering indigenous people's homes and taking pictures without consent
 * 'Extractive' research, e.g., not sharing benefits of the study or knowledge gained with the community being studied
 
-The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was established to fight against ethics dumping and to promote equal partnerships between high-income and low- to middle-income countries around the world. The code of conduct has 4 main principles; namely:
+The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was established to fight against ethics dumping and to promote equal partnerships between high-income and low- and middle-income countries around the world. The code of conduct has 4 main principles; namely:
 
 ### **1. Fairness**
   - Collaborating with local communities on issues that are relevant to them
