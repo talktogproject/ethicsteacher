@@ -31,7 +31,7 @@ A good research plan demonstrates that the study is well-planned, well-designed,
 
 ### **II. Getting ethics approval**
 
-Even researchers with great ideas and good intentions might not realize that they forgot something or have something wrong with their plan. Therefore it is expected that an independent committee can review what a researcher is planning to do. Any research that involves recruiting human participants to answer questions, perform tasks, or be observed (including recording on audio or video) require ethics approval.
+Even researchers with great ideas and good intentions might not realize that they forgot something or have something wrong with their plan. Therefore it is expected that an independent committee can review what a researcher is planning to do. Any research that involves recruiting human participants to answer questions, perform tasks, or be observed (with or without an audio or video recording) require ethics approval.
 
 Here are some steps that a researcher should take for a successful ethics application:
 
