@@ -60,7 +60,7 @@ The ultimate goal is for participants to _understand_ what the study is about, w
 | The aim(s) of the study | e.g., to understand how Kannada-speaking children learn new words |
 | What data will be collected | Demographic information, opinions or attitudes about something, scores on a task|
 | How data will be collected | Through a pen and paper task, using an online questionnaire, by taking audio or video recordings |
-| How long it will take to participate | e.g., Two sessions lasting 30-40 minutes each |
+| How long it will take to participate | e.g., two sessions lasting 30-40 minutes each |
 | **Participants' rights** |
 | The right to withdraw participation | You are free to withdraw from the study at any time without giving any reason and with no negative consequences |
 | The right to withdraw data | You may request for your data to be destroyed (until a certain date) |
