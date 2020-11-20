@@ -27,4 +27,3 @@ This training is delivered with asynchronous (online course) and synchronous (li
 - [Section III: Instructions for Live Discussion and Q&A](discussion.md)
 
 ## LET'S GO! [Click to begin the online course](intro.md)
-### [Click to view the Course Navigation page](toc.md)
