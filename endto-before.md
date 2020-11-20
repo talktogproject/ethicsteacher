@@ -77,7 +77,7 @@ The ultimate goal is for participants to _understand_ what the study is about, w
 
 As you can see, this is a lot of information to share! Make sure to give enough time for the participant to think about whether they still want to participate after receiving this information. Also, make sure to answer any questions that they might have about the study.
 
-Because the goal is for participants to understand what they are being asked to do, this information sheet needs to be written in simple language and in a language understood by the participant. When research is conducted among communities with low literacy or where paper records are viewed with suspicion or even as a safety threat, researchers should consider alternative ways of providing information, such as sharing the information orally. 
+Because the goal is for participants to understand what they are being asked to do, this information sheet needs to be written in simple language and in a language understood by the participant. When research is conducted in communities with low literacy or where paper records are viewed with suspicion or even as a safety threat, researchers should consider alternative ways of providing information, such as sharing the information orally. 
 
 ##### **B. Informed consent and/or assent**
 
