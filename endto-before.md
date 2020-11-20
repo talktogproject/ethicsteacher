@@ -35,7 +35,7 @@ Even researchers with great ideas and good intentions might not realize that the
 
 Here are some steps that a researcher should take for a successful ethics application:
 
-#### 1. **Know the ethics requirements in your organization(s) or research site(s)**
+#### 1. **Know the ethics requirements in your organisation(s) or research site(s)**
 
 - *Know which ethics committees are involved.* Members of the ethics committee should be independent of the researcher or research team and should be individuals with the appropriate knowledge of how research is conducted. In some cases, local requirements might require university-based ethics approval, followed by another application to a government or state-level agency. This means that the entire ethics application process can potentially take months to complete. 
 - *Ethics across international partners.* In international collaborations, the best practice is to get ethics approval through all partners conducting the research. To avoid [ethics dumping](integrity-global.md), it is important to get ethics approval from local research committees. This is not always possible; for example, in the case of student research projects or when there are no local ethics committees available in the research area. In this case, the research team should coordinate with local communities or experts to review the appropriateness and cultural appropriateness of the research plans.  
@@ -98,7 +98,7 @@ Although a lot of information needs to be given to participants, this ensures th
 
 #### 3. **Submit your ethics application**
 
-It is important to remember that (1) data collection should not begin before ethics approval is received and (2) ethics approval should not be sought retroactively or after a study has been completed. To avoid such problems, be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees could meet every month, every few months, or when necessary or needed (as in the case of ad hoc committees). The situation varies in every institution and there can be periods in time when committees receive a higher number of submissions than usual.
+It is important to remember that (1) data collection should not begin before ethics approval is received and (2) ethics approval should not be sought retroactively or after a study has been completed. To avoid such problems, be aware of submission deadlines and how long it takes for ethics committees to process your application. Ethics committees might meet every month, every few months, or when necessary (as in the case of ad hoc committees). The situation varies for every organisation and there can be periods in time when committees receive a higher number of submissions than usual.
 
 In the best-case scenario, the ethics committee will approve your study and you may begin collecting data. In some cases, the ethics committee might send feedback or request revisions before they give formal approval. In the worst-case scenario, the ethics application is rejected and the researcher needs to start all over again. Therefore, it is really important to plan your research extensively and prepare a well-written and well-justified ethics application. 
 
