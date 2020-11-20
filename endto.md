@@ -3,7 +3,7 @@
 1. **Core Principles**
 2. [Planning Your Study](endto-before.md)
 3. [Implementing Your Study](endto-during.md)
-4. [Storing, Analysing, and Archiving Your Data](endto-after.md)
+4. [Processing Your Data](endto-after.md)
 5. [Section II Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH) *password required*
 
 ## Core Principles
