@@ -56,5 +56,5 @@ Research misconduct and questionable research practices [lead to a number of con
 
 Currently, there are great initiatives to improve transparency and accuracy in research, such as [pre-registration](https://www.cos.io/initiatives/prereg), [registered reports](https://www.cos.io/initiatives/registered-reports), and [the open sharing of data sets and research materials](https://www.cos.io/initiatives/badges). These open science practices are becoming increasingly popular within the scientific community.  
 
-## NEXT: [When research goes global: On ethics dumping](integrity-global.md)
+## NEXT: [When research goes global: About ethics dumping](integrity-global.md)
 ### [Click to view the Course Navigation page](toc.md)
