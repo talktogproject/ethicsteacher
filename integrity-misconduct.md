@@ -20,7 +20,7 @@ In an infamous case of scientific fraud, a social psychologist published papers 
 
 ### **Plagiarism**
 
-[According to the APA](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism), plagiarism "is the act of presenting the words, ideas, or images of another as your own; it denies authors or creators of content the credit they are due". An example is failing to cite the original article where a quote, idea, or image was first published. This also incldues self-plagiarism; for example, if an author publishes the same study in two different journals. There may be grey areas and acceptable uses of previous work, such as minor citation errors and students who publish peer-reviewed articles based on their thesis work. [Go to the APA Style website for more information about plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism).
+[According to the APA](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism), plagiarism "is the act of presenting the words, ideas, or images of another as your own; it denies authors or creators of content the credit they are due". An example is failing to cite the original article where a quote, idea, or image was first published. This also includes self-plagiarism; for example, if an author publishes the same study in two different journals. There may be grey areas and acceptable uses of previous work, such as minor citation errors and students who publish peer-reviewed articles based on their thesis work. [Go to the APA Style website for more information about plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism).
 
 ### **Undisclosed conflicts of interest**
 
