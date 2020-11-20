@@ -47,7 +47,7 @@ The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was establish
   - maintain high standards of data privacy even when local standards or procedures may be lower
 
 
-As you can see, the research community has done a great deal to establish what we must expect from each other as researchers, wherever we are in the world. In the next section, we will take a closer look at how ethics is applied to every stage of the research process.
+As you can see, the research community has done a great deal to establish what we must expect from each other as researchers, wherever we are in the world. In the next section, we will take a closer look at how ethics is applied to different stages of the research process.
 
 Before we proceed, let's check what you've learned so far with a quiz:
 
