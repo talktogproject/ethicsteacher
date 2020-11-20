@@ -22,7 +22,7 @@ Researchers should then:
 
 * be aware of existing laws, codes of practice, policies, and publication rules in their field
 * gain the necessary skills and training (including ethics training) applicable to their field
-* take initiative in asking questions or raising concerns when issues arise
+* take the initiative in asking questions or raising concerns when issues arise
 * be transparent and accountable to their peers and their organization
 
 Source: *Adapted from the [University of Oxford Research Integrity Leaflet](https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/research_integrityv6_web.pdf)*
@@ -32,8 +32,8 @@ The responsibility to uphold research integrity rests not only on the individual
 ### Something to think about:
 
 Does your team, organization, academic field, and/or funder have clear policies and systems for:
-* Obtaining ethics clearance
-* Training researchers in ethics and study protocols
+* Getting ethics approval
+* Training researchers in research ethics and study protocols
 * Reporting changes in research protocols
 * Reporting research misconduct
 * Monitoring and evaluating progress in your research project
