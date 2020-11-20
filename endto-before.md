@@ -25,8 +25,8 @@ Some things that researchers should think about during their planning are:
 - Alternative plans in case things do not go as planned
 
 * * * 
-#### How this supports the BPS ethics principle of _scientific integrity_
-A good research plan demonstrates that the study is well-planned, well-designed, and achievable. It shows that the researcher is knowledgeable about the topic and has the skills and resources needed to carry out the study responsibly and successfully.
+> #### How this supports the BPS ethics principle of _scientific integrity_
+> A good research plan demonstrates that the study is well-planned, well-designed, and achievable. It shows that the researcher is knowledgeable about the topic and has the skills and resources needed to carry out the study responsibly and successfully.
 * * *
 
 ### **Securing ethics clearance**
@@ -42,15 +42,15 @@ Here are some steps that a responsible researcher would normally take to get eth
 - *Know what kind of ethics application should be made.* Many institutions differentiate between ethics applications that qualify for a quicker application process if the research qualifies as 'minimal risk'. For research with children, institutions normally require a 'full review' as they are considered a 'vulnerable group'.
 
 * * *
-#### How this supports the BPS ethics principles of _scientific integrity_ and _social responsibility_
-Securing ethics approval is a way to show that your study had been evaluated by objective reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- to middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
+> #### How this supports the BPS ethics principles of _scientific integrity_ and _social responsibility_
+> Securing ethics approval is a way to show that your study had been evaluated by objective reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- to middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
 * * *
 
 #### 2. **Preparing your ethics application**
 
 Different ethics committees have different requirements. Typically, ethics committees may ask researchers to fill up an application form containing details of who is in the research team, the research aims and objectives, who will be recruited (and how), the study protocol, and samples of the materials to be used. Some important documents that may be included are:
 
-**A. Participant information sheet**
+##### **A. Participant information sheet**
 
 The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. The [BPS recommends sharing information such as the ones specified in the table below](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf):
 
@@ -80,7 +80,7 @@ As you can see, this is a lot of information to share! Make sure to give enough 
 
 Because the goal is for participants to understand what they are being asked to do, this information sheet needs to be written in simple language and in a language understood by the participant. When research is conducted among communities with low literacy or where paper records are viewed with suspicion or even as a safety threat, researchers should consider alternative ways of providing information, such as sharing the information orally. 
 
-**B. Informed consent and/or assent**
+##### **B. Informed consent and/or assent**
 
 Getting informed consent is a confirmation that a participant understood what a study is about and that they are voluntarily participating in it. Consent should be gained before collecting research data from that individual. Children (under age 16 or 18, depending on where you are) are considered vulnerable. Their participation in research requires consent from an adult, normally a parent or the primary caregiver. The standard procedure is for two copies of a written consent form to be signed, one for the research team and one for the participant (or participant's parent) to keep.
 
@@ -93,8 +93,8 @@ Many universities have templates for participant information sheets and consent 
 Check if your research group, organization, or ethics committee have required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
 
 * * *
-#### How this supports the BPS ethics principles of _respect_ and _maximising benefit and minimising harm_
-Although a lot of information needs to be given to participants, this ensures that participants know exactly what they are participating in and they can make an informed decision to participate in the study or not. Making sure that complete information is given to adults in low literacy or disadvantaged communities in language that is understandable and non-patronizing, and that children have the opportunity to give assent, ensures that every individual is treated with respect regardless of who they are. Following these procedures minimize harm by reducing the chance of exploitation or deceiving people into participating in research with incomplete or inaccurate information about the study and their rights as participants.
+> #### How this supports the BPS ethics principles of _respect_ and _maximising benefit and minimising harm_
+> Although a lot of information needs to be given to participants, this ensures that participants know exactly what they are participating in and they can make an informed decision to participate in the study or not. Making sure that complete information is given to adults in low literacy or disadvantaged communities in language that is understandable and non-patronizing, and that children have the opportunity to give assent, ensures that every individual is treated with respect regardless of who they are. Following these procedures minimize harm by reducing the chance of exploitation or deceiving people into participating in research with incomplete or inaccurate information about the study and their rights as participants.
 * * *
 
 #### 3. **Submitting your ethics application**
@@ -108,8 +108,8 @@ In the best case scenario, the ethics committee will approve your study and you 
 Sometimes, you realize that some things in your plan are not working or need to be changed. Sometimes the changes are significant, such as changing the method of investigating the research question or completely changing the type of participants to be recruited. Often the changes are minor, such as minor corrections in the consent documents. When large changes are made, it is good to contact your ethics committee about the changes to know if these are acceptable or if these require a new ethics application. When you are unsure if a change is significant enough, the safe thing to do is to contact the ethics committee for their advice.
 
 * * *
-#### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
-Submitting an ethics application for review and keeping your ethics committee informed about changes to your research protocol is a way to ensure honesty and transparency in your research. It is important to submit an application that describes your research accurately and in the way you really intend to do it. When you submit your application for review, you are being a good citizen of the scientific community by acknowledging the importance of outside opinion, and acknowledging your own limitations of a researcher, who may not see all the ethical implications of what you plan to do in your study. After all, it is better to identify potential problems early than to discover them halfway into your data collection!
+> #### How this supports the BPS ethics principle of _scientific integrity_ and _social responsibility_
+> Submitting an ethics application for review and keeping your ethics committee informed about changes to your research protocol is a way to ensure honesty and transparency in your research. It is important to submit an application that describes your research accurately and in the way you really intend to do it. When you submit your application for review, you are being a good citizen of the scientific community by acknowledging the importance of outside opinion, and acknowledging your own limitations of a researcher, who may not see all the ethical implications of what you plan to do in your study. After all, it is better to identify potential problems early than to discover them halfway into your data collection!
 * * *
 
 ## NEXT: [Implementing your study](endto-during.md)
