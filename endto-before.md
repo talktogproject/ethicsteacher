@@ -52,31 +52,29 @@ Different ethics committees have different requirements. Typically, ethics commi
 
 **A. Participant information sheet**
 
-The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. The [BPS recommends sharing information such as](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf):
+The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. The [BPS recommends sharing information such as the ones specified in the table below](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf):
 
-##### What the study is about
-* The aim(s) of the study
-* What data will be collected (e.g., demographic information, opinions or attitudes about something, scores on a task)
-* How it will be collected (e.g., through a pen and paper task, through an online questionnaire)
-* How much time it will take to participate in the study (e.g., number and length of sessions)
-
-##### Participants' rights
-* The right to refuse to provide any particular information requested
-* The right to withdraw at any time with no negative consequences
-* The right to have any data destroyed upon request (until a certain date)
-
-##### What will be done with the data gathered
-* Assurance that any information shared will be kept confidential (e.g., by giving access only to members of the research team, by anonymising datasets)
-* How data will be stored and kept confidential (e.g., by using password protected devices)
-* How data will be used and the planned outcomes (e.g., mean scores computed and reported, results to be published in scientific articles or reports)
-
-##### Risks and benefits of participating in the research
-* Any risks (e.g., including minor risks like getting tired of answering a long survey) and how they will be managed (e.g., being able to take breaks when needed)
-* Any reimbursement or compensation to be given to participants; if none, then this should also be stated. It is important that participants are not coerced to participate either by offering disproportionate rewards for participating or punishments for not participating.
-* Potential benefits of the research (e.g., help design an assessment or intervention, contribute to knowledge about a certain topic)
-
-##### How to contact the research team
-* Names and details of the principal investigator and/or a contact person for questions or complaints
+| General header | Sample statements or information provided |
+|----------------------------------  |-----|
+| **What the study is about** |
+| The aim(s) of the study | To understand how Kannada-speaking children learn new words |
+| What data will be collected | Demographic information, opinions or attitudes about something, scores on a task|
+| How data will be collected | Through a pen and paper task, using an online questionnaire, by taking audio or video recordings |
+| How long it will take to participate | Two sessions lasting 30-40 minutes each |
+| **Participants' rights** |
+| The right to withdraw participation | Your child is free to withdraw from the study at any time without giving any reason and with no negative consequences |
+| The right to withdraw data | You may request for your child's data to be destroyed (until a certain date) |
+| **What will be done with the data gathered** |
+| Confidentiality | Your child's data can only be accessed by members of the research team |
+| Anonymity | Your child's answers will be anonymised and we will not use their name or your name in any publications from this project |
+| Planned data use and outcomes | We will compute the average scores across participants and report these in scientific articles/reports |
+| **Risks and benefits of participating in the research** |
+| Risks of participation and how they are managed | Your child might get tired from answering a long survey; hence we are limiting the session to 30-40 minutes |
+| Reimbursement or compensation; if none, this should also be stated | Note: It is important that participants are not coerced to participate either by offering disproportionate rewards for participating or punishments for not participating |
+| Potential benefits of the research, which may be direct or indirect to the participant | There are no direct benefits to your child; however, results of this study will contribute to our understanding about Kannada language development |
+| **How to contact the research team** |
+| Who is leading the project | Name and contact details of the principal investigator |
+| A designated contact person | For any questions or complaints |
 
 As you can see, this is a lot of information to share! Make sure to give enough time for the participant to think about whether they still want to participate after receiving this information. Also make sure to answer any questions that they might have about the study.
 
