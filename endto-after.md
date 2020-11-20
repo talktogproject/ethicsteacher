@@ -8,7 +8,7 @@
 
 ## Storing, Analysing, and Archiving Your Data
 
-As part of our research, we are creating, encoding, storing, analysing, and archiving data about individuals. This comes with the responsibility to maintain their privacy and to use data about them in a fair and responsible way. In the UK and the European Union, the GDPR (General Data Protection Regulation) provides a legal framework for doing so. We will use GDPR-related terminology in this section; however, we think that researchers from non-EU countries can also think about how these regulations apply to their local areas. 
+As part of our research, we are creating, encoding, storing, analysing, and archiving data about individuals. This comes with the responsibility to maintain their privacy and to use data about them in a fair and responsible way. In the United Kingdom and the European Union, the GDPR (General Data Protection Regulation) provides a legal framework for doing so. We will use GDPR-related terminology in this section; however, we think that researchers from non-EU countries can also think about how these regulations apply to their local areas. 
 
 The kind of research we do often involves the processing of _personal data_.
 
@@ -37,14 +37,18 @@ Source: _[Data Protection & Research, University of Oxford](https://researchsupp
 
 When processing personal data, it is important to adhere to the following data protection principles:
 
-| Data protection principle |xx  |
+| Data protection principle | Description |
 | -------|-------|
-| Fair and transparent data processing | |
-| The data is collected for specific, explicit, and legitimate purposes | |
-| The data collected is no more than is necessary for the research | |
-| Personal data is accuracy and up-to-date (if needed) | |
-| Identifiable data is destroyed when no longer needed | |
-| Personal data is processed securely | |
+| Fair, lawful, and transparent data processing | Researchers must be clear about who will process or view their data (including the transfer of data outside the European Economic Area), for what purpose(s) and for how long. Participants must also be aware of their right to withdraw consent at any time |
+| The data is collected for specific, explicit, and legitimate purposes | Personal data collected for a specific purpose should NOT be used for something else, unless there is consent for the new purpose. The use of personal data for other research is usually exempted from this principle |
+| The data collected and processed is no more than is necessary for the research | This discourages researchers from collecting more personal information than is necessary. Even within research teams, it is possible that not all members of the research team require access to the non-anonymised dataset to carry out their research duties |
+| Personal data is accurate and up-to-date (if needed) | Inaccurate data must be corrected or deleted without delay. Researchers are normally interested in a person's situation at a particular point in time; as such, there may be no need to update the information in the future |
+| Identifiable data is destroyed when no longer needed | It is good practice to specify a suitable time when participant lists are destroyed, normally towards the end of the research project period |
+| Personal data is processed securely | Secure processing means that only authorised people can access and process personal data and within the scope of their duties, and that lost personal data can still be recovered if accidentally lost or destroyed. This means that there should be appropriate technological resources, organisational measures, and staff training in place for processing personal data securely |
+
+For collaborations that involve the sharing and transfer of data between different organizations, it is good practice to draw up a written agreement (called a 'data sharing agreement') to specify the roles and responsbilities of each organization in relation to data processing.
+
+Researchers should also be mindful of the storage services that they use.
 
 ### Anonymous and pseudonymous data
 
