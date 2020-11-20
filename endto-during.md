@@ -8,7 +8,7 @@
 
 ## Implementing Your Study
 
-If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow during data colletion. Equally, it is important that researchers are prepared to respond to different situations during data collection, where often they need to make decisions on their own and without immediate feedback from the rest of the team. This is especially true for fieldwork overseas or in remote communities. 
+If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow during data collection. Equally, it is important that researchers are prepared to respond to different situations during data collection, where often they need to make decisions on their own and without immediate feedback from the rest of the team. This is especially true for fieldwork overseas or in remote communities. 
 
 ### **I. Training your research staff & students**
 
