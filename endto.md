@@ -14,7 +14,7 @@ As stated in the [British Psychological Association (BPS) Code of Human Research
 
 Because child research almost always involves research with human participants, we adopt four principles outlined by BPS; namely:
 
-### **1. Respect for the autonomy, privacy and dignity of individuals and communities**
+### **1. Respect for the autonomy, privacy, and dignity of individuals and communities**
 
 > Researchers "have a responsibility to develop and follow procedures for valid consent, confidentiality, anonymity, fair treatment and due process that are consistent with those rights." (p. 8)
 
@@ -37,7 +37,7 @@ Researchers should then ensure that:
 > "...a shared collective duty for the welfare of human and non-human beings, both within the societies in which psychology researchers live and work, and beyond them, must be acknowledged by those conducting the research" (p. 10)
 
 Researchers must:
-- Ensure that benefits of the research outweigh the disruptions caused to individuals or groups.
+- Ensure that the benefits of the research outweigh the disruptions caused to individuals or groups.
 - Collaborate with colleagues, participants, and others.
 - Be aware of their own professional and personal limitations.
 
