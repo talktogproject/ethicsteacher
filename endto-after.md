@@ -19,9 +19,32 @@ This includes a person's:
 - identification number
 - location data
 - online identifier (e.g., IP address)
-- individual characteristics (e.g., physical, physiological, genetic, cultural, social)
+
+The GPDR also considers certain types of data to be especially private and leaves participants to potential discrimination. These include data about a person's:
+- racial or ethnic origin
+- political opinions
+- religious or philosophical beliefs
+- trade union membership
+- genetic data
+- biometric data (for unique identification)
+- health
+- sex life
+- sexuality
+
+Extra care is needed for these _special category personal data_.
 
 Source: _[Data Protection & Research, University of Oxford](https://researchsupport.admin.ox.ac.uk/files/dataprotectionandresearchpdf)_
+
+When processing personal data, it is important to adhere to the following data protection principles:
+
+| Data protection principle |xx  |
+| -------|-------|
+| Fair and transparent data processing | |
+| The data is collected for specific, explicit, and legitimate purposes | |
+| The data collected is no more than is necessary for the research | |
+| Personal data is accuracy and up-to-date (if needed) | |
+| Identifiable data is destroyed when no longer needed | |
+| Personal data is processed securely | |
 
 ### Anonymous and pseudonymous data
 
