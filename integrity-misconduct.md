@@ -50,7 +50,7 @@ Behaviours that have been classified by some authors [[1](https://link.springer.
 
 * Inflating a researcher's publication record by listing papers as 'in press' when they have not yet been accepted in a journal
 * Inaccurate research summaries in abstracts or incomplete reporting of research methods (e.g., failing to report all research conditions or study variables)
-* [p-hacking](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106#sec001) or the selective reporting of variables, data points, or statistical analyses that produce statistically significant results
+* [p-hacking](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106#sec001) or the selective reporting of variables, data points, or data analyses that produce statistically significant results
 
 Research misconduct and questionable research practices [lead to a number of consequences](https://link.springer.com/article/10.1007%252FPL00022268); such as wasting research funding, decreasing the trustworthiness of research, researchers, and research institutions, and in the case of child research, potentially misdirecting policy decisions and future public funding.
 
