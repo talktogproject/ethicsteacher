@@ -78,6 +78,15 @@ Some grant applications require a research data management plan. Even if your in
 
 ### Data breaches
 
+Examples of incidents that could put the safety and confidentiality of your data are:
+
+- lost or stolen laptops or mobile devices
+- hacked e-mail or online accounts
+- viruses, keyloggers, and other malware in your computer or computer network
+- unauthorised access to your organisation's servers or IT systems
+
+Check with your research team or organisation if you have a policy for reporting possible data breaches. Even if you don't, it is always a good idea to talk to your supervisor or research team for guidance on what to do next. For example, there may be an option to remote wipe data from lost laptops or mobile devices, or to recover hacked accounts with stronger protections. The IT department of your organisation may also be able to help.
+
 ### Data analysis and publishing
 
 ## NEXT: [Take the Section II Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH)
