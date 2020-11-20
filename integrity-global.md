@@ -45,7 +45,7 @@ The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was establish
   - Capacity-building for local researchers should be part of the project plan
   - Researchers must be clear and transparent in their communication: using plain, non-patronizing language, and without withholding any information
   - Researchers must not accept or support any form of corruption or bribery
-  - Researchers must maintain high standards of data privacy even when local standards are more lax
+  - Researchers must maintain high standards of data privacy even when local standards are lax
 
 
 As you can see, the research community has done a lot to establish what we must expect from each other as researchers, wherever we are in the world. In the next section, we will take a closer look at how ethics is applied to different stages of the research process.
