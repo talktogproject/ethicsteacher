@@ -13,7 +13,7 @@ Try to answer these 3 questions using concepts and principles you learned in the
 
 The case vignettes are all fictional situations and are meant for training and discussion purposes.
 
-If you are interested in real case studies, the [Economic and Social Research Council has many interesting case studies published on their website](https://esrc.ukri.org/funding/guidance-for-applicants/research-ethics/ethics-case-studies/)
+For real case studies, the [Economic and Social Research Council has several published on their website](https://esrc.ukri.org/funding/guidance-for-applicants/research-ethics/ethics-case-studies/).
 
 ### 3. On the scheduled date and time, join the Microsoft Teams discussion using the meeting invitation sent to you via e-mail.
 
