@@ -3,10 +3,10 @@
 1. [Core Principles](endto.md)
 2. [Planning Your Study](endto-before.md)
 3. [Implementing Your Study](endto-during.md)
-4. **Storing, Analysing, and Archiving Your Data**
+4. **Processing Your Data**
 5. [Section II Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH) *password required*
 
-## Storing, Analysing, and Archiving Your Data
+## Processing Your Data
 
 As part of our research, we are creating, encoding, storing, analysing, and archiving data about individuals. This comes with the responsibility to maintain their privacy and to use data about them in a fair and responsible way. In the United Kingdom and the European Union, the GDPR (General Data Protection Regulation) provides a legal framework for doing so. We will use GDPR-related terminology in this section; however, we think that researchers from non-EU countries can also think about how these regulations apply to their local areas. 
 
