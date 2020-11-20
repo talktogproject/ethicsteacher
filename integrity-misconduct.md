@@ -48,7 +48,7 @@ Serious research misconduct, such as data fabrication, may be clear-cut. However
 
 Behaviours that have been classified by some authors [[1](https://link.springer.com/article/10.1007%252FPL00022268), [2](https://journals.sagepub.com/doi/full/10.1177/0956797611430953?casa_token=6ZCAk1BdpFQAAAAA%3AFMVg1J6IAA-PbzLzBwzLBc3-Xx4BH_uXxugsF5DNNSaQv8RA3lZJSIB1N3OzgRfxC3X2ZJ2MHPc)] as questionable research practices include:
 
-* Inflating one's research record by listing papers as 'in press' when they have not yet been accepted in a journal
+* Inflating a researcher's publication record by listing papers as 'in press' when they have not yet been accepted in a journal
 * Inaccurate research summaries in abstracts or incomplete reporting of research methods (e.g., failing to report all research conditions or study variables)
 * [p-hacking](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106#sec001) or the selective reporting of variables, data points, or statistical analyses that produce statistically significant results
 
