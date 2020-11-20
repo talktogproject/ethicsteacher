@@ -16,7 +16,7 @@ For example, here are the ways that research integrity is upheld by the TalkToge
 * We create extensive written documentation of our study protocols and key decisions made by the research team, with a goal to produce tools and protocols for public use.
 
 ### **Within our organizations and academic institutions**
-* We obtain ethics clearance from each of the institutions involved. Currently, they are The Promise Foundation's ethics committee, an ad-hoc ethics committee for the University of the Philippines - Diliman, and the [University of Oxford's CUREC](https://researchsupport.admin.ox.ac.uk/governance/ethics).
+* We apply for ethics approval from each of the institutions involved. Currently, they are The Promise Foundation's ethics committee, an ad-hoc ethics committee for the University of the Philippines - Diliman, and the [University of Oxford's CUREC](https://researchsupport.admin.ox.ac.uk/governance/ethics).
 * Changes in the research protocol, if any, should be raised with the same ethics committees listed above.
 * The University of Oxford provides [guidance on how to report research misconduct through multiple channels](https://researchsupport.admin.ox.ac.uk/governance/integrity/misconduct#collapse390836).
 
