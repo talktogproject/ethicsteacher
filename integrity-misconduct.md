@@ -28,7 +28,7 @@ Here is an example of a conflict of interest from the [Research Support office a
 
 > A researcher holds a position (for example as a director) in an enterprise that may wish to restrict or otherwise manage adverse research findings for commercial reasons."
 
-Let's say that a researcher co-owns a company that sells educational products designed to improve children's learning outcomes. The researcher then publishes a study wherein she evaluated the effectiveness of using these products. This study may be perceived as less objective or trustworthy because the researcher has a financial incentive for showing that the product works. In this case, the conflict of interest should be [declared, managed, or avoided by the researcher](https://www.hra.nhs.uk/media/documents/nreap04-guidance-national-research-ethics-advisors-panel-13-february-2012.pdf).
+Let's say that a researcher co-owns a company that sells educational products designed to improve children's learning outcomes. The researcher then publishes a study wherein she evaluated the effectiveness of using these products. This study may be perceived as less trustworthy because the researcher has a financial incentive for showing that the product works. In this case, the conflict of interest should be [declared, managed, or avoided by the researcher](https://www.hra.nhs.uk/media/documents/nreap04-guidance-national-research-ethics-advisors-panel-13-february-2012.pdf).
 
 ### **'Gift' or 'ghost' authorships**
 
