@@ -12,7 +12,7 @@ International research collaborations, on the one hand, can lead to a meaningful
 
 _Ethics dumping_ refers to the exporting of unethical ethics practices to low- to middle-income countries.
 
-> Ethics dumping occurs mainly in two areas. First, when research participants and/or resources in low- and middle-income countries (LMICs) are exploited intentionally, for instance because research can be undertaken in an LMIC that would be prohibited in a high-income country. Second, exploitation can occur due to insufficient ethics awareness on the part of the researcher, or low research gover-nance capacity in the host nation. (p. 2)
+> Ethics dumping occurs mainly in two areas. First, when research participants and/or resources in low- and middle-income countries (LMICs) are exploited intentionally, for instance because research can be undertaken in an LMIC that would be prohibited in a high-income country. Second, exploitation can occur due to insufficient ethics awareness on the part of the researcher, or low research governance capacity in the host nation. (p. 2)
 
 Source: *[Schroeder et al. (2018): Ethics dumping: Introduction](https://link.springer.com/book/10.1007%2F978-3-319-64731-9)*
 
