@@ -37,7 +37,7 @@ The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was establish
   
 ### **3. Care**
   - Procedures for getting consent and raising questions and complaints must be accessible, easy to understand, and agreed upon with the local communities
-  - No double standard: if research would be restricted or prohibited in a high-income country, then this should not be carried out in a low- and middle-income country either
+  - No double standard: If research would be restricted or prohibited in a high-income country, then this should not be done in a low- and middle-income country either
   - Potential risks to the participants (e.g., discrimination due to sensitive information shared) and researchers (e.g., security), or potential burdens on local resources (e.g., time of local staff), should be discussed with local partners
   
 ### **4. Honesty**
