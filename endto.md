@@ -34,7 +34,7 @@ Researchers should then ensure that:
 
 ### **3. Social responsibility**
 
-> "...a shared collective duty for the welfare of human and non-human beings, both within the societies in which psychology researchers live and work, and beyond them, must be acknowledged by those conducting the research" (p. 10)
+> "...a shared collective duty for the welfare of human and non-human beings, both within the societies in which... researchers live and work, and beyond them, must be acknowledged by those conducting the research" (p. 10)
 
 Researchers must:
 - Ensure that the benefits of the research outweigh the disruptions caused to individuals or groups.
