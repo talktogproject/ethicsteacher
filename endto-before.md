@@ -112,7 +112,7 @@ Sometimes, you realize that some things in your plan are not working or need to 
 Submitting an ethics application for review and keeping your ethics committee informed about changes to your research protocol is a way to ensure honesty and transparency in your research. It is important to submit an application that describes your research accurately and in the way you intend to do it. When you submit your application for review, you are being a good citizen of the scientific community by acknowledging the importance of outside opinion and acknowledging your limitations as a researcher, who may not see all the ethical implications of what you plan to do in your study. After all, it is better to identify potential problems early than to discover them halfway into your data collection!
 * * *
 
-Let's say you planned your study and got ethics approval to conduct your research. What should you remember during study implementation?
+Let's say you planned a study and got ethics approval to conduct your research. What should you remember during study implementation?
 
 ## NEXT: [Implementing your study](endto-during.md)
 ### [Click to view the Course Navigation page](toc.md)
