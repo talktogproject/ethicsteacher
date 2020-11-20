@@ -43,16 +43,16 @@ Here are some steps that a researcher should take for a successful ethics applic
 
 * * *
 #### How this supports the BPS ethics principles of _scientific integrity_ and _social responsibility_
-Securing ethics approval is a way to show that your study had been evaluated by objective reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- and middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
+Getting ethics approval is a way to show that your study had been evaluated by objective reviewers and that your study design falls within acceptable research practices. Seeking approval from a local research committee in a low- and middle-income country also ensures that the study protocol had been judged as appropriate by experts or community leaders who are familiar with the laws and cultural norms in the community or country being studied.
 * * *
 
 #### 2. **Prepare your ethics application**
 
-Different ethics committees have different requirements. Typically, ethics committees may ask researchers to fill up an application form containing details of who is in the research team, the research aims and objectives, who will be recruited (and how), the study protocol, and samples of the materials to be used. Some important documents that may be included are:
+Different ethics committees have different requirements. Typically, ethics committees ask researchers to fill up an application form containing details of who is doing the research, the research aims and objectives, who will be recruited (and how), the study protocol, and samples of the materials to be used. Some important documents that are usually included are:
 
 ##### **A. Participant information sheet**
 
-The ultimate goal is for participants to _understand_ what the study is about, what is being asked from them, and what their rights are as participants. The [BPS recommends sharing information such as the ones specified in the table below](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf):
+The ultimate goal is for participants to _understand_ what the study is about, what is being asked of them, and what their rights are as participants. The [BPS recommends preparing a participant information sheet containing details about the study](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf), such as the following:
 
 | General header | Sample statements or information provided |
 |----------------------------------  |-----|
