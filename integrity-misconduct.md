@@ -16,7 +16,7 @@ Examples of research misconduct include:
 
 ### **Data fabrication or falsification**
 
-In an infamous case of scientific fraud, a social psychologist published papers using [data that he claimed he collected, but were made up or modified to suit his research hypotheses](https://www.apa.org/science/about/psa/2011/12/diederik-stapel). Many papers had been retracted, and a report stated that the misconduct had negatively affected the careers of colleagues and graduate students who published papers with him.
+In an infamous case of scientific fraud, a social psychologist published papers using [datasets that were made up or modified to suit his research hypotheses](https://www.apa.org/science/about/psa/2011/12/diederik-stapel). Many papers had been retracted, and a report stated that the misconduct had negatively affected the careers of colleagues and graduate students who published papers with him.
 
 ### **Plagiarism**
 
