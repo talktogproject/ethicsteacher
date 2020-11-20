@@ -54,27 +54,26 @@ Different ethics committees have different requirements. Typically, ethics commi
 
 The ultimate goal is for participants to _understand_ what the study is about, what is being asked of them, and what their rights are as participants. The [BPS recommends preparing a participant information sheet containing details about the study](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf), such as the following:
 
-| General header | Sample statements or information provided |
+| General header | Examples of statements or information you can provide |
 |----------------------------------  |-----|
 | **What the study is about** |
-| The aim(s) of the study | To understand how Kannada-speaking children learn new words |
+| The aim(s) of the study | e.g., to understand how Kannada-speaking children learn new words |
 | What data will be collected | Demographic information, opinions or attitudes about something, scores on a task|
 | How data will be collected | Through a pen and paper task, using an online questionnaire, by taking audio or video recordings |
-| How long it will take to participate | Two sessions lasting 30-40 minutes each |
+| How long it will take to participate | e.g., Two sessions lasting 30-40 minutes each |
 | **Participants' rights** |
-| The right to withdraw participation | Your child is free to withdraw from the study at any time without giving any reason and with no negative consequences |
-| The right to withdraw data | You may request for your child's data to be destroyed (until a certain date) |
+| The right to withdraw participation | You are free to withdraw from the study at any time without giving any reason and with no negative consequences |
+| The right to withdraw data | You may request for your data to be destroyed (until a certain date) |
 | **How data gathered will be treated** |
-| Confidentiality | Your child's data can only be accessed by members of the research team |
-| Anonymity | Your child's answers will be anonymised and we will not use their name or your name in any publications from this project |
+| Confidentiality | Your data can only be accessed by members of the research team |
+| Anonymity | Your answers will be anonymised and we will not use your name in any publications from this project |
 | Planned data use and outcomes | We will compute the average scores across participants and report these in scientific articles/reports |
 | **Risks and benefits of participating in the research** |
-| Risks of participation and how they are managed | Your child might get tired from answering a long survey; hence we are limiting the session to 30-40 minutes |
+| Risks of participation and how they are managed | e.g., You may get tired from answering a long survey; hence we are limiting the session to 30-40 minutes |
 | Reimbursement or compensation; if none, this should also be stated | Note: Participants should not be coerced to participate by offering disproportionate rewards for participating or punishments for not participating |
-| Potential benefits of the research, which may be direct or indirect to the participant | There are no direct benefits to your child; however, the results of this study will contribute to our understanding of Kannada language development |
+| Potential benefits of the research, which may be direct or indirect to the participant | e.g., There are no direct benefits to you or your child; however, the results of this study will contribute to our understanding of Kannada language development |
 | **How to contact the research team** |
-| Who is leading the project | Name and contact details of the principal investigator |
-| A designated contact person | For any questions or complaints |
+| Who is in charge of the project? | Name and contact details of the principal investigator |
 
 As you can see, this is a lot of information to share! Make sure to give enough time for the participant to think about whether they still want to participate after receiving this information. Also, make sure to answer any questions that they might have about the study.
 
