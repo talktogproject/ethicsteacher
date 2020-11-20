@@ -4,7 +4,7 @@
 
 ### 1. Please submit any feedback or questions about the online course [through Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_0qttClYl3rULzXT) _password required_
 
-### 2. Study [these 4 case vignettes ahead of the live discussion](casevignettes.pdf). 
+### 2. Download and study [the 4 case vignettes](https://github.com/talktogproject/ethics/raw/gh-pages/casevignettes.pdf) ahead of the live discussion. 
 
 Try to answer these 3 questions using concepts and principles you learned in the online course:
 * Problem Assessment: From a research integrity and ethics viewpoint, what went wrong in this situation?
