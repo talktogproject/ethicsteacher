@@ -74,6 +74,7 @@ Some grant applications require a research data management plan. Even if your in
 - Be organized with your files. Have clear methods of naming data files and folders and identifying different versions of the same file. It should be easy for somebody else to use and access.
 - Think about how you will store data in the short-term and long-term. It is a good idea to have multiple copies of data in secure and robust storage systems. Relying only on laptops, computer hard drives, and external hard drives can be risky. For long-term storage, look into different repositories available and any costs associated with archiving data there. Examples are the [UK Data Service](https://ukdataservice.ac.uk/) and [Figshare](https://figshare.com/).
 - Working in teams: Identify members of the team who will be responsible for overseeing data management or specific data management duties in every organization involved (if working collaboratively).
+- Intellectual property: When planning for the long-term storage of data or research materials, especially for public access, also consider if you own the intellectual property for all the materials you want to archive. Make sure that you are allowed to repost or reuse these materials.
 
 ### Data breaches
 
