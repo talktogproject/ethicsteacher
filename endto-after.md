@@ -73,6 +73,7 @@ Some grant applications require a research data management plan. Even if your in
 - Make sure that your electronic devices and onlines accounts are secure by installing the latest security updates, [using strong passwords (and use two-factor authentication where possible), and being alert to hacking and phishing scams](https://www.infosec.ox.ac.uk/make-my-online-accounts-secure#tab-444596). It also goes without saying that you should take care not to physically misplace or lose your devices. 
 - Be organized with your files. Have clear methods of naming data files and folders and identifying different versions of the same file. It should be easy for somebody else to use and access.
 - Think about how you will store data in the short-term and long-term. It is a good idea to have multiple copies of data in secure and robust storage systems. Relying only on laptops, computer hard drives, and external hard drives can be risky. For long-term storage, look into different repositories available and any costs associated with archiving data there. Examples are the [UK Data Service](https://ukdataservice.ac.uk/) and [Figshare](https://figshare.com/).
+- Select any cloud-based storage services carefully and check for compliance with relevant policies in your organisation or legal jurisdiction. For example, universities in the UK and the European Union may be selective in the platforms they use in order to follow GDPR data processing requirements. 
 - Working in teams: Identify members of the team who will be responsible for overseeing data management or specific data management duties in every organization involved (if working collaboratively).
 - Intellectual property: When planning your research, especially for research that will be archived for public access, also consider if you own the intellectual property for all the materials you want to archive. Make sure that you are legally allowed to reuse or report these materials.
 
@@ -88,6 +89,10 @@ Examples of incidents that could put the safety and confidentiality of your data
 Check with your research team or organisation if you have a policy for reporting possible data breaches. Even if you don't, it is always a good idea to talk to your supervisor or research team for guidance on what to do next. For example, there may be an option to remote wipe data from lost laptops or mobile devices, or to recover hacked accounts with stronger protections. The IT department of your organisation may also be able to help.
 
 Under the GDPR, there is a [requirement to report personal data breaches within 72 hours of knowing about it](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/personal-data-breaches/). Check if your research team or organisation for similar requirements that may apply to you.
+
+### Conclusion
+
+As you can see, research integrity and ethics covers every stage of the research process. It requires good working knowledge of the latest professional and ethical standards in research, including the use of technologies to process data securely. It also requires the extensive planning and documentation of procedures and protocols that work for all individuals and organisations involved in the research project, whether it's a student project or a multi-year international collaboration like TalkTogether.
 
 ## NEXT: [Take the Section II Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH)
 ### [Click to view the Course Navigation page](toc.md)
