@@ -32,7 +32,7 @@ Let's say that a researcher co-owns a company that sells educational products de
 
 ### **'Gift' or 'ghost' authorships**
 
-This article from [Nature Index](https://www.natureindex.com/news-blog/gift-ghost-authorship-what-researchers-need-to-know) describes instances wherein a co-author was added to the publication list even when they had little to no contribution to the work, e.g., due to the co-author's senior position in an institution or as a way to boost a researcher's publication record. On the other hand, ghost authors are those who contributed substantially to the work but were excluded from gaining credit. [Journal publishers](https://www.nature.com/nature-research/editorial-policies/authorship) and [universities](https://researchsupport.admin.ox.ac.uk/governance/integrity/publication#collapse1310156) have published guidelines to clarify what counts as authorship in research work.
+This article from [Nature Index](https://www.natureindex.com/news-blog/gift-ghost-authorship-what-researchers-need-to-know) describes instances wherein a co-author was added to the publication list even when they had little to no contribution to the work, e.g., due to the co-author's senior position in an institution or as a way to boost a researcher's publication record. On the other hand, ghost authors are those who contributed substantially to the work but were excluded from gaining credit. [Journal publishers](https://www.nature.com/nature-research/editorial-policies/authorship) and [universities](https://researchsupport.admin.ox.ac.uk/governance/integrity/publication#collapse394391) have published guidelines to clarify what counts as authorship in research work.
 
 ### **Lapses from accepted research practices or protocols**
 
