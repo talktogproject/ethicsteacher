@@ -67,14 +67,14 @@ Some grant applications require a research data management plan. Even if your in
 
 ### Some tips and tricks
 
-- While planning the research, think carefully about the personal data you will collect and why it is essential to your research question. Otherwise, maybe you do not need to collect that piece of information at all.
+- When planning your research, think carefully about the personal data you will collect and why it is essential to your research question. Otherwise, maybe you do not need to collect that piece of information at all.
 - Working in teams: Consider the technical resources available across the collaborating organizations. Do partners have access to secure storage? Do partners have the software needed to open the data files that will be created? Will partners get support to procure and use the resources or software that will be used in the project?
 - Make sure that your data is stored safely and securely, whether physically (e.g., in locked cabinets) or digitally (e.g., in folders that can only be accessed by authorised people). This includes ways to protect your data [against natural and man-made disasters (e.g., fires, floods, earthquakes), power failures, and tampering](https://www.infosec.ox.ac.uk/physical-and-environmental#tab-450151).
 - Make sure that your electronic devices and onlines accounts are secure by installing the latest security updates, [using strong passwords (and use two-factor authentication where possible), and being alert to hacking and phishing scams](https://www.infosec.ox.ac.uk/make-my-online-accounts-secure#tab-444596). It also goes without saying that you should take care not to physically misplace or lose your devices. 
 - Be organized with your files. Have clear methods of naming data files and folders and identifying different versions of the same file. It should be easy for somebody else to use and access.
 - Think about how you will store data in the short-term and long-term. It is a good idea to have multiple copies of data in secure and robust storage systems. Relying only on laptops, computer hard drives, and external hard drives can be risky. For long-term storage, look into different repositories available and any costs associated with archiving data there. Examples are the [UK Data Service](https://ukdataservice.ac.uk/) and [Figshare](https://figshare.com/).
 - Working in teams: Identify members of the team who will be responsible for overseeing data management or specific data management duties in every organization involved (if working collaboratively).
-- Intellectual property: When planning for the long-term storage of data or research materials, especially for public access, also consider if you own the intellectual property for all the materials you want to archive. Make sure that you are allowed to repost or reuse these materials.
+- Intellectual property: When planning your research, especially for research that will be archived for public access, also consider if you own the intellectual property for all the materials you want to archive. Make sure that you are legally allowed to reuse or report these materials.
 
 ### Data breaches
 
