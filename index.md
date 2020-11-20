@@ -1,6 +1,6 @@
 <img src="https://talktogproject.github.io/ethics/img/TT-UP-TPF.png" style="display: block; margin: auto;">
 
-# RESEARCH INTEGRITY & ETHICS IN CHILD RESEARCH IN LOW- TO MIDDLE-INCOME COUNTRIES
+# RESEARCH INTEGRITY & ETHICS FOR CHILD RESEARCH IN LOW- TO MIDDLE-INCOME COUNTRIES
 ## A TalkTogether training course
 
 ### Course objectives
