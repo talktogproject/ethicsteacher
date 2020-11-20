@@ -8,7 +8,7 @@
 
 ## International Collaborations and Ethics Dumping
 
-International research collaborations, on the one hand, can lead to a meaningful exchange of knowledge and skills between partners. On the other hand, partnerships between institutions in the so-called Global North and the Global South can also be inequitable, or worse, exploitative.
+International research collaborations, on the one hand, can lead to a meaningful exchange of knowledge and skills between partners. On the other hand, partnerships between institutions in the so-called Global North and the Global South can also be unequal, or worse, exploitative.
 
 _Ethics dumping_ refers to the exporting of unethical ethics practices to low- and middle-income countries.
 
@@ -23,7 +23,7 @@ Source: *[Schroeder et al. (2018): Ethics dumping: Introduction](https://link.sp
 * Insensitive behaviour, e.g., entering indigenous people's homes and taking pictures without consent
 * 'Extractive' research, e.g., not sharing benefits of the study or knowledge gained with the community being studied
 
-The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was established to counter ethics dumping and to promote highly equitable partnerships between high-income and low- to middle-income countries around the world. The code of conduct has 4 main principles; namely:
+The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was established to fight against ethics dumping and to promote equal partnerships between high-income and low- to middle-income countries around the world. The code of conduct has 4 main principles; namely:
 
 ### **1. Fairness**
   - collaborating with local communities on issues that are relevant to them
