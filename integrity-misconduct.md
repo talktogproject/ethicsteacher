@@ -16,11 +16,11 @@ Examples of research misconduct include:
 
 ### **Data fabrication or falsification**
 
-In an infamous case of scientific fraud, a social psychologist published papers using [datasets that were made up or modified to suit his research hypotheses](https://www.apa.org/science/about/psa/2011/12/diederik-stapel). Many papers had been retracted, and a report stated that the misconduct had negatively affected the careers of colleagues and graduate students who published papers with him.
+In an infamous case of scientific fraud, a social psychologist published papers using [datasets that were made up or modified to suit his research hypotheses](https://www.apa.org/science/about/psa/2011/12/diederik-stapel). Many of his papers were retracted. A report also stated that the misconduct had negatively affected the careers of colleagues and graduate students who published papers with him.
 
 ### **Plagiarism**
 
-[According to the APA](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism), plagiarism "is the act of presenting the words, ideas, or images of another as your own; it denies authors or creators of content the credit they are due". An example is failing to cite the original article where a quote, idea, or image was first published. This also incldues self-plagiarism; for example, if an author publishes the same study in two different journals. There may be grey areas and acceptable uses of previous work, such as minor citation errors, and students who publish peer-reviewed articles based on their thesis work. [Go to the APA Style website for more information](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism).
+[According to the APA](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism), plagiarism "is the act of presenting the words, ideas, or images of another as your own; it denies authors or creators of content the credit they are due". An example is failing to cite the original article where a quote, idea, or image was first published. This also incldues self-plagiarism; for example, if an author publishes the same study in two different journals. There may be grey areas and acceptable uses of previous work, such as minor citation errors and students who publish peer-reviewed articles based on their thesis work. [Go to the APA Style website for more information about plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism).
 
 ### **Undisclosed conflicts of interest**
 
