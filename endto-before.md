@@ -35,7 +35,7 @@ Even researchers with great ideas and good intentions might not realize that the
 
 Here are some steps that a researcher should take for a successful ethics application:
 
-#### 1. **Know the ethics requirements in their organization(s) or research site(s)**
+#### 1. **Know the ethics requirements in your organization(s) or research site(s)**
 
 - *Know which ethics committees are involved.* Members of the ethics committee should be independent of the researcher or research team and should be individuals with the appropriate knowledge of how research is conducted. In some cases, local requirements might require that a researcher should secure university ethics clearance first, then also secure ethics clearance with a government or state-level agency. This means that the entire ethics application process can take months to complete. 
 - *Ethics across international partners.* In international collaborations, the best practice is to secure ethics clearance with all partners conducting the research. To avoid [ethics dumping](integrity-global.md), it is important to secure ethics clearance from local research committees. This is not always possible; for example, in the case of student research projects or when there are no local ethics committees available in the research area. The best practice is to coordinate with local communities or experts to vouch for the soundness and cultural appropriateness of the research protocols.  
