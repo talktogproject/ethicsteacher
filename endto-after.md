@@ -89,7 +89,5 @@ Check with your research team or organisation if you have a policy for reporting
 
 Under the GDPR, there is a [requirement to report personal data breaches within 72 hours of knowing about it](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/personal-data-breaches/). Check if your research team or organisation for similar requirements that may apply to you.
 
-### Data analysis and publishing
-
 ## NEXT: [Take the Section II Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH)
 ### [Click to view the Course Navigation page](toc.md)
