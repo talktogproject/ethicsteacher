@@ -14,11 +14,8 @@ If you [planned your study well](endto-before.md), then the procedures to recrui
 
 All researchers involved in a research project should be trained well in research ethics and why certain protocols are being implemented. Taking research ethics and/or data privacy courses offered by your organization or referring them to this ethics course are good places to start. Researchers should also be briefed about the specific study protocols and materials to be used. Also think about soft skills expected from a researcher, such as how to communicate with participants professionally and what to do when something unexpected happens. Having well-informed and confident researchers doing data collection is important to the success of any research project.
 
-* * *
-#### How this supports the BPS ethics principles of _scientific integrity_ and _social responsibility_
-A good research plan is nothing if the implementation is very poor. Researchers must possess the necessary skills so that they can carry out the research according to what was intended and what was approved by the ethics committee(s). Furthermore, researchers must be aware when a situation calls for decision-making that is beyond their capability or level of authority so that they can seek help from their peers, seniors, or from members of their organization.
-
-* * *
+> ##### How this supports the BPS ethics principles of _scientific integrity_ and _social responsibility_
+> A good research plan is nothing if the implementation is very poor. Researchers must possess the necessary skills so that they can carry out the research according to what was intended and what was approved by the ethics committee(s). Furthermore, researchers must be aware when a situation calls for decision-making that is beyond their capability or level of authority so that they can seek help from their peers, seniors, or from members of their organization.
 
 ### Ongoing consent and renewal of consent
 
