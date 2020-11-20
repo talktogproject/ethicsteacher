@@ -40,7 +40,7 @@ Research studies involving human participants follow protocols to ensure that pa
 
 ### **Improper dealing with misconduct allegations**
 
-These involve attempts by individuals or organizations to cover up research misconduct or silence whistleblowers. Knowing the true extent of research misconduct in research is difficult. Naturally, very few researchers [admit to committing research misconduct themselves](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738) and it is still difficult to access [complete and transparent reports of misconduct investigations in universities, at least in the UK](https://www.nature.com/articles/d41586-018-05697-7).
+These involve attempts by individuals or organizations to cover up research misconduct or silence whistleblowers. Knowing the true extent of research misconduct in research is difficult. Naturally, very few researchers [admit to committing research misconduct themselves](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738) and it is still [difficult to access complete and transparent reports of misconduct investigations in universities, at least in the UK](https://www.nature.com/articles/d41586-018-05697-7).
 
 ## Serious Misconduct vs. Questionable Research Practices
 
