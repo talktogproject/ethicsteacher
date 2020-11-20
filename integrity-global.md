@@ -27,13 +27,13 @@ The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was establish
 
 ### **1. Fairness**
   - Collaborating with local communities on issues that are relevant to them
-  - Involving researchers throughout the entire research process wherever possible, including in sharing data, intellectual property, and authorship of publications
-  - Fair compensation of local staff and contributors, e.g. translators, interpreters, & local coordinators
+  - Involving researchers throughout the entire research process wherever possible, including in the sharing of data, intellectual property, and authorship of publications
+  - Fair compensation for local staff and contributors, e.g., translators, interpreters, and local coordinators
   
 ### **2. Respect**
-  - Being sensitive local cultural settings and practices
-  - Obtaining local community assent and working with existing community structures
-  - Seeking approval from local research ethics committees and showing respect to these committees, even when ethics from a high-income setting has already been obtained
+  - Being sensitive to local cultural settings and practices
+  - Getting local community agreement and working with existing community structures
+  - Seeking approval from local research ethics committees and taking advice from these committees, even when ethics approval from a high-income setting has already been received
   
 ### **3. Care**
   - Procedures for obtaining consent and raising feedback and complaints must be accessible, easy to understand, and agreed upon with the local communities
