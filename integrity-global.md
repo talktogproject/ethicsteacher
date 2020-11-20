@@ -36,9 +36,9 @@ The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was establish
   - Seeking approval from local research ethics committees and taking advice from these committees, even when ethics approval from a high-income setting has already been received
   
 ### **3. Care**
-  - Procedures for obtaining consent and raising feedback and complaints must be accessible, easy to understand, and agreed upon with the local communities
-  - No double standard: if research would be restricted or prohibited in a high-income setting, then this should not be carried out in a low- to middle-income setting either
-  - Potential risks to the participants (e.g., stigmatization) and researchers (e.g., security), or potential burdens on local resources (e.g., local staff) should be discussed with local partners
+  - Procedures for getting consent and raising questions and complaints must be accessible, easy to understand, and agreed upon with the local communities
+  - No double standard: if research would be restricted or prohibited in a high-income country, then this should not be carried out in a low- and middle-income country either
+  - Potential risks to the participants (e.g., discrimination due to sensitive information shared) and researchers (e.g., security), or potential burdens on local resources (e.g., time of local staff) should be discussed with local partners
   
 ### **4. Honesty**
   - Defining clear roles, responsibilities, and conduct across all parties involved in the research; capacity-building for local researchers must be discussed
