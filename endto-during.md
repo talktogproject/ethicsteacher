@@ -56,5 +56,5 @@ Many things happen while implementing a research project. There are decisions an
 Keeping written documentation of your process is a good way to check if you followed what you said you'll do in your research plan. It is also a good way to ensure that your decisions are consistent with ethical and professional standards and that they can be easily retrieved and reviewed at a later time.
 * * *
 
-## NEXT: [Research data management: Storing, analysing, and archiving your data](endto-after.md)
+## NEXT: [Research data management: Processing your data](endto-after.md)
 ### [Click to view the Course Navigation page](toc.md)
