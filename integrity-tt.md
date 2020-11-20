@@ -8,7 +8,7 @@
 
 ## Example: The TalkTogether approach
 
-For example, here are ways that research integrity is upheld in the TalkTogether team at different levels:
+For example, here are ways that research integrity is upheld by the TalkTogether team at different levels:
 
 ### **Within the research team**
 * Training for ethics and study protocols are co-developed and conducted by members of the TalkTogether team (including this training course).
