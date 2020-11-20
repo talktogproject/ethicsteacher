@@ -25,22 +25,22 @@ Source: *[Schroeder et al. (2018): Ethics dumping: Introduction](https://link.sp
 
 The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was established to counter ethics dumping and to promote highly equitable partnerships between high-income and low- to middle-income countries around the world. The code of conduct has 4 main principles; namely:
 
-### **Fairness**
+### **1. Fairness**
   - collaborating with local communities on issues that are relevant to them
   - involving researchers throughout the entire research process wherever possible, including in sharing data, intellectual property, and authorship of publications
   - fair compensation of local staff and contributors, e.g. translators, interpreters, & local coordinators
   
-### **Respect**
+### **2. Respect**
   - being sensitive local cultural contexts and practices
   - obtaining local community assent and working with existing community structures
   - seeking approval from local research ethics committees and showing respect to these committees, even when ethics from a high-income setting has already been obtained
   
-### **Care**
+### **3. Care**
   - procedures for obtaining consent and raising feedback and complaints must be accessible, easy to understand, and agreed upon with the local communities
   - no double standard: if research would be restricted or prohibited in a high-income setting, then this should not be carried out in a low- to middle-income setting either
   - potential risks to the participants (e.g., stigmatization) and researchers (e.g., security), or potential burdens on local resources (e.g., local staff) should be discussed with local partners
   
-### **Honesty**
+### **4. Honesty**
   - defining clear roles, responsibilities, and conduct across all parties involved in the research; capacity-building for local researchers must be discussed
   - researchers must be clear and transparent in their communication, using plain, non-patronizing language, and without withholding any information
   - researchers must not accept or support any form of corruption or bribery
