@@ -20,7 +20,7 @@ Because child research almost always involves research with human participants, 
 
 These can be achieved by:
 - Respecting people regardless of age, race, religious beliefs, sexual orientation, health status, socioeconomic status, and other personal characteristics.
-- Ensuring that participants have enough information about the study, that they participating voluntarily, and that they know they have the option to withdraw.
+- Ensuring that participants have enough information about the study, that they participating voluntarily, and that they know they have the option to say no or withdraw.
 - Ensuring that participants' personal identity is kept private and that datasets are anonymised.
 
 ### **2. Scientific integrity**
