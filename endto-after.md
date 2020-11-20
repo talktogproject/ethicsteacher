@@ -52,7 +52,7 @@ When processing personal data, it is important to adhere to the following data p
 
 | Data protection principle | Description |
 | -------|-------|
-| Fair, lawful, and transparent data processing | Researchers must be clear about who will process or view their data (including the transfer of data outside the European Economic Area), for what purpose(s) and for how long. Participants must also be aware of their right to withdraw consent at any time |
+| Fair, lawful, and transparent data processing | Researchers must be clear about who will process or view their data, for what purpose(s) and for how long. Participants must also be aware of their right to withdraw consent at any time |
 | The data is collected for specific, explicit, and legitimate purposes | Personal data collected for a specific purpose should NOT be used for something else, unless there is consent for the new purpose. The use of personal data for other research is usually exempted from this principle |
 | The data collected and processed is no more than is necessary for the research | This discourages researchers from collecting more personal information than is necessary. Even within research teams, it is possible that not all members of the research team require access to the non-anonymised dataset to carry out their research duties |
 | Personal data is accurate and up-to-date (if needed) | Inaccurate data must be corrected or deleted without delay. Researchers are normally interested in a person's situation at a particular point in time; as such, there may be no need to update the information in the future |
