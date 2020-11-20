@@ -8,7 +8,7 @@
 
 ## Implementing Your Study
 
-If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow during data collection. Equally, it is important that researchers are prepared to respond to different situations during data collection, where often they need to make decisions on their own and without immediate feedback from the rest of the team. This is especially true for fieldwork overseas or in remote communities. 
+If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow during data collection. Equally, researchers must be prepared to respond to different situations during data collection, where often they need to make decisions on their own and without immediate feedback from the rest of the team. This is especially true for fieldwork overseas or in remote communities. 
 
 ### **I. Training your research staff & students**
 
@@ -32,7 +32,7 @@ Consent is an ongoing process. Even if a participant agreed to participate in th
 
 Participants must be reminded of the possible risks of participating in the research. They should also be made aware that appropriate help can be given if they experience any discomfort or distress as a result of their research participation. For example, researchers must coordinate with local communities or authorities to know how they can access medical, psychological, social, or legal support if an emergency or a major problem arises while conducting research.
 
-Researchers' own safety and privacy must also be taken seriously. Here are some practical tips for keeping safe, adapted from [guidance provided by The University of Oxford](https://researchsupport.admin.ox.ac.uk/files/bpg01researchersafetypdf):
+The safety and privacy of researchers must also be taken seriously. Here are some practical tips for keeping safe, adapted from [guidance provided by The University of Oxford](https://researchsupport.admin.ox.ac.uk/files/bpg01researchersafetypdf):
 
 - Conduct a risk assessment with your research team or your organisation and arrange for any relevant safety or insurance measures that are available to you.
 - Communicate with participants or local contacts only with work-specific e-mails and contact numbers. Do not share personal information such as your home telephone and address.
@@ -49,7 +49,7 @@ The benefits of the research should outweigh any risks involved on the part of t
 
 ### **IV. Keeping a research record**
 
-Many things happen while implementing a research project. There are decisions and changes that are made along the way. It is difficult to recall details of what you did, who are involved, and when, where, and why something happened after a research project is finished. Keeping a written research record during study implementation is one way to keep track of what happened in your project and to be able to describe it accurately when you are publishing the results.
+Many things happen while implementing a research project. Some decisions and changes are made along the way. It is difficult to recall details of what you did, who are involved, and when, where, and why something happened after a research project is finished. Keeping a written research record during study implementation is one way to keep track of what happened in your project and to be able to describe it accurately when you are publishing the results.
 
 * * *
 #### How this supports the BPS ethics principle of _scientific integrity_
