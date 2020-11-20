@@ -43,7 +43,7 @@ Researchers must:
 
 ### **4. Maximising benefit and minimising harm**
 
-> "...psychologists should consider all research from the standpoint of the research participants, and anyother persons, groups or communities who may be potentially affected by the research, with the aim of avoiding potential risks topsychological well-being, mental health, personal values, the invasion of privacy or dignity." (p. 11)
+> "...psychologists should consider all research from the standpoint of the research participants, and any other persons, groups or communities who may be potentially affected by the research, with the aim of avoiding potential risks to psychological well-being, mental health, personal values, the invasion of privacy or dignity." (p. 11)
 
 Researchers are responsible for:
 - Creating and implementing risk management protocols to avoid or reduce harm resulting from research participation, if any.
