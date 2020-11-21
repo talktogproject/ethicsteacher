@@ -12,7 +12,7 @@ As part of your research, you are probably creating, encoding, storing, analysin
 
 The kind of research that child researchers do often involves the processing of _personal data_.
 
-> Personal data is information which relates to aliving individual who can be identified from that information,  whether  directly  or  indirectly,  and  in  particular  by  reference  to  an  identifier. 
+> Personal data is information which relates to a living individual who can be identified from that information,  whether  directly  or  indirectly,  and  in  particular  by  reference  to  an  identifier. 
 
 This includes a person's:
 - name
