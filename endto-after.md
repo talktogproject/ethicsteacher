@@ -20,13 +20,12 @@ This includes a person's:
 - location data
 - online identifier (e.g., IP address)
 
-The GPDR also considers certain types of data to be especially private and leaves participants to potential discrimination. These include data about a person's:
+The GPDR also considers certain types of data to be especially private and can expose participants to potential discrimination. These include data about a person's:
 - racial or ethnic origin
 - political opinions
 - religious or philosophical beliefs
-- trade union membership
-- genetic data
-- biometric data (for unique identification)
+- membership in a trade union
+- genetic or biometric data
 - health
 - sex life
 - sexuality
