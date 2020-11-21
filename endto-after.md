@@ -39,9 +39,9 @@ Source: _[Data Protection & Research, University of Oxford](https://researchsupp
 The purpose of anonymising datasets is to ensure that a participant cannot be re-identified based on the data they supply. Typically, researchers assign participant IDs and remove obvious identifiers such as names, addresses, and contact details from datasets to achieve this. While many researchers consider this to be enough to achieve participant anonymity, full anonymisation is actually difficult to achieve. We often collect additional data that makes it easier to trace data back to an individual, such as age, regional origin, and medical condition. In reality, most of the typical research practice is considered _pseudonymisation_, which is a way to disguise the participants' identities and make it a bit harder to retrace.
 
 Some practices for responsible pseudonymisation:
-- Make sure that datasets only contain participant IDs. The list linking participant IDs with participants' names and contact details must be kept separately
-- Store the list securely using password protection and/or by storing lists in locked cabinets
-- Do not share the above list with anyone outside the research team
+- Make sure that datasets only contain participant IDs. The list linking participant IDs with participants' names and contact details must be kept separately.
+- Store the list securely using password protection and/or by storing lists in locked cabinets.
+- Do not share the above list with anyone outside the research team.
 
 Audio or video recorded data present additional challenges. Participants might reveal personal information about themselves or other people during the recording. Additionally, participants' voices and faces make them more readily identifiable than pen and paper or questionnaire-based data collection methods. The CHILDES database lists [different levels of data access for audio and video data](https://talkbank.org/share/irb/options.html). This includes audio bleeping, video blurring, and the replacement of last names and addresses in transcripts. Importantly, research involving photo, audio, or video recordings should have consent forms that explicitly ask for participants' agreement for these recordings to be made and used for specified purposes. You can access a [sample template at the University of Oxford website](https://researchsupport.admin.ox.ac.uk/files/writtenconsentformtemplatedocx).
 
