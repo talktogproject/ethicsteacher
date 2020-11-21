@@ -8,7 +8,7 @@
 
 ## Processing Your Data
 
-As part of your research, you are probably creating, encoding, storing, analysing, and archiving data about individuals. This comes with the responsibility to maintain participants' privacy and to use data about them in a fair and responsible way. In the United Kingdom and the European Union, the GDPR (General Data Protection Regulation) provides a legal framework for doing so. We will use GDPR-related terminology in this section; however, we think that researchers from non-EU countries can also think about how these regulations can be adopted for research in their own areas.
+As part of your research, you are probably creating, encoding, storing, analysing, and archiving data about individuals. This comes with the responsibility to maintain participants' privacy and to use data about them in a fair and responsible way. In the United Kingdom and the European Union, the GDPR (General Data Protection Regulation) provides a legal framework for doing so. We will use GDPR-related terminology in this section; however, we think that researchers from non-EU countries can also think about how these regulations can be adopted for research in their respective areas.
 
 The kind of research that child researchers do often involves the processing of _personal data_.
 
