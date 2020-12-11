@@ -46,7 +46,7 @@ These involve attempts by individuals or organizations to cover up research misc
 
 Serious research misconduct, such as data fabrication, may be clear-cut. However, many unacceptable research practices often fall into the grey area of questionable research practices (QRPs). Whereas a meta-analysis found that an estimated 2% of researchers admitted to engaging in serious research misconduct, [more than 30% have reported engaging in questionable research practices](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738). The numbers are greater when reporting on other people's misconduct (14%) or questionable research practices (over 70%). 
 
-Behaviours that have been classified by some authors [[1](https://link.springer.com/article/10.1007%252FPL00022268), [2](https://journals.sagepub.com/doi/full/10.1177/0956797611430953?casa_token=6ZCAk1BdpFQAAAAA%3AFMVg1J6IAA-PbzLzBwzLBc3-Xx4BH_uXxugsF5DNNSaQv8RA3lZJSIB1N3OzgRfxC3X2ZJ2MHPc)] as questionable research practices include:
+Behaviours that have been classified by some authors<sup>3, 4</sup> as questionable research practices include:
 
 * Inflating a researcher's publication record by listing papers as 'in press' when they have not yet been accepted by a journal
 * Inaccurate research summaries in abstracts or incomplete reporting of research methods (e.g., failing to report all research conditions or study variables)
@@ -65,3 +65,7 @@ Currently, there are great initiatives to improve transparency and accuracy in r
 <sup>1</sup> [Concordat for Research Integrity](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2012/the-concordat-to-support-research-integrity-2012.pdf)
 
 <sup>2</sup> [APA Style: Plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism)
+
+<sup>3</sup> [Steneck, 2006](https://link.springer.com/article/10.1007%252FPL00022268)
+
+<sup>4</sup> [John et al., 2012](https://journals.sagepub.com/doi/full/10.1177/0956797611430953?casa_token=6ZCAk1BdpFQAAAAA%3AFMVg1J6IAA-PbzLzBwzLBc3-Xx4BH_uXxugsF5DNNSaQv8RA3lZJSIB1N3OzgRfxC3X2ZJ2MHPc)
