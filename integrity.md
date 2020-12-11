@@ -39,8 +39,8 @@ Did you say 'yes' to all of the above? Do you know who is responsible for each o
 ## NEXT: [Example - How TalkTogether upholds research integrity](integrity-tt.md)
 ### [Click to view the Course Navigation page](toc.md)
 
-
+<br><br>
 **References**
 
-<sup>1</sup> [On Being a Scientist: A Guide to Responsible Conduct in Research (2009)](https://pubmed.ncbi.nlm.nih.gov/25009901/)<br/ >
+<sup>1</sup> [On Being a Scientist: A Guide to Responsible Conduct in Research (2009)](https://pubmed.ncbi.nlm.nih.gov/25009901/)<br>
 <sup>2</sup> Adapted from the [University of Oxford Research Integrity Leaflet](https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/research_integrityv6_web.pdf)
