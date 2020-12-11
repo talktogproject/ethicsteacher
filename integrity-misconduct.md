@@ -64,4 +64,4 @@ Currently, there are great initiatives to improve transparency and accuracy in r
 
 <sup>1</sup> [Concordat for Research Integrity](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2012/the-concordat-to-support-research-integrity-2012.pdf)
 
-<sup>2</sup> [Plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism)
+<sup>2</sup> [APA Style: Plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism)
