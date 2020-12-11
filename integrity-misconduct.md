@@ -8,7 +8,7 @@
 
 ## Research misconduct
 
-According to the [Concordat for Research Integrity](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2012/the-concordat-to-support-research-integrity-2012.pdf), research misconduct is:
+According to the Concordat for Research Integrity<sup>1</sup>, research misconduct is:
 
 > "characterised as behaviour or actions that fall short of the standards of ethics, research and scholarship required to ensure that the integrity of research is upheld."
 
@@ -20,7 +20,7 @@ In an infamous case of scientific fraud, a social psychologist published papers 
 
 ### **Plagiarism**
 
-[According to the APA](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism), plagiarism "is the act of presenting the words, ideas, or images of another as your own; it denies authors or creators of content the credit they are due". An example is failing to cite the original article where a quote, idea, or image was first published. This also includes self-plagiarism; for example, if an author publishes the same study in two different journals. There may be grey areas and acceptable uses of previous work, such as minor citation errors and students who publish peer-reviewed articles based on their thesis work. [Go to the APA Style website for more information about plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism).
+According to the APA<sup>2</sup>, plagiarism "is the act of presenting the words, ideas, or images of another as your own; it denies authors or creators of content the credit they are due". An example is failing to cite the original article where a quote, idea, or image was first published. This also includes self-plagiarism; for example, if an author publishes the same study in two different journals. There may be grey areas and acceptable uses of previous work, such as minor citation errors and students who publish peer-reviewed articles based on their thesis work. [Go to the APA Style website for more information about plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism).
 
 ### **Undisclosed conflicts of interest**
 
@@ -58,3 +58,10 @@ Currently, there are great initiatives to improve transparency and accuracy in r
 
 ## NEXT: [When research goes global: About ethics dumping](integrity-global.md)
 ### [Click to view the Course Navigation page](toc.md)
+
+<br><br>
+**Links to References**
+
+<sup>1</sup> [Concordat for Research Integrity](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2012/the-concordat-to-support-research-integrity-2012.pdf)
+
+<sup>2</sup> [Plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism)
