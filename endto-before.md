@@ -53,7 +53,7 @@ Different ethics committees have different requirements. Typically, ethics commi
 
 ##### **A. Participant information sheet**
 
-The ultimate goal is for participants to _understand_ what the study is about, what is being asked of them, and what their rights are as participants. The [BPS recommends preparing a participant information sheet containing details about the study](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf), such as the following:
+The ultimate goal is for participants to _understand_ what the study is about, what is being asked of them, and what their rights are as participants. The BPS recommends preparing a participant information sheet containing details about the study<sup>[1](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf)</sup>, such as the following:
 
 | General header | Examples of statements or information you can provide |
 |----------------------------------  |-----|
