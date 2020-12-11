@@ -2,9 +2,10 @@
 
 1. [What is Research Integrity?](integrity.md)
 2. [Example: The TalkTogether Approach](integrity-tt.md)
-3. [Research Misconduct](integrity-misconduct.md)
-4. **International Collaborations and Ethics Dumping**
-5. [Section I Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_8wFuwjJJSM46aIl) *password required*
+3. [Section I Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_3wvwGXZjUB6o9OR) *password required*
+4. [Research Misconduct](integrity-misconduct.md)
+5. [International Collaborations and Ethics Dumping](integrity-global.md)
+6. [Section I Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_d6HJBBv5qkK7NgF) *password required*
 
 ## International Collaborations and Ethics Dumping
 
@@ -50,5 +51,5 @@ As you can see, the research community has done a lot to establish what we must 
 
 But before we proceed, let's check what you've learned so far with a short quiz:
 
-## NEXT: [Take the Section I Quiz on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_8wFuwjJJSM46aIl)
+## NEXT: [Take Quiz 2 of Section I on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_d6HJBBv5qkK7NgF)
 ### [Click to view the Course Navigation page](toc.md)
