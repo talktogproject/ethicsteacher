@@ -49,7 +49,7 @@ The Global Code of Conduct<sup>[4](https://www.globalcodeofconduct.org/)</sup> w
 
 As you can see, the research community has done a lot to establish what we must expect from each other as researchers, wherever we are in the world. In the next section, we will take a closer look at how ethics is applied to different stages of the research process.
 
-But before we proceed, let's check what you've learned so far with a short quiz:
+But before we proceed, let's check what you've learned so far with another quiz:
 
 ## NEXT: [Take Quiz 2 of Section I on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_d6HJBBv5qkK7NgF)
 ### [Click to view the Course Navigation page](toc.md)
