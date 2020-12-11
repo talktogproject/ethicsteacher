@@ -2,7 +2,7 @@
 
 ## Instructions for Live Discussion and Q&A
 
-### 1. Please submit any feedback or questions about the online course [through Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_0qttClYl3rULzXT) (_password required_)
+### 1. Please submit any feedback or questions about the online course [through Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_3f5hVhwfRGOKuSV) (_password required_)
 
 ### 2. Download and study [the 4 case vignettes](https://github.com/talktogproject/ethics/raw/gh-pages/casevignettes.pdf) ahead of the live discussion. 
 
