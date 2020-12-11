@@ -14,18 +14,14 @@ Being an ethical researcher is not only about:
 
 It is about conducting research that is scientifically rigorous and trustworthy, as captured by the quote below:
 
-> The scientific enterprise is built on a foundation of trust. Society trusts that scientific research results are an honest and accurate reflection of a researcher’s work. Researchers equally trust that their colleagues have gathered data carefully, have used appropriate analytic and statistical techniques, have reported their results accurately, and have treated the work of other researchers with respect.
+> The scientific enterprise is built on a foundation of trust. Society trusts that scientific research results are an honest and accurate reflection of a researcher’s work. Researchers equally trust that their colleagues have gathered data carefully, have used appropriate analytic and statistical techniques, have reported their results accurately, and have treated the work of other researchers with respect.<sup>1</sup>
 
-Source: *[On Being a Scientist: A Guide to Responsible Conduct in Research (2009)](https://pubmed.ncbi.nlm.nih.gov/25009901/)*
-
-Researchers should then:
+Researchers should then<sup>2</sup>:
 
 * be aware of existing laws, codes of practice, policies, and publication rules in their field
 * gain the necessary skills and training (including ethics training) applicable to their field
 * take the initiative in asking questions or raising concerns when issues arise
 * be transparent and accountable to their peers and their organization
-
-Source: *Adapted from the [University of Oxford Research Integrity Leaflet](https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/research_integrityv6_web.pdf)*
 
 The responsibility to uphold research integrity rests not only on the individual researcher, but also on their colleagues, collaborators, universities and organizations, funding agencies, and the wider scientific community.
 
@@ -42,3 +38,9 @@ Did you say 'yes' to all of the above? Do you know who is responsible for each o
 
 ## NEXT: [Example - How TalkTogether upholds research integrity](integrity-tt.md)
 ### [Click to view the Course Navigation page](toc.md)
+
+
+**References**
+
+<sup>1</sup> [On Being a Scientist: A Guide to Responsible Conduct in Research (2009)](https://pubmed.ncbi.nlm.nih.gov/25009901/)<br/ >
+<sup>2</sup> Adapted from the [University of Oxford Research Integrity Leaflet](https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/research_integrityv6_web.pdf)
