@@ -2,9 +2,10 @@
 
 1. [Core Principles](endto.md)
 2. **Planning Your Study**
-3. [Implementing Your Study](endto-during.md)
-4. [Processing Your Data](endto-after.md)
-5. [Section II Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH) *password required*
+3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6DPYZYDwcKEhuWV) *password required*
+4. [Implementing Your Study](endto-during.md)
+5. [Processing Your Data](endto-after.md)
+6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6hy3n0uxR65TyV7) *password required*
 
 ## Planning Your Study
 
@@ -111,7 +112,7 @@ Sometimes, you realize that some things in your plan are not working or need to 
 Submitting an ethics application for review and keeping your ethics committee informed about changes to your research protocol are ways to ensure honesty and transparency in your research. It is important to submit an application that describes your research accurately and in the way you intend to do it. When you submit your application for review, you are being a good citizen of the scientific community by acknowledging the importance of outside opinion and acknowledging your limitations as a researcher, who may not see all the ethical implications of what you plan to do in your study. After all, it is better to identify potential problems early than to discover them halfway into your data collection!
 * * *
 
-Let's say you planned a study and got ethics approval to conduct your research. What should you remember to do while the study is ongoing?
+Ethics does not end with planning and getting ethics approval. It continues during the implementation of the study and after that. But before we proceed, how about a quiz?
 
-## NEXT: [Implementing your study](endto-during.md)
+## NEXT: [Take Quiz 1 of Section II on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6DPYZYDwcKEhuWV)
 ### [Click to view the Course Navigation page](toc.md)
