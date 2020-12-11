@@ -10,20 +10,18 @@
 
 International research collaborations, on the one hand, can lead to a meaningful exchange of knowledge and skills between partners. On the other hand, partnerships between institutions in the so-called Global North and the Global South can also be unequal, or worse, exploitative.
 
-_Ethics dumping_ refers to the exporting of unethical ethics practices to low- and middle-income countries.
+_Ethics dumping_ refers to the exporting of unethical ethics practices to low- and middle-income countries<sup>[1](https://link.springer.com/book/10.1007%2F978-3-319-64731-9)</sup>.
 
 > Ethics dumping occurs mainly in two areas. First, when research participants and/or resources in low- and middle-income countries (LMICs) are exploited intentionally, for instance because research can be undertaken in an LMIC that would be prohibited in a high-income country. Second, exploitation can occur due to insufficient ethics awareness on the part of the researcher, or low research governance capacity in the host nation. (p. 2)
 
-Source: *[Schroeder et al. (2018): Ethics dumping: Introduction](https://link.springer.com/book/10.1007%2F978-3-319-64731-9)*
-
-[Many famous examples come from health and biological research](https://theconversation.com/ethics-dumping-the-dark-side-of-international-research-88675); however, The Guardian provides [some examples that are also relevant to education and social sciences research](https://www.theguardian.com/higher-education-network/2018/aug/31/ethics-dumping-the-exploitative-side-of-academic-research), such as:
+Many famous examples come from health and biological research<sup>[2](https://theconversation.com/ethics-dumping-the-dark-side-of-international-research-88675)</sup>; however, The Guardian provides some examples that are also relevant to education and social sciences research<sup>[3](https://www.theguardian.com/higher-education-network/2018/aug/31/ethics-dumping-the-exploitative-side-of-academic-research)</sup>, such as:
 
 * Avoiding local ethics approval
 * Lack of awareness about the community, e.g., not contacting community leaders before conducting a study
 * Insensitive behaviour, e.g., entering indigenous people's homes and taking pictures without consent
 * 'Extractive' research, e.g., not sharing benefits of the study or knowledge gained with the community being studied
 
-The [Global Code of Conduct](https://www.globalcodeofconduct.org/) was established to fight against ethics dumping and to promote equal partnerships between high-income and low- and middle-income countries around the world. The code of conduct has 4 main principles; namely:
+The Global Code of Conduct<sup>[4](https://www.globalcodeofconduct.org/)</sup> was established to fight against ethics dumping and to promote equal partnerships between high-income and low- and middle-income countries around the world. The code of conduct has 4 main principles; namely:
 
 ### **1. Fairness**
   - Collaborating with local communities on issues that are relevant to them
