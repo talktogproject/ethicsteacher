@@ -2,13 +2,14 @@
 
 1. [Core Principles](endto.md)
 2. [Planning Your Study](endto-before.md)
-3. **Implementing Your Study**
-4. [Processing Your Data](endto-after.md)
-5. [Section II Quiz (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_bPHRKTydLSyDzRH) *password required*
+3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6DPYZYDwcKEhuWV) *password required*
+4. **Implementing Your Study**
+5. [Processing Your Data](endto-after.md)
+6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6hy3n0uxR65TyV7) *password required*
 
 ## Implementing Your Study
 
-If you [planned your study well](endto-before.md), then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow during data collection. Equally, researchers must be prepared to respond to different situations during data collection, where often they need to make decisions on their own and without immediate feedback from the rest of the team. This is especially true for fieldwork overseas or in remote communities. 
+If you planned your study well, then the procedures to recruit participants, inform them about the study, and obtain their consent should be clear and easy to follow during data collection. Equally, researchers must be prepared to respond to different situations during data collection, where often they need to make decisions on their own and without immediate feedback from the rest of the team. This is especially true for fieldwork overseas or in remote communities. 
 
 ### **I. Training your research staff & students**
 
@@ -32,7 +33,7 @@ Consent is an ongoing process. Even if a participant agreed to participate in th
 
 Participants must be reminded of the possible risks of participating in the research. They should also be made aware that appropriate help can be given if they experience any discomfort or distress as a result of their research participation. For example, researchers must coordinate with local communities or authorities to know how they can access medical, psychological, social, or legal support if an emergency or a major problem arises while conducting research.
 
-The safety and privacy of researchers must also be taken seriously. Here are some practical tips for keeping safe, adapted from [guidance provided by The University of Oxford](https://researchsupport.admin.ox.ac.uk/files/bpg01researchersafetypdf):
+The safety and privacy of researchers must also be taken seriously. Here are some practical tips for keeping safe, adapted from guidance provided by The University of Oxford<sup>[1](https://researchsupport.admin.ox.ac.uk/files/bpg01researchersafetypdf)</sup>:
 
 - Conduct a risk assessment with your research team or your organisation and arrange for any relevant safety or insurance measures that are available to you.
 - Communicate with participants or local contacts only with work-specific e-mails and contact numbers. Do not share personal information such as your home telephone and address.
