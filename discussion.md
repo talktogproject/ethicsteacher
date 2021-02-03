@@ -15,6 +15,6 @@ The case vignettes are all fictional situations and are meant for training and d
 
 For real case studies, the [Economic and Social Research Council has several published on their website](https://esrc.ukri.org/funding/guidance-for-applicants/research-ethics/ethics-case-studies/).
 
-### 3. On the scheduled date and time, join the Microsoft Teams discussion using the meeting invitation sent to you via e-mail.
+### 3. On the scheduled date and time, join the online discussion using the meeting invitation sent to you via e-mail.
 
 ### [Click to view the Course Navigation page](toc.md)
