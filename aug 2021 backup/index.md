@@ -1,5 +1,7 @@
 <img src="https://talktogproject.github.io/ethics/img/TT-UP-TPF.png" style="display: block; margin: auto;">
 
+# AUG 2021: THIS IS A BACKED UP VERSION OF V1 OF THE ETHICS TRAINING COURSE WHICH RAN FROM LATE 2020 TO AUG 2021 IN MULTIPLE BATCHES ACROSS THE IN AND PH TEAMS.
+
 # RESEARCH INTEGRITY & ETHICS FOR CHILD RESEARCH IN LOW- AND MIDDLE-INCOME COUNTRIES
 ## A TalkTogether training course
 
