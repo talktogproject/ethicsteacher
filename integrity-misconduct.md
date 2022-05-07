@@ -9,7 +9,7 @@
 
 ## Research misconduct
 
-According to the Concordat for Research Integrity[<sup>1</sup>](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2012/the-concordat-to-support-research-integrity-2012.pdf), research misconduct is:
+According to the Concordat for Research Integrity[<sup>1</sup>](https://www.universitiesuk.ac.uk/sites/default/files/field/downloads/2021-08/Updated%20FINAL-the-concordat-to-support-research-integrity.pdf#%5B%7B%22num%22%3A39%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C842%2C1%5D), research misconduct is:
 
 > "characterised as behaviour or actions that fall short of the standards of ethics, research and scholarship required to ensure that the integrity of research is upheld."
 
@@ -29,7 +29,7 @@ Here is an example of a conflict of interest from the Research Support office at
 
 > A researcher holds a position (for example as a director) in an enterprise that may wish to restrict or otherwise manage adverse research findings for commercial reasons."
 
-Let's say that a researcher co-owns a company that sells educational products designed to improve children's learning outcomes. The researcher then publishes a study wherein she evaluated the effectiveness of using these products. This study may be perceived as less trustworthy because the researcher has a financial incentive for showing that the product works. In this case, the conflict of interest should be declared, managed, or avoided by the researcher[<sup>5</sup>](https://www.hra.nhs.uk/media/documents/nreap04-guidance-national-research-ethics-advisors-panel-13-february-2012.pdf).
+Let's say that a researcher co-owns a company that sells educational products designed to improve children's learning outcomes. The researcher then publishes a study wherein she evaluated the effectiveness of using these products. This study may be perceived as less trustworthy because the researcher has a financial incentive for showing that the product works. In this case, the conflict of interest should be declared, managed, or avoided by the researcher[<sup>5</sup>](https://s3.eu-west-2.amazonaws.com/www.hra.nhs.uk/media/documents/nreap04-guidance-national-research-ethics-advisors-panel-13-february-2012.pdf).
 
 ### **'Gift' or 'ghost' authorships**
 
@@ -41,20 +41,20 @@ Research studies involving human participants follow protocols to ensure that pa
 
 ### **Improper dealing with misconduct allegations**
 
-These involve attempts by individuals or organizations to cover up research misconduct or silence whistleblowers. Knowing the true extent of research misconduct in research is difficult. Naturally, very few researchers admit to committing research misconduct themselves[<sup>9</sup>](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738) and it is still difficult to access complete and transparent reports of misconduct investigations in universities, at least in the UK[<sup>10</sup>](https://www.nature.com/articles/d41586-018-05697-7).
+These involve attempts by individuals or organizations to cover up research misconduct or silence whistleblowers. Knowing the true extent of research misconduct in research is difficult. Naturally, very few researchers admit to committing research misconduct themselves[<sup>9</sup>](https://doi.org/10.1371/journal.pone.0005738) and it is still difficult to access complete and transparent reports of misconduct investigations in universities, at least in the UK[<sup>10</sup>](https://www.nature.com/articles/d41586-018-05697-7).
 
 ## Serious Misconduct vs. Questionable Research Practices
 
-Serious research misconduct, such as data fabrication, may be clear-cut. However, many unacceptable research practices often fall into the grey area of questionable research practices (QRPs). Whereas a meta-analysis found that an estimated 2% of researchers admitted to engaging in serious research misconduct, more than 30% have reported engaging in questionable research practices[<sup>11</sup>](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738). The numbers are greater when reporting on other people's misconduct (14%) or questionable research practices (over 70%). 
+Serious research misconduct, such as data fabrication, may be clear-cut. However, many unacceptable research practices often fall into the grey area of questionable research practices (QRPs). Whereas a meta-analysis found that an estimated 2% of researchers admitted to engaging in serious research misconduct, more than 30% have reported engaging in questionable research practices[<sup>11</sup>](https://doi.org/10.1371/journal.pone.0005738). The numbers are greater when reporting on other people's misconduct (14%) or questionable research practices (over 70%). 
 
-Behaviours that have been classified by some authors<sup>[12](https://link.springer.com/article/10.1007%252FPL00022268), [13](https://journals.sagepub.com/doi/full/10.1177/0956797611430953?casa_token=6ZCAk1BdpFQAAAAA%3AFMVg1J6IAA-PbzLzBwzLBc3-Xx4BH_uXxugsF5DNNSaQv8RA3lZJSIB1N3OzgRfxC3X2ZJ2MHPc)
+Behaviours that have been classified by some authors<sup>[12](https://doi.org/10.17226/21896), [13](https://doi.org/10.1177/0149206315619011)
 </sup> as questionable research practices include:
 
 * Inflating a researcher's publication record by listing papers as 'in press' when they have not yet been accepted by a journal
 * Inaccurate research summaries in abstracts or incomplete reporting of research methods (e.g., failing to report all research conditions or study variables)
-* p-hacking[<sup>14</sup>](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106#sec001) or the selective reporting of variables, data points, or data analyses that produce statistically significant results
+* p-hacking[<sup>14</sup>](https://doi.org/10.1371/journal.pbio.1002106) or the selective reporting of variables, data points, or data analyses that produce statistically significant results
 
-Research misconduct and questionable research practices lead to a number of consequences[<sup>15</sup>](https://link.springer.com/article/10.1007%252FPL00022268); such as wasting research funding, decreasing the trustworthiness of research, researchers, and research institutions, and in the case of child research, potentially misdirecting policy decisions and future public funding.
+Research misconduct and questionable research practices lead to a number of consequences[<sup>15</sup>](https://doi.org/10.17226/21896); such as wasting research funding, decreasing the trustworthiness of research, researchers, and research institutions, and in the case of child research, potentially misdirecting policy decisions and future public funding.
 
 Currently, there are great initiatives to improve transparency and accuracy in research, such as [pre-registration](https://www.cos.io/initiatives/prereg), [registered reports](https://www.cos.io/initiatives/registered-reports), and [the open sharing of data sets and research materials](https://www.cos.io/initiatives/badges). These open science practices are becoming increasingly popular within the scientific community.  
 
