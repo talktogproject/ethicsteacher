@@ -74,7 +74,7 @@ The ultimate goal is for participants to _understand_ what the study is about, w
 | Reimbursement or compensation; if none, this should also be stated | Note: Participants should not be coerced to participate by offering disproportionate rewards for participating or punishments for not participating |
 | Potential benefits of the research, which may be direct or indirect to the participant | "There are no direct benefits to you; however, the results of this study will contribute to our understanding of oral language development" |
 | **How to contact the research team** |
-| Who is in charge of the project? | Name and contact details of the principal investigator |
+| Who is in charge of the project? | Name and contact details of the named research association, the India co-investigator and the principal investigator |
 
 As you can see, this is a lot of information to share! Make sure to give enough time for the participant to think about whether they still want to participate after receiving this information. Also, make sure to answer any questions that they might have about the study.
 
