@@ -9,9 +9,9 @@
 
 ## Processing Your Data
 
-As part of your research, you are probably creating, encoding, storing, analysing, and archiving data about individuals. This comes with the responsibility to maintain participants' privacy and to use data about them in a fair and responsible way. In the United Kingdom and the European Union, the GDPR (General Data Protection Regulation) provides a legal framework for doing so. We will use GDPR-related terminology in this section; however, we think that researchers from non-EU countries can also think about how these regulations can be adopted for research in their respective areas.
+As part of your research, you are probably creating, encoding, storing, analysing, and archiving data about individuals. This comes with the responsibility to maintain participants' privacy and to use data about them in a fair and responsible way. In the United Kingdom and the European Union, the [GDPR (General Data Protection Regulation)](https://gdpr-info.eu/) provides a legal framework for doing so. We will use GDPR-related terminology in this section; however, we think that researchers from non-EU countries can also think about how these regulations can be adopted for research in their respective areas.
 
-The kind of research that child researchers do often involves the processing of _personal data_.<sup>[1](https://researchsupport.admin.ox.ac.uk/files/dataprotectionandresearchpdf)</sup>
+School-based research does often involve the processing of _personal data_.<sup>[1](https://researchsupport.admin.ox.ac.uk/files/dataprotectionandresearchpdf)</sup>
 
 > Personal data is information which relates to a living individual who can be identified from that information,  whether  directly  or  indirectly,  and  in  particular  by  reference  to  an  identifier. 
 
@@ -20,18 +20,19 @@ This includes a person's:
 - identification number
 - location data
 - online identifier (e.g., IP address)
+- individual’s characteristics, whether physical, physiological, genetic, cultural or social
 
-The GPDR also considers certain types of data to be especially private and can expose participants to potential discrimination. These include data about a person's:
+The GPDR also considers certain types of data to be especially private and can expose participants to potential discrimination. These types of data are called _special category personal data_ and can include data about a person's:
 - racial or ethnic origin
 - political opinions
 - religious or philosophical beliefs
-- membership in a trade union
-- genetic or biometric data
+- trade union membership
+- genetic data
+- biometric data for the purpose of uniquely identifying a person
 - health
-- sex life
-- sexuality
+- sex life and sexuality
 
-Extra care is needed for these _special category personal data_.
+Extra care is needed for special category personal data.
 
 ### Anonymous and pseudonymous data
 
@@ -42,7 +43,7 @@ Some practices for responsible pseudonymisation:
 - Store the list securely using password protection and/or by storing lists in locked cabinets.
 - Do not share the above list with anyone outside the research team.
 
-Audio or video recorded data present additional challenges. Participants might reveal personal information about themselves or other people during the recording. Additionally, participants' voices and faces make them more readily identifiable than pen and paper or questionnaire-based data collection methods. The CHILDES database lists different levels of data access for audio and video data<sup>[2](https://talkbank.org/share/irb/options.html)</sup>. This includes audio bleeping, video blurring, and the replacement of last names and addresses in transcripts. Importantly, research involving photo, audio, or video recordings should have consent forms that explicitly ask for participants' agreement for these recordings to be made and used for specified purposes. You can access a [sample template at the University of Oxford website](https://researchsupport.admin.ox.ac.uk/files/writtenconsentformtemplatedocx).
+Audio or video recorded data present additional challenges. Participants might reveal personal information about themselves or other people during the recording. Additionally, participants' voices and faces make them more readily identifiable than pen and paper or questionnaire-based data collection methods. The TalkBank project lists different levels of data access for audio and video data<sup>[2](https://talkbank.org/share/irb/options.html)</sup>. This includes audio bleeping, video blurring, and the replacement of last names and addresses in transcripts. Importantly, research involving photo, audio, or video recordings should have consent forms that explicitly ask for participants' agreement for these recordings to be made and used for specified purposes. You can access a [sample template at the University of Oxford website](https://researchsupport.admin.ox.ac.uk/files/writtenconsentformtemplatedocx).
 
 ### Data protection principles
 
