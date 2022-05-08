@@ -1,6 +1,6 @@
 <img src="https://talktogproject.github.io/teacherstudy/img/TT-OX-TPF.png" style="display: block; margin: auto;">
 
-# RESEARCH INTEGRITY & ETHICS FOR SCHOOl-BASED RESEARCH IN LOW- AND MIDDLE-INCOME COUNTRIES
+# RESEARCH INTEGRITY & ETHICS FOR SCHOOL-BASED RESEARCH IN LOW- AND MIDDLE-INCOME COUNTRIES
 ## A TalkTogether training course
 
 ### Course objectives
