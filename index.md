@@ -1,4 +1,4 @@
-<img src="https://github.com/talktogproject/ethicsteacherstudy/blob/gh-pages/img/TT-OX-TPF.png" style="display: block; margin: auto;">
+<img src="https://talktogproject.github.io/ethicsteacherstudy/img/TT-OX-TPF.png" style="display: block; margin: auto;">
 
 # RESEARCH INTEGRITY & ETHICS FOR SCHOOl-BASED RESEARCH IN LOW- AND MIDDLE-INCOME COUNTRIES
 ## A TalkTogether training course
