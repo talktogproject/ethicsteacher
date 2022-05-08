@@ -13,7 +13,7 @@ As stated in the British Psychological Association (BPS) Code of Human Research 
 
 > Good research "is only possible if there is mutual respect and trust between investigators and participants." (p.4 )
 
-Because child research almost always involves research with human participants, we adopt four principles outlined by BPS; namely:
+Because school-based research almost always involves research with human participants, we adopt four principles outlined by BPS; namely:
 
 ### **1. Respect for the autonomy, privacy, and dignity of individuals and communities**
 
