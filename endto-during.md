@@ -41,7 +41,7 @@ The safety and privacy of researchers must also be taken seriously. Here are som
 - Inform your supervisor or a contact person of scheduled visits to participants' homes or non-public places. Keep them informed about your arrival and departure from the location. If a contact person does not hear from you after a scheduled visit, they should call you.
 - If you have any concerns about the situation, then you should leave immediately.
 
-In the case of international collaborations, safety standards should apply equally to members of the international team and the local research teams. Although it is not always easy to anticipate problems that can occur during research, it is good for a researcher or research team to agree ahead of time about a way to report an incident that affects participant or researcher safety in any way.
+Safety standards should apply equally to all members of the research team whether they are resident in research sites or the national and international project offices. Although it is not always easy to anticipate problems that can occur during research, it is good for a researcher or research team to agree ahead of time about a way to report an incident that affects participant or researcher safety in any way.
 
 * * *
 #### How this supports the BPS ethics principle of _social responsibility_ and _maximising benefit and minimising harm_
