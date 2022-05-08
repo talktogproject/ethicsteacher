@@ -55,12 +55,12 @@ Different ethics committees have different requirements. Typically, ethics commi
 
 The ultimate goal is for participants to _understand_ what the study is about, what is being asked of them, and what their rights are as participants. The BPS recommends preparing a participant information sheet containing details about the study<sup>[1](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf)</sup>, such as the following:
 
-| General header | Examples of statements or information you can provide |
+|  | Examples of statements or information you can provide |
 |----------------------------------  |-----|
 | **What the study is about** |
-| The aim(s) of the study | "To understand how Kannada-speaking children learn new words" |
-| What data will be collected | Demographic information, opinions or attitudes about something, scores on a task|
-| How data will be collected | Through a pen and paper task, using an online questionnaire, by taking audio or video recordings |
+| The aim(s) of the study | "To understand how teachers deliver oral language teaching for 3- to 6-year-olds" |
+| What data will be collected | Demographic information, opinions or attitudes about something, scores on a task |
+| How data will be collected | Through individual interviews and focus group discussions |
 | How long it will take to participate | "Two sessions lasting 30-40 minutes each" |
 | **Participants' rights** |
 | The right to withdraw participation | "You are free to withdraw from the study at any time without giving any reason and with no negative consequences" |
@@ -72,7 +72,7 @@ The ultimate goal is for participants to _understand_ what the study is about, w
 | **Risks and benefits of participating in the research** |
 | Risks of participation and how they are managed | "You may get tired from answering a long survey; hence we are limiting the session to 30-40 minutes" |
 | Reimbursement or compensation; if none, this should also be stated | Note: Participants should not be coerced to participate by offering disproportionate rewards for participating or punishments for not participating |
-| Potential benefits of the research, which may be direct or indirect to the participant | "There are no direct benefits to you or your child; however, the results of this study will contribute to our understanding of Kannada language development" |
+| Potential benefits of the research, which may be direct or indirect to the participant | "There are no direct benefits to you; however, the results of this study will contribute to our understanding of oral language development" |
 | **How to contact the research team** |
 | Who is in charge of the project? | Name and contact details of the principal investigator |
 
@@ -88,7 +88,7 @@ In certain cases, consent might be taken orally with an audio recorder or with a
 
 Although many research committees consider parental or caregiver consent to be enough for child participants, it is also ideal to gain assent from the children participating in the study. Assent from a child is an active agreement to participate in the research study. Ways of gaining assent will differ depending on the age of the child. For example, a teenager may be able to read and sign an assent form, but for a younger child, the researcher may need to explain what is happening orally and/or with the aid of pictures.
 
-Many universities have templates for participant information sheets and consent (and assent) forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101). The website also contains advice specifically for [collecting data online](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse394966), wherein researchers may not have any direct contact with participants.
+Many universities have templates for participant information sheets and consent (and assent) forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101), approved procedures for [researching teachers and teaching in education settings](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/ap#collapse397146), and a best practice guide for [collecting data online](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse394966), wherein researchers may not have any direct contact with participants.
 
 Check if your research group, organization, or ethics committee has required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
 
