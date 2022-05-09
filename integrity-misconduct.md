@@ -41,7 +41,7 @@ Research studies involving human participants follow protocols to ensure that pa
 
 ### **Improper dealing with misconduct allegations**
 
-These involve attempts by individuals or organizations to cover up research misconduct or silence whistleblowers. Knowing the true extent of research misconduct in research is difficult. Naturally, very few researchers admit to committing research misconduct themselves[<sup>9</sup>](https://doi.org/10.1371/journal.pone.0005738) and it is still difficult to access complete and transparent reports of misconduct investigations in universities, at least in the UK[<sup>10</sup>](https://www.nature.com/articles/d41586-018-05697-7).
+These involve attempts by individuals or organizations to cover up research misconduct or silence whistleblowers. Knowing the true extent of research misconduct in research is difficult. Naturally, very few researchers admit to committing research misconduct themselves[<sup>9</sup>](https://doi.org/10.1371/journal.pone.0005738) and it is still difficult to access complete and transparent reports of misconduct investigations in universities, at least in the UK[<sup>10</sup>](https://doi.org/10.1038/d41586-018-05697-7).
 
 ## Serious Misconduct vs. Questionable Research Practices
 
@@ -54,7 +54,7 @@ Behaviours that have been classified by some authors<sup>[12](https://doi.org/10
 * Inaccurate research summaries in abstracts or incomplete reporting of research methods (e.g., failing to report all research conditions or study variables)
 * p-hacking[<sup>14</sup>](https://doi.org/10.1371/journal.pbio.1002106) or the selective reporting of variables, data points, or data analyses that produce statistically significant results
 
-Research misconduct and questionable research practices lead to a number of consequences[<sup>15</sup>](https://doi.org/10.17226/21896); such as wasting research funding, decreasing the trustworthiness of research, researchers, and research institutions, and in the case of child research, potentially misdirecting policy decisions and future public funding.
+Research misconduct and questionable research practices lead to a number of consequences<sup>[15](https://doi.org/10.1016/S0140-6736(17)31201-1), [16](https://doi.org/10.1016/S0140-6736(19)31575-2), [17](https://doi.org/10.1016/S0140-6736(19)32933-2)</sup>; such as wasting research funding, decreasing the trustworthiness of research, researchers, and research institutions, and in the case of school-based research, potentially misdirecting policy decisions and future public funding.
 
 Currently, there are great initiatives to improve transparency and accuracy in research, such as [pre-registration](https://www.cos.io/initiatives/prereg), [registered reports](https://www.cos.io/initiatives/registered-reports), and [the open sharing of data sets and research materials](https://www.cos.io/initiatives/badges). These open science practices are becoming increasingly popular within the scientific community.  
 
