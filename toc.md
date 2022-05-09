@@ -19,6 +19,3 @@
 4. [Implementing Your Study](endto-during.md)
 5. [Processing Your Data](endto-after.md)
 6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6hy3n0uxR65TyV7) *password required*
-
-**Section III: Live discussion and Q&A**
-1. [Instructions for Live Discussion and Q&A](discussion.md)
