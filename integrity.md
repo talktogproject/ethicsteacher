@@ -17,12 +17,14 @@ It is about conducting research that is scientifically rigorous and trustworthy,
 
 > The scientific enterprise is built on a foundation of trust. Society trusts that scientific research results are an honest and accurate reflection of a researcher’s work. Researchers equally trust that their colleagues have gathered data carefully, have used appropriate analytic and statistical techniques, have reported their results accurately, and have treated the work of other researchers with respect.
 
-Researchers should then<sup>[2](https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/research_integrityv6_web.pdf)</sup>:
+Researchers should then<sup>[2](https://researchsupport.admin.ox.ac.uk/files/researchintegritywebpdf)</sup>:
 
-* be aware of existing laws, codes of practice, policies, and publication rules in their field
-* gain the necessary skills and training (including ethics training) applicable to their field
-* take the initiative in asking questions or raising concerns when issues arise
-* be transparent and accountable to their peers and their organization
+* be aware of the legislation, codes of practice and University policies relevant to their field
+* have the necessary skills and training for their field
+* be aware of the publication rules for the journals they want to publish in
+* ask if they feel something isn’t quite right
+* not ignore problems
+* be accountable to the organization and their peers for the conduct of their research
 
 The responsibility to uphold research integrity rests not only on the individual researcher, but also on their colleagues, collaborators, universities and organizations, funding agencies, and the wider scientific community.
 
