@@ -2,10 +2,10 @@
 
 1. [Core Principles](endto.md)
 2. [Planning Your Study](endto-before.md)
-3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6DPYZYDwcKEhuWV) *password required*
+3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_9KzfIiQ1JzPVF30) *password required*
 4. **Implementing Your Study**
 5. [Processing Your Data](endto-after.md)
-6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6hy3n0uxR65TyV7) *password required*
+6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_2i6gHopTXrVjlsO) *password required*
 
 ## Implementing Your Study
 
