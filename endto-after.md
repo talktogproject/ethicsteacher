@@ -95,5 +95,5 @@ As you can see, research integrity and ethics cover every stage of the research 
 
 This may be a lot of information to digest now but applying these research integrity and ethical principles can make your research more rigorous and trustworthy overall.
 
-## NEXT: [Take Quiz 2 of Section II on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6hy3n0uxR65TyV7)
+## NEXT: [Take Quiz 2 of Section II on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_2i6gHopTXrVjlsO)
 ### [Click to view the Course Navigation page](toc.md)
