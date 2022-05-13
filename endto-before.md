@@ -114,5 +114,5 @@ Submitting an ethics application for review and keeping your ethics committee in
 
 Ethics does not end with planning and getting ethics approval. It continues during the implementation of the study and after that. But before we proceed, how about a quiz?
 
-## NEXT: [Take Quiz 1 of Section II on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6DPYZYDwcKEhuWV)
+## NEXT: [Take Quiz 1 of Section II on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_9KzfIiQ1JzPVF30)
 ### [Click to view the Course Navigation page](toc.md)
