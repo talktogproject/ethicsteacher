@@ -2,7 +2,7 @@
 
 ## Instructions
 
-### 1. Download and study [the 4 scenarios](https://github.com/talktogproject/ethics/raw/gh-pages/casevignettes.pdf) ahead of the live discussion. 
+### 1. Download and study [the 4 scenarios](https://github.com/talktogproject/ethics/raw/gh-pages/scenarios.pdf) ahead of the live discussion. 
 
 Try to answer these 3 questions using concepts and principles you learned in the online course:
 * Problem Assessment: What went wrong in this situation?
